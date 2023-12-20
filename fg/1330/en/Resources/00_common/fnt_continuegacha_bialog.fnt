@@ -1,0 +1,22 @@
+info face="fnt_continuegacha_bialog" size=32 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1
+common lineHeight=80 base=25 scaleW=112 scaleH=56 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="fnt_continuegacha_bialog.png"
+chars count=10
+char id=114 x=0 y=155 width=76 height=76 xoffset=0 yoffset=1 xadvance=40 page=0 chnl=0 letter="r"
+char id=116 x=0 y=78 width=77 height=76 xoffset=0 yoffset=1 xadvance=40 page=0 chnl=0 letter="t"
+char id=115 x=0 y=0 width=77 height=77 xoffset=0 yoffset=1 xadvance=70 page=0 chnl=0 letter="s"
+char id=33 x=264 y=0 width=31 height=70 xoffset=0 yoffset=6 xadvance=34 page=0 chnl=0 letter="!"
+char id=48 x=141 y=0 width=62 height=77 xoffset=0 yoffset=1 xadvance=55 page=0 chnl=0 letter="0"
+char id=49 x=263 y=156 width=45 height=74 xoffset=0 yoffset=3 xadvance=40 page=0 chnl=0 letter="1"
+char id=50 x=203 y=156 width=59 height=76 xoffset=0 yoffset=1 xadvance=52 page=0 chnl=0 letter="2"
+char id=51 x=203 y=78 width=60 height=77 xoffset=0 yoffset=1 xadvance=53 page=0 chnl=0 letter="3"
+char id=52 x=77 y=155 width=63 height=74 xoffset=0 yoffset=1 xadvance=56 page=0 chnl=0 letter="4"
+char id=53 x=78 y=78 width=61 height=76 xoffset=0 yoffset=1 xadvance=54 page=0 chnl=0 letter="5"
+char id=54 x=141 y=156 width=61 height=77 xoffset=0 yoffset=1 xadvance=54 page=0 chnl=0 letter="6"
+char id=55 x=204 y=0 width=59 height=74 xoffset=0 yoffset=1 xadvance=48 page=0 chnl=0 letter="7"
+char id=56 x=78 y=0 width=62 height=77 xoffset=0 yoffset=1 xadvance=52 page=0 chnl=0 letter="8"
+char id=57 x=141 y=78 width=61 height=77 xoffset=0 yoffset=1 xadvance=54 page=0 chnl=0 letter="9"
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=85 page=0 chnl=0 letter=" "
+char id=9 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=680 page=0 chnl=0 letter="	"
+
+kernings count=0
