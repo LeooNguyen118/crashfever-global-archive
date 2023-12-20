@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CAPTION</key>
+	<string>Transfer Data</string>
+	<key>HOWTO_TITLE</key>
+	<string>How to Transfer Data</string>
+	<key>HOWTO_DESCRIPTION</key>
+	<string>Learn how to transfer your data.</string>
+	<key>TAKEOVER_TITLE</key>
+	<string>Perform Data Backup</string>
+	<key>TAKEOVER_CAPTION</key>
+	<string>発行する</string>
+	<key>TAKEOVER_DESCRIPTION</key>
+	<string>Enable data transfer between devices.</string>
+	<key>TAKEOVER_CONFIRM</key>
+	<string>
+	
+You are about to save your
+game data. Once saved, all
+data will be &lt;font color=&apos;yellow&apos;&gt;auto-saved&lt;/font&gt;,
+removing the need to do it
+manually.
+
+To save your data, you must
+have a &lt;font color=&apos;yellow&apos;&gt;Google&lt;/font&gt; account.
+
+&lt;font color=&apos;red&apos;&gt;CAUTION
+Polygons cannot be transferred
+between operating systems.&lt;/font&gt;</string>
+	<key>TAKEOVER_COMPLETE</key>
+	<string>Successfully logged in.
+From now on, your game data
+will be &lt;font color=&apos;yellow&apos;&gt;saved automatically&lt;/font&gt;.
+Data will be transferred via
+your Google account. Log in to your account
+from your new device,
+then load your play data.
+
+For more details, see
+&lt;font color=&apos;yellow&apos;&gt;How to Transfer Data&lt;/font&gt;.</string>
+	<key>TAKEOVER_CONFIRM_REGENERATE</key>
+	<string>引き継ぎ ID・パスワードは
+すでに発行済みです。
+再発行しますか？
+
+&lt;font color=&quot;red&quot;&gt;＊ 注意 ＊
+再発行をすると今のパスワードは
+使えなくなります。&lt;/font&gt;</string>
+	<key>TAKEOVER_AUTHENTICATE_FAILED</key>
+	<string>Failed to verify Google Sign-In.</string>
+	<key>LOGIN_DESCRIPTION</key>
+	<string>Verifying...</string>
+	<key>LOGIN_CANCEL</key>
+	<string>Cancel</string>
+	<key>OVERWRITE_CONFIRM</key>
+	<string>Game data for a different player
+has been found on this Google account.
+
+&lt;font color=&quot;yellow&quot;&gt;Player name: %s Rank: %s&lt;/font&gt;
+
+Saving your current game data
+will cause any previous data to be lost.
+
+Overwrite old data?</string>
+	<key>CLIPBOARD_TEXT</key>
+	<string>クラッシュフィーバー　引き継ぎ情報
+アナタの引き継ぎ ID
+%s
+アナタのパスワード
+%s</string>
+	<key>MESSAGE_COPIED</key>
+	<string>ID・パスワードをコピーしました</string>
+	<key>MAIL_SUBJECT</key>
+	<string>クラッシュフィーバー引き継ぎ情報</string>
+	<key>MAIL_BODY</key>
+	<string>クラッシュフィーバー　引き継ぎ情報
+アナタの引き継ぎ ID
+%s
+アナタのパスワード
+%s</string>
+	<key>OLD_HOWTO_TITLE</key>
+	<string>How to Transfer Data</string>
+	<key>OLD_HOWTO_DESCRIPTION</key>
+	<string>Learn how to transfer your data.</string>
+	<key>OLD_TAKEOVER_TITLE</key>
+	<string>Perform Data Backup</string>
+	<key>OLD_TAKEOVER_DESCRIPTION</key>
+	<string>Enable data transfer between devices.</string>
+	<key>OLD_TAKEOVER_CONFIRM</key>
+	<string>You are about to save your game data.
+Once saved, all data will be &lt;font color=&apos;yellow&apos;&gt;auto-saved&lt;/font&gt;,
+removing the need to do it manually.
+
+
+To save your data, please press the button below
+to log in to your &lt;font color=&apos;yellow&apos;&gt;Google Account&lt;/font&gt;
+
+&lt;font color=&apos;red&apos;&gt;＊ Warning ＊
+In the case that a different OS is used
+from changing your device and such,
+Polygons cannot be transferred due to Store policies.
+Other items shown in Items List,
+such as Mods, Lock Keys or Tickets,
+also cannot be transferred.&lt;/font&gt;</string>
+	<key>OLD_TAKEOVER_COMPLETE</key>
+	<string>Successfully logged in.
+From now on, your game data
+will be &lt;font color=&apos;yellow&apos;&gt;saved automatically&lt;/font&gt;.
+Data will be transferred via
+your Google account. Log in to your account
+from your new device,
+then load your play data.
+
+For more details, see
+&lt;font color=&apos;yellow&apos;&gt;How to Transfer Data&lt;/font&gt;.</string>
+
+	<key>OLD_TAKEOVER_COMPLETE_APPLE</key>
+	<string>Successfully logged in.
+From now on, your game data
+will be &lt;font color=&apos;yellow&apos;&gt;saved automatically&lt;/font&gt;.
+Data will be transferred via
+your Apple account. Log in to your account
+from your new device,
+then load your play data.
+
+For more details, see
+&lt;font color=&apos;yellow&apos;&gt;How to Transfer Data&lt;/font&gt;.</string>
+	
+	<key>OLD_TAKEOVER_AUTHENTICATE_FAILED</key>
+	<string>Failed to verify Google Sign-In.</string>
+	<key>OLD_LOGIN_DESCRIPTION</key>
+	<string>Verifying...</string>
+	<key>OLD_LOGIN_CANCEL</key>
+	<string>Cancel</string>
+	<key>OLD_OVERWRITE_CONFIRM</key>
+	<string>Game data for a different player
+has been found on this Google account.
+
+&lt;font color=&quot;yellow&quot;&gt;Player name: %s Rank: %s&lt;/font&gt;
+
+Saving your current game data
+will cause any previous data to be lost.
+
+Overwrite old data?</string>
+	<key>OVERWRITE_CONFIRM_APPLE</key>
+	<string>Player data is already registered
+with this account. 
+&lt;font color=&quot;yellow&quot;&gt;Player name: %s
+Rank: %s&lt;/font&gt;
+If you back up your progress with
+this account, the existing data will
+be overwritten. 
+Continue with backup?</string>
+	<key>RESET_ACCOUNT_TITLE</key>
+	<string>Data Deletion</string>
+	<key>RESET_ACCOUNT_DESCRIPTION</key>
+	<string>Completely delete this &lt;Crash Fever&gt; account.</string>
+	<key>RESET_ACCOUNT_MESSAGE_1</key>
+	<string>[Data Deletion]
+※Warning※
+
+In compliance with new app store regulations, 
+you can now choose to delete your account.
+
+After deleting your account, 
+data cannot be recovered and 
+app will be restored to the original state.
+
+Are you sure you want to delete your account?</string>
+	<key>RESET_ACCOUNT_MESSAGE_2</key>
+	<string>[Data Deletion]
+※Warning※
+
+Reminder.
+This action will not only delete
+the in-game temporary data
+but also the whole account data. 
+
+After deleting your account,
+the deletion is permanent and
+data cannot be recovered by any means.
+
+Are you sure you want to delete your account?</string>
+	<key>RESET_ACCOUNT_MESSAGE_3</key>
+	<string>[Data Deletion]
+※Notice※
+
+Your account has been deleted successfully.
+You have also been removed 
+from friend lists and ranking quest records.
+
+Click close to return to the title page.</string>
+	<key>RESET_ACCOUNT_OK</key>
+	<string>Delete</string>
+	<key>RESET_ACCOUNT_CANCEL</key>
+	<string>Cancel</string>
+	<key>RESET_ACCOUNT_CLOSE</key>
+	<string>Close</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PICKUP_UNIT_LABEL</key>
+	<string>Additional Bonus %d Slot</string>
+	<key>UNIT_INFO_TITLE</key>
+	<string>Bonus Unit</string>
+	<key>BONUS_INFO_TITLE</key>
+	<string>Extra Bonus</string>
+	<key>QUEST_INFO_TITLE</key>
+	<string>Quests List</string>
+	<key>INFO_NONE</key>
+	<string>None</string>
+</dict>
+</plist>

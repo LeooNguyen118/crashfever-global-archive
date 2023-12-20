@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> 
+<plist version="1.0">
+<dict>
+	<key>POLYGON</key>
+	<string>Polygons</string>
+	<key>BIT</key>
+	<string>Bits</string>
+	<key>LINK</key>
+	<string>Links</string>
+	<key>GHOST</key>
+	<string>Ghosts</string>
+	<key>TITLE</key>
+	<string>Title</string>
+	<key>EVALUATION_HEADER</key>
+	<string>&lt;font color="blue"&gt;Rating&lt;/font&gt; &lt;font color="red"&gt;%s&lt;/font&gt; &lt;font color="blue"&gt;achieved!&lt;/font&gt;</string>
+
+	<key>EVALUATION_BODY</key>
+	<string>[%s]</string>
+	
+	<key>EVALUATION_FOOTER</key>
+	<string>was sent to your Gift Box.</string>
+	<key>NEXT_EVALUATION_HEADER</key>
+	<string>Achieve rating &lt;font color=&quot;red&quot;&gt;%s&lt;/font&gt;  
+for these rewards.</string>
+</dict>
+</plist> 

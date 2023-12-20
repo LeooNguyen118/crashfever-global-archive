@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?> <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> <plist version="1.0">
+<dict>
+	<key>CAPTION</key>
+	<string>Select Mode</string>
+<key>TUTORIAL_LETS_SOLO</key>
+<string>Crash Fever can be played with
+up to 4 players. For now,
+tap Play Solo to play alone.</string>
+	<key>OLD_TUTORIAL_LETS_SOLO</key>
+	<string>Crash Fever can be played with
+up to 4 players. For now,
+tap Play Solo to play alone.</string>
+
+<key>AUTO_PLAY_INVALID</key>
+<string>Clear quest 1 time to
+use Auto.</string>
+
+</dict>
+</plist> 

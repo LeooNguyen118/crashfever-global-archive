@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+		<key>INVALID_PROFILE_COMMENT</key>
+	<string>Invalid profile comment.</string>
+	<key>NG_PROFILE_COMMENT</key>
+	<string>This comment is not accepted.</string>
+	<key>CHANGE_COMMENT</key>
+	<string>Enter comment.</string>
+	<key>RANK</key>
+	<string>Rank:%s</string>
+	<key>FRIEND_CODE</key>
+	<string>ID:%s</string>
+	<key>BUG_MAX</key>
+	<string>%s units</string>
+	<key>CATALOG</key>
+	<string>%s / %s</string>
+	<key>MAX_DAMAGE</key>
+	<string>%s</string>
+	<key>LOGIN_DAYS</key>
+	<string>%s Days</string>
+	<key>FRIENDS</key>
+	<string>%s / %s</string>
+	<key>STORY_PROGRESS</key>
+	<string>%s / %s</string>
+	<key>CAPTION</key>
+	<string>Profile</string>
+	<key>FAVORITE_UNIT_SELECT</key>
+	<string>Select your favorite unit</string>
+	<key>DEFAULT_COMMENT</key>
+	<string>Nice meeting you!</string>
+	<key>TWEET_MESSAGE</key>
+	<string>Let's play Crash Fever together!
+	
+%s	
+#CrashFever	
+#CrashFeverProfile</string>	
+	<key>PREVIEW_DIALOG</key>
+	<string>Following image will be posted.</string>
+</dict>
+</plist>

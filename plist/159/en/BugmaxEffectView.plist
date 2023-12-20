@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CAPTION</key>
+	<string>Bug Max Effect</string>
+	<key>LEVEL</key>
+	<string>Lv.%d</string>
+	<key>BUGMAX_COUNT</key>
+	<string>%d units</string>
+	<key>BUG_REQUIRED</key>
+	<string>Bug Max Units: %d</string>
+	<key>NEXT_REQUIRED</key>
+	<string>Until next Bug MAX effect: %d</string>
+	<key>TUTORIAL_1</key>
+	<string>About Bug Max Effect.
+When you collect a certain amount of Bug MAX units,
+your units will gain additional buffs!
+
+Bug MAX effect works on all units.
+The more you collect, the stronger your characters will become.</string>
+	<key>TUTORIAL_2</key>
+	<string>You can check for how many
+Bug MAX characters you currently have at here.</string>
+	<key>TUTORIAL_3</key>
+	<string>You can check here for
+the Bug MAX effects that are currently activated.</string>
+	<key>TUTORIAL_4</key>
+	<string>You can check here for the Bug MAX Effect List.
+Click the Bug MAX Effect List to check! </string>
+	
+	<key>TUTORIAL_5</key>
+	<string>Check here for how many BUG MAX units
+are required to active Bug MAX Effects</string>
+	<key>TUTORIAL_6</key>
+	<string>Collect Bug Max units!</string>
+	<key>TUTORIAL_DIALOG_BUTTON_1</key>
+	<string>Challenge</string>
+	<key>TUTORIAL_DIALOG_BUTTON_2</key>
+	<string>Skip</string>
+	<key>TUTORIAL_DIALOG_MESSAGE</key>
+	<string>Now you can challenge
+the Bug MAX Effect tutorial.
+Challenge?</string>
+	<key>TUTORIAL_SKIP</key>
+	<string>Skip the tutorial.</string>
+</dict>
+</plist>

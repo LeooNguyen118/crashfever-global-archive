@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?> <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> <plist version="1.0">
+<dict>
+	<key>CAPTION_RARE_GACHA</key>
+	<string>Rare Hatcher</string>
+	<key>CAPTION_LINK_GACHA</key>
+	<string>Link Hatcher</string>
+	<key>CAPTION_TICKET_GACHA</key>
+	<string>Ticket Hatcher</string>
+	<key>CAPTION_GACHA_LIST</key>
+	<string>Hatcher</string>
+	<key>LABEL_MULTI_RARE_GACHA</key>
+	<string>Rare Hatcher</string>
+	<key>LABEL_MULTI_LINK_GACHA</key>
+	<string>Link Hatcher</string>
+	<key>LABEL_MULTI_TICKET_GACHA</key>
+	<string>Ticket Hatcher</string>
+	<key>RARE_GACHA_CONFIRM</key>
+	<string>Use &lt;font color=&apos;red&apos;&gt;%d&lt;/font&gt; &lt;font color=&apos;red&apos;&gt;Polygon(s)&lt;/font&gt;
+to pull Rare Hatcher %d time(s). 
+Continue?</string>
+	<key>RARE_GACHA_LACK_POLYGONS</key>
+	<string>You don't have enough Polygons.
+	
+Owned : &lt;font color=&apos;red&apos;&gt;%d&lt;/font&gt; Polygon(s)
+1 Try : &lt;font color=&apos;red&apos;&gt;%d&lt;/font&gt; Polygons</string>
+	<key>RARE_GACHA_DRAW</key>
+	<string>Use Hatcher</string>
+	<key>RARE_GACHA_BUY_POLYGONS</key>
+	<string>Purchase</string>
+	<key>RARE_GACHA_CANCEL</key>
+	<string>Cancel</string>
+	<key>LINK_GACHA_OWN</key>
+	<string>Links owned: &lt;font color='red'&gt;%s&lt;/font&gt;</string>
+	<key>LINK_GACHA_COST</key>
+	<string>Times: %s for &lt;font color='red'&gt;%s&lt;/font&gt; Links</string>
+	<key>LINK_GACHA_MESSAGE</key>
+	<string>%s Links to use
+the Link Hatcher one time.</string>
+	<key>LINK_GACHA_DRAW</key>
+	<string>Times: %d</string>
+	<key>LINK_GACHA_CANCEL</key>
+	<string>Cancel</string>
+	<key>LINK_GACHA_LACK_LINKS</key>
+	<string>You don't have enough links. Earn links by teaming up with helpers for quests.</string>
+	<key>TICKET_GACHA_CONFIRM</key>
+	<string>Use &lt;font color='red'&gt;%s&lt;/font&gt; x &lt;font color="orange"&gt;%s&lt;/font&gt;
+to use the Hatcher %s time(s)?
+&lt;font color="orange"&gt;%s&lt;/font&gt;
+Available: &lt;font color='red'&gt;%s&lt;/font&gt;</string>
+	<key>TICKET_GACHA_LACK_TICKETS</key>
+	<string>Insufficient tickets.
+&lt;font color="orange"&gt;%s&lt;/font&gt;.</string>
+	<key>TICKET_GACHA_DRAW</key>
+	<string>Use Hatcher</string>
+	<key>GACHA_SKIP</key>
+	<string>Skip animation</string>
+	<key>DRAWABLE_TIMES</key>
+	<string>
+
+Times remaining: &lt;font color="red"&gt;%d&lt;/font&gt;</string>
+	<key>LEGAL_NOTICE_1</key>
+	<string>
+	
+	
+&lt;font size=&quot;18&quot;&gt;※ Click 'Pull' to consume Polygons
+to pull Hatcher.
+※ This action cannot be undone.　&lt;/font&gt;</string>
+	<key>LEGAL_NOTICE_2</key>
+	<string>
+	
+	
+&lt;font size=&quot;18&quot;&gt;※ Click 'Pull' to consume Polygons
+to pull Hatcher.
+※ This action cannot be undone.
+※ Expiry Date: %Y-%m-%d %H:%M　&lt;/font&gt;</string>
+	<key>ERROR_NOT_LWF_FILE</key>
+	<string>The data file is corrupt. Please try the following: - Free up memory space on your device (more than 1GB). - Attempt data recovery on the title screen. &lt;font color = 'red'&gt;Note: Units have been reflected in your folder.&lt;/font&gt;</string>
+
+	<key>TITLE_BEGINNER_GACHA</key>
+	<string>Beginner</string>
+	<key>GACHA_PERIOD_SUNDAY</key>
+	<string>Ends: %m/%d %H:%M</string>
+	<key>GACHA_PERIOD_MONDAY</key>
+	<string>Ends: %m/%d %H:%M</string>
+	<key>GACHA_PERIOD_TUESDAY</key>
+	<string>Ends: %m/%d %H:%M</string>
+	<key>GACHA_PERIOD_WEDNESDAY</key>
+	<string>Ends: %m/%d %H:%M</string>
+	<key>GACHA_PERIOD_THURSDAY</key>
+	<string>Ends: %m/%d %H:%M</string>
+	<key>GACHA_PERIOD_FRIDAY</key>
+	<string>Ends: %m/%d %H:%M</string>
+	<key>GACHA_PERIOD_SATURDAY</key>
+	<string>Ends: %m/%d %H:%M</string>
+	<key>GACHA_PERIOD_UNLIMITED</key>
+	<string>Continuous</string>
+	<key>NO_GACHA_EXISTS</key>
+	<string>No Hatchers
+	currently available</string>
+	<key>PAID_GACHA_CONFIRM</key>
+	<string> &lt;font color=&apos;red&apos;&gt;%d&lt;/font&gt; Use Paid Polygons
+for the %dx Hatcher
+Continue?
+Paid Polygons: %d</string>
+	<key>PAID_GACHA_LACK_POLYGONS</key>
+	<string>Current paid Polygons: &lt;font color=&apos;red&apos;&gt;%d&lt;/font&gt;
+1 pull: &lt;font color=&apos;red&apos;&gt;%d&lt;/font&gt; Polygons
+Insufficient Polygons</string>
+</dict>
+</plist>

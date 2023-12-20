@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SUCCESS_RESET</key>
+	<string>Reset successful.</string>
+	<key>CONFIRM_CHALLENGE</key>
+	<string>Challenge this Enigma Quest?
+	
+Current Energy: %d
+Energy Use: %d</string>
+	<key>CAPTION_3</key>
+	<string>Enigma Quest 3×3</string>
+	<key>CAPTION_4</key>
+	<string>Enigma Quest 4×4</string>
+	<key>CAPTION_5</key>
+	<string>Enigma Quest 5×5</string>
+	<key>LOCK_TRAVERSAL_3</key>
+	<string>Clear Enigma Quest 3×3 to unlock</string>
+	<key>LOCK_TRAVERSAL_4</key>
+	<string>Clear Enigma Quest 4×4 to unlock</string>
+	<key>RESET</key>
+	<string>Reset</string>
+</dict>
+</plist>

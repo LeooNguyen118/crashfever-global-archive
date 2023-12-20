@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?> <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> <plist version="1.0">
+<dict>
+	<key>CAPTION</key>
+	<string>Unit</string>
+	<key>FORMATION_TITLE</key>
+	<string>Form Party</string>
+	<key>FORMATION_DESCRIPTION</key>
+	<string>Form or select a party for quests.</string>
+	<key>ENHANCE_TITLE</key>
+	<string>Enhance Units</string>
+	<key>ENHANCE_DESCRIPTION</key>
+	<string>Enhance a unit's status.</string>
+	<key>AWAKENING_TITLE</key>
+	<string>Awaken Units</string>
+	<key>AWAKENING_DESCRIPTION</key>
+	<string>Awaken units to increase power.</string>
+	<key>EX_AWAKENING_TITLE</key>
+	<string>Evolve unit</string>
+	<key>EX_AWAKENING_DESCRIPTION</key>
+	<string>Evolve unit to become more powerful.</string>
+	<key>DISPOSAL_TITLE</key>
+	<string>Sell Units</string>
+	<key>DISPOSAL_DESCRIPTION</key>
+	<string>Exchange units for Bits.</string>
+	<key>FOLDER_TITLE</key>
+	<string>Folder</string>
+	<key>FOLDER_DESCRIPTION</key>
+	<string>View units you own.</string>
+	<key>MATERIAL_FOLDER_TITLE</key>
+	<string>Enhancement・Awakening Materials</string>
+	<key>MATERIAL_FOLDER_DESCRIPTION</key>
+	<string>Check available materials</string>
+	<key>ITEM_STORE_TITLE</key>
+	<string>Item Exchange</string>
+	<key>ITEM_STORE_DESCRIPTION</key>
+	<string>Item and Unit Exchange</string>
+	<key>REDUCE_LIMITBREAKS_TITLE</key>
+	<string>Limit Break Reset</string>
+	<key>REDUCE_LIMITBREAKS_DESCRIPTION</key>
+	<string>Convert fruit fused with units into Bits.</string>
+	<key>CATALOG_TITLE</key>
+	<string>Unit Database</string>
+	<key>CATALOG_DESCRIPTION</key>
+	<string>View all units you've owned up to now.</string>
+	<key>BUGMAX_EFFECT_TITLE</key>
+	<string>Bug MAX Effect</string>
+	<key>BUGMAX_EFFECT_DESCRIPTION</key>
+	<string>Bug MAX Effect Details</string>
+	<key>UNLOCK_CRITERION_TEXT</key>
+	<string>Clear
+Quest %s</string>
+	<key>GHOST_STORE_TITLE</key>
+	<string>Ghost Store</string>
+	<key>GHOST_STORE_DESCRIPTION</key>
+	<string>Exchange Ghosts for units and more.</string>
+	<key>UNLOCK_CRITERION_TEXT</key>
+	<string>Quest %s
+CLEAR</string>
+	<key>EQUIP_WEAPON_TITLE</key>
+	<string>Equip Mod</string>
+	<key>EQUIP_WEAPON_DESCRIPTION</key>
+	<string>Equip Mods to units</string>
+	<key>SKIN_TITLE</key>
+	<string>Skin Change</string>
+	<key>SKIN_DESCRIPTION</key>
+	<string>Put Skin on unit</string>
+</dict>
+</plist>

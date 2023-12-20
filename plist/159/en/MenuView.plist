@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CAPTION</key>
+	<string>Menu</string>
+	<key>ITEM_LIST_TITLE</key>
+	<string>Item List</string>
+	<key>ITEM_LIST_DESCRIPTION</key>
+	<string>Items owned.</string>
+	<key>HELP_TITLE</key>
+	<string>Help</string>
+	<key>HELP_DESCRIPTION</key>
+	<string>Check here for game tips and advice.</string>
+	<key>SERIAL_CODE_TITLE</key>
+	<string>Enter Serial Code</string>
+	<key>SERIAL_CODE_DESCRIPTION</key>
+	<string>Redeem code for presents.</string>
+	<key>SETTING_TITLE</key>
+	<string>Settings</string>
+	<key>SETTING_DESCRIPTION</key>
+	<string>Adjust name, title, audio, notifications.</string>
+	<key>JUKEBOX_TITLE</key>
+	<string>Music Player</string>
+	<key>JUKEBOX_DESCRIPTION</key>
+	<string>Play your favorite Crash Fever tunes</string>
+	<key>WIKI_TITLE</key>
+	<string>Link</string>
+	<key>WIKI_DESCRIPTION</key>
+	<string>Take a look at Crash Fever's social media</string>
+	<key>TAKEOVER_TITLE</key>
+	<string>Data Management</string>
+	<key>TAKEOVER_DESCRIPTION</key>
+	<string>Backup data or delete your account.</string>
+	<key>OTHER_TITLE</key>
+	<string>Other</string>
+	<key>OTHER_DESCRIPTION</key>
+	<string>View Terms of Use, etc.</string>
+	<key>SUPPORT_TITLE</key>
+	<string>Contact Us</string>
+	<key>SUPPORT_DESCRIPTION</key>
+	<string>View details on how to contact us.</string>
+	<key>GOTO_TITLE_TITLE</key>
+	<string>Title Screen</string>
+	<key>GOTO_TITLE_DESCRIPTION</key>
+	<string>Return to title screen.</string>
+	<key>PROFILE_TITLE</key>
+	<string>Profile</string>
+	<key>PROFILE_DESCRIPTION</key>
+	<string>Check your profile.</string>
+	<key>SELECT_LANGUAGE_TITLE</key>
+	<string>Language</string>
+	<key>SELECT_LANGUAGE_DESCRIPTION</key>
+	<string>How to change game language.</string>
+	<key>SELECT_LANGUAGE_DETAIL_DESCRIPTION</key>
+	<string>Perform a data backup
+(see Transfer Data section)
+then reinstall the app.</string>
+</dict>
+</plist>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CAPTION</key>
+	<string>Raid Boss List</string>
+	<key>RAID_FINISH_REWARD</key>
+	<string>Raid Rewards</string>
+	<key>LABEL_PARTICIPATION_NUM</key>
+	<string>%d</string>
+	<key>LABEL_TURN_NUM</key>
+	<string>%d</string>
+	<key>LABEL_BOSS_LV</key>
+	<string>Lv: %d </string>
+	<key>LABEL_HELP</key>
+	<string>Call for help from: %s</string>
+	<key>LABEL_MY_ADVENT</key>
+	<string>Boss spotted</string>
+	<key>LABEL_COIN</key>
+	<string>%d</string>
+	<key>LABEL_POINT</key>
+	<string>%d pts</string>
+	<key>LABEL_TITLE_MVP</key>
+	<string>MVP</string>
+	<key>LABEL_TITLE_SUB_MVP</key>
+	<string>2nd MVP</string>
+	<key>LABEL_TITLE_DISCOVER</key>
+	<string>Spotter</string>
+	<key>LABEL_TITLE_QUEST_REWORD</key>
+	<string>Participation</string>
+	<key>LABEL_TITLE_DAMAGE_REWORD</key>
+	<string>Total Damage</string>
+	<key>LABEL_TITLE_REMAIN_REWORD</key>
+	<string>Time Left</string>
+	<key>DIALOG_CLOSE</key>
+	<string>Close</string>
+	<key>DIALOG_LOOSE_LINKS</key>
+	<string>Links: %d</string>
+	<key>RAID_BOSS_PERIOD</key>
+	<string>Ends in: %H:%M:%S</string>
+	<key>LABEL_RAID_POINT_PRE</key>
+	<string>Points: </string>
+	<key>LABEL_RAID_POINT_SUF</key>
+	<string> pts</string>
+	<key>PRE_POINT_REWARDS</key>
+	<string>&lt;font color=&quot;blue&quot;&gt;Raid Points:&lt;/font&gt; &lt;font color=&quot;red&quot;&gt;%s&lt;/font&gt; &lt;font color=&quot;blue&quot;&gt;earned.&lt;/font&gt;</string>
+	<key>PRE_DEFEATED_REWARDS</key>
+	<string>&lt;font color=&quot;blue&quot;&gt;Kills:&lt;/font&gt; &lt;font color=&quot;red&quot;&gt;%s&lt;/font&gt; &lt;font color=&quot;blue&quot;&gt;achieved.&lt;/font&gt;</string>
+	<key>SUF_REWARDS</key>
+	<string>&lt;font color=&quot;red&quot;&gt;sent to Gift box&lt;/font&gt;</string>
+	<key>RAID_BOSS_EXPIRED</key>
+<string>Finished</string>
+</dict>
+</plist>

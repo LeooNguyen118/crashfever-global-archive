@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ENHANCE_ATTACK</key>
+	<string>ATK boost</string>
+	<key>DEGRADE_ATTACK</key>
+	<string>ATK lowered</string>
+	<key>ENHANCE_DEFENSE</key>
+	<string>DEF boost</string>
+	<key>DEGRADE_DEFENSE</key>
+	<string>DEF lowered</string>
+	<key>ENHANCE_HEAL</key>
+	<string>REC boost</string>
+	<key>DEGRADE_HEAL</key>
+	<string>REC lowered</string>
+	<key>ENHANCE_ACTION</key>
+	<string>Tap count raised</string>
+	<key>DEGRADE_ACTION</key>
+	<string>Tap count lowered</string>
+	<key>REDUCTION</key>
+	<string>%s attribute damage reduced</string>
+	<key>REDUCTION_ALL</key>
+	<string>All attribute damage reduced</string>
+	<key>TOLERANCE_VIRUS_PREVENTION</key>
+	<string>Anti-Virus</string>
+	<key>TOLERANCE_VIRUS_INVALID</key>
+	<string>Virus disabled</string>
+	<key>TOLERANCE_SKILLBIND_PREVENTION</key>
+	<string>Anti-Skill Bind</string>
+	<key>TOLERANCE_SKILLBIND_INVALID</key>
+	<string>Skill Bind disabled</string>
+	<key>TOLERANCE_SLEEP_PREVENTION</key>
+	<string>Anti-Sleep</string>
+	<key>TOLERANCE_SLEEP_INVALID</key>
+	<string>Sleep disabled</string>
+	<key>TOLERANCE_HACKING_PREVENTION</key>
+	<string>Anti-Hacking</string>
+	<key>TOLERANCE_HACKING_INVALID</key>
+	<string>Hacking disabled</string>
+	<key>TOLERANCE_DARK_PREVENTION</key>
+	<string>Anti-Darkness</string>
+	<key>TOLERANCE_DARK_INVALID</key>
+	<string>Darkness disabled</string>
+	<key>TOLERANCE_TIME_LIMIT_PREVENTION</key>
+	<string>Anti-Tap Time Limit</string>
+	<key>TOLERANCE_TIME_LIMIT_INVALID</key>
+	<string>Tap Time Limit disabled</string>
+	<key>TOLERANCE_BOMB_SMALL_PREVENTION</key>
+	<string>Anti-Blast Reduction</string>
+	<key>TOLERANCE_BOMB_SMALL_INVALID</key>
+	<string>Blast Reduction disabled</string>
+	<key>TOLERANCE_VIRUS</key>
+	<string>Virus immunity</string>
+	<key>TOLERANCE_SKILLBIND</key>
+	<string>Skill Bind immunity</string>
+	<key>TOLERANCE_SLEEP</key>
+	<string>Sleep immunity</string>
+	<key>TOLERANCE_HACKING</key>
+	<string>Hacking immunity</string>
+	<key>TOLERANCE_DARK</key>
+	<string>Darkness immunity</string>
+	<key>TOLERANCE_TIME_LIMIT</key>
+	<string>Tap time limit immunity</string>
+	<key>TOLERANCE_BOMB_SMALL</key>
+	<string>Blast Reduction immunity</string>
+	<key>TOLERANCE_POISON_PREVENTION</key>
+	<string>Poison Resistance</string>
+	<key>TOLERANCE_POISON_INVALID</key>
+	<string>Poison Break</string>
+	<key>COUNTER</key>
+	<string>Counter</string>
+	<key>CRASH_REDUCE</key>
+	<string>Easy CP spawning</string>
+	<key>CRASH_EXTEND</key>
+	<string>Hard CP spawning</string>
+	<key>ATTACK_COMMAND</key>
+	<string>Can participate in normal attacks </string>
+	<key>REGENERATE</key>
+	<string>Turn recovery</string>
+	<key>VIRUS_COMPILER</key>
+	<string>Virus Compiler: Recover Turn</string>
+	<key>INVALIDATE_DISPANEL</key>
+	<string>%s Dis-Panel disabled</string>
+	<key>PANEL_BREAK_JAMMER</key>
+	<string>Can break Junk Panels</string>
+	<key>PANEL_BREAK_TIME_BOMB</key>
+	<string>Can break Timer Panels</string>
+	<key>PANEL_BREAK_DAMAGE</key>
+	<string>Can break Damage Panels</string>
+	<key>PANEL_BREAK_POISON</key>
+	<string>Poison panels breakable</string>
+	<key>PANEL_BREAK_WORM</key>
+	<string>Worm panels breakable</string>
+	<key>PANEL_BREAK_FREEZE</key>
+	<string>Can break Protected panels</string>
+	<key>BOMB_BIG</key>
+	<string>Bomb blast boost</string>
+	<key>BOMB_SMALL</key>
+	<string>Bomb blast reduced</string>
+	<key>DAMAGE_UP</key>
+	<string>ATK damage boost</string>
+	<key>DAMAGE_DOWN</key>
+	<string>ATK damage lowered</string>
+	<key>SP_BOOST_UP</key>
+	<string>Skill Gauge recovery up</string>
+	<key>SP_BOOST_DOWN</key>
+	<string>No Skill Gauge recovery</string>
+	<key>ABILITY_LOCK</key>
+	<string>Abilities disabled</string>
+	<key>PANEL_RATIO_UP</key>
+	<string>%s Panel rate boost</string>
+	<key>PANEL_RATIO_DOWN</key>
+	<string>%s Panel rate lowered</string>
+	<key>PANEL_RATIO_ZERO</key>
+	<string>%s Panel spawn disabled</string>
+	<key>DROP_BLOCK</key>
+	<string>Drops %s Panels</string>
+	<key>DROP_FREEZE</key>
+	<string> %s Panels drop protected</string>
+	<key>DROP_FREEZE_ALL</key>
+	<string>All %s Panels drop protected</string>
+	<key>TIME_LIMIT</key>
+	<string>Tap time limit</string>
+	<key>DARK</key>
+	<string>Darkness</string>
+	<key>INVALIDATE_PANEL_CHANGE</key>
+	<string>%s Panel conversion skill disabled</string>
+	<key>VIRUS</key>
+	<string>Virus</string>
+	<key>SLEEP</key>
+	<string>Sleep</string>
+	<key>HACKING</key>
+	<string>Hacking</string>
+	<key>SKILLBIND</key>
+	<string>Skill Bind</string>
+	<key>DISHEART</key>
+	<string>Hearts locked</string>
+	<key>DISPANEL</key>
+	<string>%s Panels locked</string>
+	<key>CHANGE_ATTRIBUTE</key>
+	<string>Switch to %s attribute</string>
+	<key>ATTACK_SKILL_BARRIER</key>
+	<string>ATK skill barrier</string>
+	<key>HURRY</key>
+	<string>ATK rate boost</string>
+	<key>REMAIN_TURN</key>
+	<string>Turns left: %d </string>
+	<key>REMAIN_TIME</key>
+	<string>Left: %d </string>
+	<key>INVALIDATE_CPANEL</key>
+	<string>CP locked</string>
+	<key>ENHANCE_BLOCK</key>
+	<string>Strengthen panel</string>
+	<key>MULTICOLOR_CHAIN</key>
+	<string>Panel chain</string>
+	<key>HUNGUP_FEVER</key>
+	<string>Fever Bind</string>
+	<key>COLOR_GAIN</key>
+	<string>Color Gain (Enemy HP recovers)</string>
+	<key>ENHANCE_BLOCK_UP</key>
+	<string>Panel Enhance</string>
+	<key>ENHANCE_BLOCK_DOWN</key>
+	<string>Panel Weaken</string>
+	<key>DISBOMB</key>
+	<string>%s Bomb ineffective</string>
+	<key>DELAY</key>
+	<string>Action frequency change</string>
+	<key>ACCELERATOR_CHAIN</key>
+	<string>Accel chain</string>
+	<key>PROVOCATION</key>
+	<string>Provoke</string>
+	<key>TRANSFORM</key>
+	<string>Transform</string>
+	<key>DROP_VIRUS</key>
+	<string>%s Virus Panel drop</string>
+	<key>DROP_VIRUS_ALL</key>
+	<string>All %s Virus Panel drop</string>
+	<key>UP_FEVER_DROP_PANEL</key>
+	<string>Fever att. panel drop rate boost</string>
+	<key>UP_FEVER_DROP_HEART_PANEL</key>
+	<string>Fever Heart drop rate boost</string>
+	<key>UP_FEVER_DROP_CRASH_PANEL</key>
+	<string>Fever CP drop rate boost</string>
+	<key>UP_FEVER_DROP_BOMB</key>
+	<string>Fever Bomb drop rate boost</string>
+	<key>DOWN_FEVER_DROP_PANEL</key>
+	<string>Fever att. panel drop rate lower</string>
+	<key>DOWN_FEVER_DROP_HEART_PANEL</key>
+	<string>Fever Heart drop rate lower</string>
+	<key>DOWN_FEVER_DROP_CRASH_PANEL</key>
+	<string>Fever CP drop rate lower</string>
+	<key>DOWN_FEVER_DROP_BOMB</key>
+	<string>Fever Bomb drop rate lower</string>
+	<key>STATUS_PANEL_UP</key>
+	<string>Bonus Panels</string>
+	<key>STATUS_PANEL_DOWN</key>
+	<string>Malus Panels</string>
+	<key>DIMENSION_SHIELD</key>
+	<string>Dimension Shield</string>
+	<key>PANEL_MAX_UP</key>
+	<string>Board Boost</string>
+	<key>PANEL_MAX_DOWN</key>
+	<string>Board Cut</string>
+	<key>GUTS</key>
+	<string>Guts</string>
+	<key>PROTECT_BREAK</key>
+	<string>Protect Break</string>
+	<key>DAMAGE_PANEL_BREAK</key>
+	<string>Damage Panel Break</string>
+	<key>JAMMER_BREAK</key>
+	<string>Junk Break</string>
+	<key>TOLERANCE_DELAY</key>
+	<string>Turn change disabled</string>
+	<key>CONDITION_SATISFY_RELEASE</key>
+	<string>Unlocked when conditions are achieved</string>
+	<key>POISON</key>
+	<string>Poison</string>
+	<key>TOLERANCE_SKILL_TURN_DELAY</key>
+	<string>Anti-Cooldown Increase</string>
+	<key>FIELD_DAMAGE</key>
+	<string>Damage</string>
+	<key>EXTRA_DAMAGE</key>
+	<string>Extra Damage</string>
+</dict>
+</plist>

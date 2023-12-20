@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PANEL_MISSION_PROGRESS</key>
+	<string>%lld/%lld</string>
+	<key>PANEL_MISSION_LOCK_ALL</key>
+	<string>Level %d Panel Mission
+Clear All to Unlock</string>
+	<key>PANEL_MISSION_LOCK_LAST</key>
+	<string>Panel Mission
+Level %d　Clear All to Unlock</string>
+	<key>PANEL_MISSION_LOCK_DIALOG</key>
+	<string>Panel Mission
+Clear all Level %d to unlock.</string>
+	<key>PANEL_MISSION_CLOSED</key>
+	<string>This Panel Mission is closed.</string>
+	<key>DAY_SUNDAY</key>
+	<string>%m/%d(Sun.)%H:%M</string>
+	<key>DAY_MONDAY</key>
+	<string>%m/%d(Mon.)%H:%M</string>
+	<key>DAY_TUESDAY</key>
+	<string>%m/%d(Tue.)%H:%M</string>
+	<key>DAY_WEDNESDAY</key>
+	<string>%m/%d(Wed.)%H:%M</string>
+	<key>DAY_THURSDAY</key>
+	<string>%m/%d(Thu.)%H:%M</string>
+	<key>DAY_FRIDAY</key>
+	<string>%m/%d(Fri.)%H:%M</string>
+	<key>DAY_SATURDAY</key>
+	<string>%m/%d(Sat.)%H:%M</string>
+	<key>PERIOD</key>
+	<string>Available：%s 〜 %s</string>
+	<key>SPORTS_FES_PANEL_MISSION_LOCK_ALL</key>
+	<string>%s
+%s</string>
+	<key>SPORTS_FES_PANEL_MISSION_LOCK_NOT_CLEAR</key>
+	<string>%s Unlocked</string>
+	<key>SPORTS_FES_PANEL_MISSION_LOCK_NOT_CLEAR_DESC</key>
+	<string>Clear All Lv.%d Panel Mission</string>
+	<key>SPORTS_FES_PANEL_MISSION_LOCK_NOT_VALIDITY_PERIOD_DESC</key>
+	<string>Unlocked from %m/%d %H:00</string>
+	<key>SPORTS_FES_PANEL_MISSION_LOCK_DIALOG_NOT_CLEAR</key>
+	<string>Clear missions in order!</string>
+	<key>SPORTS_FES_PANEL_MISSION_LOCK_DIALOG_NOT_VALIDITY_PERIOD</key>
+	<string>%m月%d日%H時に解放されます。</string>
+	<key>SPORTS_FES_PANEL_MISSION_LOCK_DIALOG_NOT_PREVIOS_LEVEL</key>
+	<string>Clear All Lv.%d Panel Missions
+to unlock.</string>
+	<key>SPORTS_FES_PANEL_BONUS</key>
+	<string>Bonus Break</string>
+</dict>
+</plist>

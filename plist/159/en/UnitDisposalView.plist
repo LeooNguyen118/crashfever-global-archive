@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CAPTION</key>
+	<string>Sell Units</string>
+	<key>LABEL_BIT</key>
+	<string>Bit value:</string>
+	<key>LABEL_GHOST</key>
+	<string>Ghost value:</string>
+	<key>LABEL_UNIT</key>
+	<string>Units selected:</string>
+	<key>CONFIRM_DISPOSAL</key>
+	<string>Sell %s for
+%s bits/%s ghosts
+
+Proceed？</string>
+	<key>CONFIRM_RARE_DISPOSAL</key>
+	<string>&lt;font color=&quot;red&quot;&gt;Contains 1 or more Rare or higher units.&lt;/font&gt;
+
+</string>
+	<key>CONFIRM_LIMIT_EXTENDED_DISPOSAL</key>
+	<string>&lt;font color=&quot;red&quot;&gt;Includes unit with
+limit break&lt;/font&gt;
+
+</string>
+	<key>CONFIRM_EQUIP_WEAPON_DISPOSAL</key>
+	<string>&lt;font color=&quot;red&quot;&gt;Includes units
+with Mods. Mods are automatically
+converted.&lt;/font&gt;
+
+</string>
+	<key>CONFIRM_UNLOCKED_SLOT_DISPOSAL</key>
+	<string>&lt;font color=&quot;red&quot;&gt;Includes units
+with free Mod slots.&lt;/font&gt;
+</string>
+	<key>AUTO_ENHANCE_CANCEL</key>
+	<string>Autofusion setting canceled.</string>
+	<key>CONFIRM_UNLOCKED_POTENTIAL_DISPOSAL</key>
+	<string>&lt;font color=&quot;red&quot;&gt; Units with unlocked Potentials included.
+Deep-Log will be lost.&lt;/font&gt;
+	
+</string>
+	<key>NO_SELECT_ITEM</key>
+	<string>No units with the
+specified condition</string>
+	<key>COLLECTICELY_SELECT_DIALOG_TITLE</key>
+	<string>Same cost units will be bulk selected.</string>
+	<key>COLLECTICELY_SELECT_DIALOG_COMMENT</key>
+	<string>Unenhanced, unfavorited unit selected</string>
+	<key>ERROR_USED_TRAVERSAL</key>
+	<string>Currently in use for Enigma Quest,
+cannot be sold.</string>
+</dict>
+</plist>

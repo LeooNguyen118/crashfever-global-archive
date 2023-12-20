@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MESSAGE_SINGLE</key>
+	<string>Alert: Quest「%s」now open.</string>
+	<key>MESSAGE_MULTI</key>
+	<string>Bookmarked quests open: %d</string>
+</dict>
+</plist>

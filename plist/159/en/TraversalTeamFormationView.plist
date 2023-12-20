@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ERROR_PARTY_MEMBER_SHORTAGE</key>
+	<string>In Enigma Quests,
+bring 4 units</string>
+	<key>CONFIRM_RESET_STAGE</key>
+	<string>Reset this stage?
+	
+Current Energy:  %d
+Energy Use: %d
+	
+&lt;font color=&quot;red&quot;&gt;The following will be reset:
+	
+・Stage clear progress
+・Used units&lt;/font&gt;
+	
+The following units will
+become usable again</string>
+	<key>CONFIRM_RESET</key>
+	<string>Confirm Reset?</string>
+	<key>USED_TRAVERSAL</key>
+	<string>Currently in use for Enigma Quest.</string>
+	<key>TRAVERSAL_QUEST_LABEL</key>
+	<string>Enigma Quest</string>
+</dict>
+</plist>

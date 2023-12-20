@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CAPTION</key>
+	<string>Player Info</string>
+	<key>DELETE_CONFIRM</key>
+	<string>You're about to delete this friend.
+Are you sure?</string>
+	<key>RANK</key>
+	<string>Rank:%s</string>
+	<key>BUG_MAX</key>
+	<string>%s units</string>
+	<key>CATALOG</key>
+	<string>%s / %s</string>
+	<key>MAX_DAMAGE</key>
+	<string>%s</string>
+	<key>LOGIN_DAYS</key>
+	<string>%s Days</string>
+	<key>FRIENDS</key>
+	<string>%s / %s</string>
+	<key>STORY_PROGRESS</key>
+	<string>%s / %s</string>
+</dict>
+</plist>

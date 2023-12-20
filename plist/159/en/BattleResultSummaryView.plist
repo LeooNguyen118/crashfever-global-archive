@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>RANKUP_MESSAGE</key>
+	<string>Your rank increased to &lt;font color=&quot;blue&quot;&gt;%d&lt;/font&gt;.</string>
+	<key>RANKUP_ENERGY</key>
+	<string>Max energy increased: &lt;font color=&quot;blue&quot;&gt;%d&lt;/font&gt; to &lt;font color=&quot;blue&quot;&gt;%d&lt;/font&gt;.</string>
+	<key>RANKUP_TEAM_COST</key>
+	<string>Party cost increased: &lt;font color=&quot;blue&quot;&gt;%d&lt;/font&gt; to &lt;font color=&quot;blue&quot;&gt;%d&lt;/font&gt;.</string>
+	<key>RANKUP_FRIEND_SIZE</key>
+	<string>Friend slots increased: &lt;font color=&quot;blue&quot;&gt;%d&lt;/font&gt; to &lt;font color=&quot;blue&quot;&gt;%d&lt;/font&gt;.</string>
+	<key>NEW_QUEST_UNLOCKED</key>
+	<string>New quest unlocked!
+ &quot;%s&quot;
+Give it a try!</string>
+	<key>TREASURE_TITLE</key>
+	<string>&lt;font color=&quot;#00A9FF&quot;&gt;Quest First Clear Bonus&lt;/font&gt;</string>
+	<key>TREASURE_POLYGON</key>
+	<string>Polygons ×%d</string>
+	<key>TREASURE_BIT</key>
+	<string>Bits ×%d</string>
+	<key>TREASURE_LINK</key>
+	<string>Links ×%d</string>
+	<key>TREASURE_GHOST</key>
+	<string>Ghosts ×%d</string>
+	<key>TREASURE_CUSTOM_TITLE</key>
+	<string>Title: %s</string>
+	<key>DEFRAG_REWARD_TITLE</key>
+	<string>&lt;font color=&quot;#00A9FF&quot;&gt;Defrag Reward&lt;/font&gt;</string>
+	<key>BUG_BONUS_QUANTITY</key>
+	<string>×%d</string>
+	<key>AUTOPLAY_LOOP_STOP</key>
+	<string>Stop Auto?</string>
+	<key>AUTOPLAY_LOOP_STOPPED</key>
+	<string>Auto stopped?</string>
+	<key>AUTOPLAY_LOOP_FINISH</key>
+	<string>Set auto loops reached.
+Auto stopped.</string>
+	<key>QUEST_CLOSED</key>
+	<string>Quest finished.</string>
+	<key>ITEM_OVER_LIMIT</key>
+	<string>Your inventory has reached its limit.
+Excess items were not received.</string>
+	<key>CONTENTS_UNLOCKED</key>
+	<string>%s
+Cleared!</string>
+	<key>BUG_LABEL</key>
+	<string>Bug</string>
+	<key>POTENTIAL_BUG_LABEL</key>
+	<string>Potential Bug</string>
+	<key>RENTAL_CLOSED</key>
+	<string>Rental Unit period
+has ended</string>
+	<key>RENTAL_OVER_LIMIT</key>
+	<string>You have reached today's
+Rental Unit limit.</string>
+	<key>RENTAL_DIALOG_QUEST</key>
+	<string>To Quest</string>
+	<key>RENTAL_DIALOG_GACHA</key>
+	<string>To Hatcher</string>
+	<key>RENTAL_DIALOG_ITEM_STORE</key>
+	<string>To Item Exchange</string>
+	<key>RENTAL_DIALOG_CLOSE</key>
+	<string>Close</string>
+	<key>NO_GACHA_EXISTS</key>
+	<string>This Hatcher has closed</string>
+	<key>NO_QUEST_EXISTS</key>
+	<string>This quest has closed</string>
+	<key>NO_ITEM_STORE_EXISTS</key>
+	<string>This Item Exchange has closed</string>
+	<key>RENTAL_DIALOG_GACHA_TITLE</key>
+	<string>Hatcher Live Now!
+	Obtain the units you rented!</string>
+	<key>RENTAL_DIALOG_QUEST_TITLE</key>
+	<string>Quest Live Now!
+Obtain the units you rented!</string>
+	<key>RENTAL_DIALOG_ITEM_STORE_TITLE</key>
+	<string>Item Exchange Live Now!
+Obtain the units you rented!</string>
+	<key>TUTORIAL_WEAPON</key>
+	<string>You acquired an Mod!
+Equip your unit with the Mod!</string>
+	<key>FORMATION_BONUS_LABEL</key>
+	<string>Formation Bonus</string>
+	<key>DEFRAG_NEXT_GAUGE</key>
+	<string>Next Reward in %lldpt</string>
+	<key>DEFRAG_SHORT_GOAL_GAUGE</key>
+	<string>GET at %lldpt!</string>
+</dict>
+</plist>

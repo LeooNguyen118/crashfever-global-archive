@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CAPTION</key>
+	<string>Select unit</string>
+	<key>TIPS</key>
+	<string>Select %d units</string>
+	<key>USAGICHAN_MESSAGE</key>
+	<string>Select &lt;font color=&quot;blue&quot;&gt;%d&lt;/font&gt; units
+&lt;font color=&quot;red&quot;&gt; Tap Suggested units &lt;/font&gt;to
+display %d suggested units</string>
+	<key>BUTTON_GACHA</key>
+	<string>Pull Hatcher</string>
+	<key>BUTTON_CANCEL</key>
+	<string>Cancel</string>
+	<key>DIALOG_CAPTION</key>
+	<string>From these units
+1 unit is guaranteed</string>
+	<key>DIALOG_CAPTION_RECOMMEND</key>
+	<string>My %d suggested units
+1 unit is guaranteed</string>
+	<key>DIALOG_CONFIRM</key>
+	<string>&lt;font color=&quot;yellow&quot;&gt;%s&lt;/font&gt;: use %s
+to pull Hatcher
+
+Continue?
+
+&lt;font color=&quot;yellow&quot;&gt;%s&lt;/font&gt;On hand: %s</string>
+	<key>DIALOG_COST_TICKET</key>
+	<string>&lt;font color=&quot;red&quot;&gt;%s &lt;/font&gt;tkt</string>
+	<key>DIALOG_COST_OTHER</key>
+	<string>&lt;font color=&quot;red&quot;&gt;%d &lt;/font&gt;</string>
+	<key>GACHA_CLOSED</key>
+	<string>Hatcher no longer available.</string>
+</dict>
+</plist>

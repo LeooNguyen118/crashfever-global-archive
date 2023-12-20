@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CAPTION</key>
+	<string>Select Unit</string>
+	<key>TIPS</key>
+	<string>Select Pick-Up unit(s) of your choice.</string>
+	<key>USAGICHAN_MESSAGE</key>
+	<string>Select 
+&lt;font color=&quot;blue&quot;&gt;%d Pick-Up unit(s)&lt;/font&gt; of your choice.</string>
+	<key>BUTTON_GACHA</key>
+	<string>OK</string>
+	<key>BUTTON_CANCEL</key>
+	<string>Cancel</string>
+	<key>DIALOG_CAPTION</key>
+	<string>You've selected the following unit(s).</string>
+	<key>DIALOG_CONFIRM</key>
+	<string>Setting the following unit(s) as 
+&lt;font color=&quot;yellow&quot;&gt;Pick-Up&lt;/font&gt; unit(s).
+	
+Confirm?
+	
+&lt;font color=&quot;red&quot;&gt;※ Unit can be re-selected until you pull the hatcher.&lt;/font&gt;</string>
+	<key>DIALOG_COST_TICKET</key>
+	<string>&lt;font color=&quot;red&quot;&gt;%d &lt;/font&gt; tkt</string>
+	<key>DIALOG_COST_OTHER</key>
+	<string>&lt;font color=&quot;red&quot;&gt;%d &lt;/font&gt;</string>
+	<key>GACHA_CLOSED</key>
+	<string>This Hatcher has been closed.</string>
+	<key>PICKUP_RESETTING</key>
+	<string>Changing Pick-Up unit.
+	
+Confirm?
+	
+&lt;font color=&quot;red&quot;&gt;※ Unit can be re-selected until you pull the hatcher.&lt;/font&gt;</string>
+</dict>
+</plist>

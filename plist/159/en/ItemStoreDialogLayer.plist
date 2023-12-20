@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>EXCHANGE_COST</key>
+	<string>%s</string>
+	<key>HOW_MANY</key>
+	<string>How many do you want to exchange?</string>
+	<key>REQUIER_POINT</key>
+	<string>Cost: &lt;font color=&quot;red&quot;&gt;%d&lt;/font&gt;</string>
+	<key>REQUIER_CURRENCY</key>
+	<string>Use %s &lt;font color=&quot;red&quot;&gt;%s&lt;/font&gt;</string>
+</dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>MESSAGE_EXCHANGE</key>
+<string>Unequipped Mods
+converted to Mod Enhance Kits.</string>
+	<key>MESSAGE_EXCHANGE_UNITS</key>
+	<string>Mod(s) that were not equipped
+were converted to enhancement material.</string>
+	<key>MESSAGE_EXCHANGE_ITEMS</key>
+	<string>Unequipped Mod(s) have been
+converted to materials.</string>
+</dict>
+</plist>

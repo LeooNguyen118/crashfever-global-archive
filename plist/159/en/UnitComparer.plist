@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Seq</key>
+	<string>Acq.</string>
+	<key>Id</key>
+	<string>No.</string>
+	<key>Base</key>
+	<string>Base</string>
+	<key>Color</key>
+	<string>Color</string>
+	<key>Type</key>
+	<string>Type</string>
+	<key>Tribe</key>
+	<string>Tribe</string>
+	<key>Cost</key>
+	<string>Cost</string>
+	<key>Rarity</key>
+	<string>Rarity</string>
+	<key>Level</key>
+	<string>Level</string>
+	<key>Hp</key>
+	<string>HP</string>
+	<key>Attack</key>
+	<string>ATK</string>
+	<key>Defense</key>
+	<string>DEF</string>
+	<key>Heal</key>
+	<string>REC</string>
+	<key>Bug</key>
+	<string>Bug</string>
+	<key>Potentials</key>
+	<string>By Potential</string>
+	<key>DeepLog</key>
+	<string>By Deep-Log</string>
+	<key>Favorite</key>
+	<string>Fav.</string>
+	<key>LastPlay</key>
+	<string>Used</string>
+	<key>UnitSortBySeq</key>
+	<string>Acq.</string>
+	<key>UnitSortById</key>
+	<string>No.</string>
+	<key>UnitSortByBase</key>
+	<string>Base</string>
+	<key>UnitSortByColor</key>
+	<string>Color</string>
+	<key>UnitSortByType</key>
+	<string>Type</string>
+	<key>UnitSortByTribe</key>
+	<string>Tribe</string>
+	<key>UnitSortByCost</key>
+	<string>Cost</string>
+	<key>UnitSortByRarity</key>
+	<string>Rarity</string>
+	<key>UnitSortByLevel</key>
+	<string>Level</string>
+	<key>UnitSortByHp</key>
+	<string>HP</string>
+	<key>UnitSortByAttack</key>
+	<string>ATK</string>
+	<key>UnitSortByDefense</key>
+	<string>DEF</string>
+	<key>UnitSortByHeal</key>
+	<string>REC</string>
+	<key>UnitSortByBug</key>
+	<string>Bug</string>
+	<key>UnitSortByFavorite</key>
+	<string>Fav.</string>
+	<key>アクセサスロット</key>
+	<string>Mod Slot</string>
+	<key>空きあり</key>
+	<string>Avail.</string>
+	<key>装備中</key>
+	<string>Equipped</string>
+	<key>UsedTraversal</key>
+	<string>Usage Limit</string>
+	<key>DefragBonus</key>
+	<string>By Defrag Bonus</string>
+</dict>
+</plist>

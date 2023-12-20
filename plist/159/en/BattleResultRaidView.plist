@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LABEL_RAID_LEVEL</key>
+	<string>Boss Lv.</string>
+	<key>LABEL_DAMAGE_STR</key>
+	<string>Damage</string>
+	<key>LABEL_CHALLENGE_STR</key>
+	<string>Attacks</string>
+	<key>LABEL_CHALLENGE_SYMBOL</key>
+	<string>×</string>
+	<key>LABEL_TOTAL_DAMAGE_STR</key>
+	<string>Total Damage</string>
+	<key>LABEL_CURRENT_HP</key>
+	<string>HP:</string>
+	<key>LABEL_RAID_UNIT_TITLE</key>
+	<string>Lv %2d %s</string>
+	<key>ERROR_RAID_HP_EMPTY</key>
+	<string>Insufficient HP.
+Choose another quest.</string>
+</dict>
+</plist>

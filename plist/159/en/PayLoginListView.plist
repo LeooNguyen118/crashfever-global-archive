@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CAPTION</key>
+	<string>Membership Purchase</string>
+	<key>MESSAGE_NOT_AVAILABLE</key>
+	<string>A current membership
+has already been purchased.</string>
+	<key>MESSAGE_NOT_AVAILABLE_REPURCHASE</key>
+	<string>You have already purchased
+a membership.
+Repurchase available in %d days</string>
+</dict>
+</plist>

@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PRESENT_BOX</key>
+	<string>View gifts waiting to be claimed. When unclaimed gifts exceed 200, they will be deleted starting with the oldest first.</string>
+	<key>PRESENT_BOX_RECEIVED</key>
+	<string>View receipt history. After 30 days history is automatically deleted.</string>
+	<key>MENU</key>
+	<string>Select a submenu.</string>
+	<key>ENTRY_SERIAL_CODE</key>
+	<string>Enter serial code to receive a bonus.</string>
+	<key>SETTINGS</key>
+	<string>Adjust game settings.</string>
+	<key>PUSH_NOTIFICATIONS</key>
+	<string>Change settings for push notifications.</string>
+	<key>ITEM_LIST</key>
+	<string>Current items in inventory. NOTE: maximum quantity of each item you can have on hand is limited to 65535.</string>
+	<key>RENAME</key>
+	<string>Change your name.</string>
+	<key>SELECT_CUSTOM_TITLE</key>
+	<string>Set your own custom title.</string>
+	<key>PROFILE</key>
+	<string>Check and edit your profile.</string>
+	<key>PROFILE_UNIT_SELECT</key>
+	<string>Select your favorite unit. Tap and hold unit to check details.</string>
+	<key>DICTIONARY</key>
+	<string>Tap a unit to see more details.</string>
+	<key>TAKEOVER</key>
+	<string>Transfer play data between devices.</string>
+	<key>OTHERS</key>
+	<string>View credits, terms of use, and more.</string>
+	<key>MISSIONS</key>
+	<string>When you complete a mission, you can receive a reward from the Claim button. Swipe left or right to switch tabs.</string>
+	<key>GUIDE_MISSIONS</key>
+	<string>Obtain rewards by clearing missions.</string>
+	<key>QUESTS</key>
+	<string>Select a quest to play.</string>
+	<key>NORMAL_QUESTS</key>
+	<string>Select a quest to try. Tap on Event to test your mettle in an Event Quest!</string>
+	<key>EVENT_QUESTS</key>
+	<string>Challenge yourself with these special quests.</string>
+	<key>SPECIAL_QUESTS</key>
+	<string>Choose a Special Quest.</string>
+	<key>STORY_QUESTS</key>
+	<string>Choose a story.</string>
+	<key>ACCESSOR_QUESTS</key>
+	<string>Play a Mod Quest.</string>
+	<key>EVENT_QUESTS_UNIT</key>
+	<string>Quest to earn %s.</string>
+	<key>EVENT_SCHEDULE</key>
+	<string>Check the event schedule for upcoming quests.</string>
+	<key>EVENT_SCHEDULE_UNIT</key>
+	<string>Upcoming quest to earn %s.</string>
+	<key>LOCK_QUESTS</key>
+	<string>Unlock these quests with a key.</string>
+	<key>RANKING_QUESTS</key>
+	<string>Challenge yourself with these Rank Quests.</string>
+	<key>RANKING_TABLE_ALL</key>
+	<string>View the rankings of all users.</string>
+	<key>RANKING_TABLE_GROUP</key>
+	<string>View your group ranking. Tap on Overall Rankings to view the rankings of all users.</string>
+	<key>RANKING_TABLE_TEAM</key>
+	<string>View your party when participating in a Rank Quest.</string>
+	<key>SELECT_STAGE</key>
+	<string>Select a stage.</string>
+	<key>SCORE_ATTACK</key>
+	<string>Score Attack Quest Information。</string>
+	<key>RAID_QUESTS</key>
+	<string>Raid Quests</string>
+	<key>RAID_BOSS_LIST</key>
+	<string>Raid Quest Bosses</string>
+	<key>RAID_BOSS_RESULT</key>
+	<string>Raid Rewards</string>
+	<key>SELECT_HELPERS</key>
+	<string>Select a helper. To view their details, hold down on the unit&apos;s icon.</string>
+	<key>SELECT_CONNECTION_MODE</key>
+	<string>Choose how to recruit friends. To play with specific friends, select &quot;Recruit using LINE.&quot;</string>
+	<key>SELECT_SOLO_MULTI</key>
+	<string>Select either Play Solo or Play with Others.</string>
+	<key>SELECT_ROOMS</key>
+	<string>Players are recruiting helpers to go on quests. Select from the recruiting list and join!</string>
+	<key>MEMBER_STANDBY</key>
+	<string>Currently recruiting quest support.</string>
+	<key>RESULT_FRIEND_REQUEST</key>
+	<string>Send friend requests to players who have helped.</string>
+	<key>SELECT_TEAMS</key>
+	<string>Select a party. Swipe left or right to switch between them.</string>
+	<key>UNITS</key>
+	<string>Form parties, enhance and sell units, and more.</string>
+	<key>TEAM_FORMATIONS</key>
+	<string>Tap on the unit you want to change. To view details, hold down on the unit&apos;s icon.</string>
+	<key>TEAM_MEMBER_SELECT</key>
+	<string>Select the unit you want to add to your party. To view details, hold down on the unit&apos;s icon.</string>
+	<key>FAVORITE_TEAM_MEMBER_SELECT</key>
+	<string>Select a unit to display on the home screen. Tap and hold on a unit for more information.</string>
+	<key>ENHANCE_UNIT_BASE</key>
+	<string>Select a unit to enhance.</string>
+	<key>ENHANCE_UNIT</key>
+	<string>Select a unit to use as material. To view details, hold down on the unit&apos;s icon.</string>
+	<key>ENHANCE_UNIT_SACRIFICES</key>
+	<string>Select a unit to use as material. Material units will be lost once fusion is complete. To view details, hold down on the unit&apos;s icon.</string>
+	<key>AWAKE_UNIT_BASE</key>
+	<string>Awaken a unit&apos;s inner power to make it stronger. To view details, hold down on the unit&apos;s icon.</string>
+	<key>AWAKE_UNIT_SELECT</key>
+	<string>Awaken/super awaken units. Select a unit to awaken.</string>
+	<key>AWAKE_UNIT</key>
+	<string>To go on a quest for missing Material, tap the Material unit icon. To awaken a unit, tap &quot;Awaken&quot;. Material units used in awakening will be lost.</string>
+	<key>EX_AWAKE_UNIT_BASE</key>
+	<string>Enhance and evolve unit to become more powerful. Tap and hold the unit for details.</string>
+	<key>EX_AWAKE_UNIT_SELECT</key>
+	<string>Enhance and evolve unit to become more powerful. Select evolve target.</string>
+	<key>EX_AWAKE_UNIT</key>
+	<string>Clear quests to acquire materials. Tap material for details. Materials used for evolving are consumed.</string>
+	<key>EQUIP_WEAPON_SELECT</key>
+	<string>Select Mod(s) to equip.</string>
+	<key>EQUIP_WEAPON_BASE</key>
+	<string>Select a unit to equip Mod(s).</string>
+	<key>EQUIP_WEAPON_SELECT_WEAPONS</key>
+	<string>Select Mod(s) to equip.</string>
+	<key>DISPOSAL_UNIT</key>
+	<string>Exchange units for Bits. To view details, hold down on the unit&apos;s icon.</string>
+	<key>ITEM_STORE</key>
+	<string>Exchange for units and items. NOTE: maximum quantity of each item you can have on hand is limited to 65535.</string>
+	<key>DATACHIP_STORE</key>
+	<string>Exchange Datachips for units and items.</string>
+	<key>GHOST_STORE</key>
+	<string>Exchange Ghosts for units.</string>
+	<key>FOLDER</key>
+	<string>View units you currently own. You can lock units by adding them to your favorites.</string>
+	<key>BUGMAX_EFFECT</key>
+	<string>Check Bug MAX Effect. Gray items are not at MAX.</string>
+	<key>REDUCE_LIMITBREAKS_LIST</key>
+	<string>Reduce Limit Broken parameters to convert them into Bits. Select a unit to convert.</string>
+	<key>REDUCE_LIMITBREAKS</key>
+	<string>Adjust the amount by which you want to reduce Limit Broken parameters.</string>
+	<key>GACHA</key>
+	<string>Select a Hatcher to try out.</string>
+	<key>SHOP</key>
+	<string>Purchase polygons and recover energy.</string>
+	<key>PURCHASE_BITS</key>
+	<string>Polygon total listed is inclusive of respective bonus shown. If under 18, please get permission from a parent or guardian.</string>
+	<key>PURCHASE_DETAIL</key>
+	<string>Purchase Packs.</string>
+	<key>CHARGE_ENERGY</key>
+	<string>Fully recover your energy.</string>
+	<key>EXPAND_FOLDERS</key>
+	<string>Increase the maximum number of units you can own.</string>
+	<key>PAYLOGIN</key>
+	<string>Purchase Monthly Membership.</string>	
+	<key>FRIENDS</key>
+	<string>Organize your friends and search for new ones.</string>
+	<key>FRIENDS_LIST</key>
+	<string>Add friends to your favorites or remove them from your friend list.</string>
+	<key>FRIEND_PROFILE</key>
+	<string>Check your friend's profile.</string>
+	<key>HELPER_SELECT</key>
+	<string>Select a helper. To view details, press and hold the unit&apos;s icon.</string>
+	<key>FRIENDS_APPROVAL</key>
+	<string>View players you&apos;ve received friend requests from.</string>
+	<key>FRIENDS_APPLICATIONS</key>
+	<string>View players you&apos;ve sent friend requests to. Requests will be deleted after 7 days.</string>
+	<key>INVITATION_CODE</key>
+	<string>View friend invitation code.</string>
+	<key>SEARCH_FRIENDS</key>
+	<string>Find people using ID search and send friend requests.</string>
+	<key>MATERIAL_FOLDER</key>
+	<string>Enhancement and Awakening Materials</string>
+	<key>ITEM_STORE_LIST</key>
+	<string>Select an item exchange.</string>
+	<key>SELECT_RAID_BOSS</key>
+	<string>Select a Raid Boss to attack.</string>
+	<key>RAID_REWARD_LIST</key>
+	<string>Total Point Raid Rewards</string>
+	<key>WEAPON_PORTAL_BASE</key>
+	<string>Select unit with a Mod.</string>
+	<key>WEAPON_EDIT</key>
+	<string>Select a Mod to enhance or convert.</string>
+	<key>WEAPON_ENHANCE</key>
+	<string>Select a kit.</string>
+	<key>WEAPON_ENHANCE_SELECT_MATERIAL</key>
+	<string>Select a kit. Kit is consumed after use.</string>
+	<key>BINGO_QUEST</key>
+	<string>Enigma</string>
+	<key>EX_AWAKE_UNIT_BASE</key>
+	<string>Enhance and evolve unit to become more powerful. Tap and hold the unit for details.</string>
+	<key>EX_AWAKE_UNIT_SELECT</key>
+	<string>Enhance and evolve unit to become more powerful. Select evolve target.</string>
+	<key>EX_AWAKE_UNIT</key>
+	<string>Clear quests to acquire materials. Tap material for details. Materials used for evolving are consumed.</string>
+	<key>LINK_MENU</key>
+	<string>Game information can be seen here.</string>
+	<key>TOTALWAR_CORPS_SELECT</key>
+	<string>Select Legion Quest Corp</string>
+	<key>TOTALWAR_TOP</key>
+	<string>In this mode, defeat formidable enemies using most, if not all, of your units. First, try forming a Corp.</string>
+	<key>TOTALWAR_LIST</key>
+	<string>Legion Quest Enemy List</string>
+	<key>SKIN_UNIT</key>
+	<string>Tap a unit to go to Skin changing room.</string>
+	<key>SKIN_UNIT_DICTIONARY</key>
+	<string>See units available for Skin Change</string>
+	<key>TRAVERSAL_REWARD_LIST</key>
+	<string>Line rewards can be confirmed. Rewards will be send to Gift.</string>
+	<key>TRAVERSAL_DIFFICULTY_SELECT</key>
+	<string>Select a difficulty.</string>
+	<key>TRAVERSAL_RESULT_LIST</key>
+	<string>See Enigma Quest challenge status here.</string>
+</dict>
+</plist>

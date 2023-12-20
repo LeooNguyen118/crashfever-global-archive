@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>CAPTION</key>
+<string>Other</string>
+<key>USE_POLICY_TITLE</key>
+<string>Terms of Use</string>
+<key>USE_POLICY_DESCRIPTION</key>
+<string>View terms of use.</string>
+<key>ACT_ON_SETTLEMENT_TITLE</key>
+<string>Act on Settlement of Funds</string>
+<key>ACT_ON_SETTLEMENT_DESCRIPTION</key>
+<string>View details regarding Act on Settlement of Funds.</string>
+<key>SPECIAL_COMMERCIAL_TITLE</key>
+<string>Specified Commercial Transaction Act</string>
+<key>SPECIAL_COMMERCIAL_DESCRIPTION</key>
+<string>View details regarding Specified Commercial Transaction Act.</string>
+<key>CREDIT_TITLE</key>
+<string>Credits</string>
+<key>CREDIT_DESCRIPTION</key>
+<string>View staff credits.</string>
+<key>CREDIT_MEMBERS</key>
+<string>&lt;font color=&apos;#0099ff&apos; size=20&gt;Producer and Director&lt;/font&gt;
+&lt;font size=&apos;20&apos;&gt;Masaaki Sumi&lt;/font&gt;
+
+&lt;font color=&apos;#0099ff&apos; size=20&gt;Programmers&lt;/font&gt;
+&lt;font size=&apos;20&apos;&gt;Kenji Fujisawa&lt;/font&gt;
+&lt;font size=&apos;20&apos;&gt;Yuga Nagaya&lt;/font&gt;
+&lt;font size=&apos;20&apos;&gt;Yukio Ohara&lt;/font&gt;
+&lt;font size=&apos;20&apos;&gt;Tatsuya Narita&lt;/font&gt;
+
+&lt;font color=&apos;#0099ff&apos; size=20&gt;Server Engineers&lt;/font&gt;
+&lt;font size=&apos;20&apos;&gt;Yoshitaka Yamashita&lt;/font&gt;
+&lt;font size=&apos;20&apos;&gt;Katsuyoshi Yamauchi&lt;/font&gt;
+&lt;font size=&apos;20&apos;&gt;Shinsuke Nakamura&lt;/font&gt;
+&lt;font size=&apos;20&apos;&gt;Tomochika Hara&lt;/font&gt;
+&lt;font size=&apos;20&apos;&gt;Tetsuya Hori&lt;/font&gt;
+
+&lt;font color=&apos;#0099ff&apos; size=20&gt;Art Director&lt;/font&gt;
+&lt;font size=&apos;20&apos;&gt;Takahiro Nakamura&lt;/font&gt;
+
+&lt;font color=&apos;#0099ff&apos; size=20&gt;Designers&lt;/font&gt;
+&lt;font size=&apos;20&apos;&gt;Mami Isobe&lt;/font&gt;
+&lt;font size=&apos;20&apos;&gt;Taiki Umemura&lt;/font&gt;
+&lt;font size=&apos;20&apos;&gt;MUGENUP Inc.&lt;/font&gt;
+&lt;font size=&apos;20&apos;&gt;Panda Graphics, Inc.&lt;/font&gt;
+&lt;font size=&apos;20&apos;&gt;Caramel Column Inc.&lt;/font&gt;
+
+&lt;font color=&apos;#0099ff&apos; size=20&gt;Operations Planners&lt;/font&gt;
+&lt;font size=&apos;20&apos;&gt;Yosuke Yoshizawa&lt;/font&gt;
+&lt;font size=&apos;20&apos;&gt;Yudai Fukutani&lt;/font&gt;
+&lt;font size=&apos;20&apos;&gt;Ami Hishikawa&lt;/font&gt;
+&lt;font size=&apos;20&apos;&gt;Yoshihisa Oshika&lt;/font&gt;
+&lt;font size=&apos;20&apos;&gt;Linked Brain Inc.&lt;/font&gt;
+
+&lt;font color=&apos;#0099ff&apos; size=20&gt;Game Engine Programmers&lt;/font&gt;
+&lt;font size=&apos;20&apos;&gt;Tomotsune Murata&lt;/font&gt;
+&lt;font size=&apos;20&apos;&gt;Masaki Iwahara&lt;/font&gt;
+
+&lt;font color=&apos;#0099ff&apos; size=20&gt;Tools Programmers&lt;/font&gt;
+&lt;font size=&apos;20&apos;&gt;Mai Sato&lt;/font&gt;
+&lt;font size=&apos;20&apos;&gt;Yusuke Fujioka&lt;/font&gt;
+
+&lt;font color=&apos;#0099ff&apos; size=20&gt;Marketing and PR&lt;/font&gt;
+&lt;font size=&apos;20&apos;&gt;Norihiko Kudeken&lt;/font&gt;
+&lt;font size=&apos;20&apos;&gt;Masahiro Kato&lt;/font&gt;
+&lt;font size=&apos;20&apos;&gt;Yuji Yamashita (UNITED, Inc.)&lt;/font&gt;
+&lt;font size=&apos;20&apos;&gt;Yusuke Kinoshita (UNITED, Inc.)&lt;/font&gt;
+
+&lt;font color=&apos;#0099ff&apos; size=20&gt;QA&lt;/font&gt;
+&lt;font size=&apos;20&apos;&gt;Shoma Ito&lt;/font&gt;
+
+&lt;font color=&apos;#0099ff&apos; size=20&gt;Sound&lt;/font&gt;
+&lt;font size=&apos;20&apos;&gt;noisycroak Co., Ltd.&lt;/font&gt;
+
+&lt;font color=&apos;#0099ff&apos; size=20&gt;Special Thanks&lt;/font&gt;
+&lt;font size=&apos;20&apos;&gt;Hiroki Teshima (UNITED, Inc.)&lt;/font&gt;
+
+&lt;font color=&apos;#0099ff&apos; size=20&gt;Executive Producer&lt;/font&gt;
+&lt;font size=&apos;20&apos;&gt;Tomoki Tsunekawa&lt;/font&gt;
+
+&lt;font color=&apos;#0099ff&apos; size=20&gt;Developed and Published by&lt;/font&gt;
+&lt;img src=&apos;00_common/wonderplanet.png&apos; /&gt;&lt;font size=&apos;20&apos;&gt;Wonderplanet Inc.&lt;/font&gt;</string>
+	<key>PURCHASE_INFO_TITLE</key>
+	<string>Purchase Info</string>
+	<key>PURCHASE_INFO_DESCRIPTION</key>
+	<string>View the breakdown for the polygons you own.</string>
+	<key>PURCHASE_INFO_MESSAGE</key>
+	<string>Purchased: %s Free: %s
+Purchased polygons are used first.</string>
+
+<key>RESOURCE_DOWNLOAD</key>
+<string>Download all data.</string>
+<key>RESOURCE_DOWNLOAD_DESCRIPTION</key>
+<string>Download minimum required data.</string>
+</dict>
+</plist>

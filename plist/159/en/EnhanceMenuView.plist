@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CAPTION</key>
+	<string>Unit Enhancement</string>
+	<key>ENHANCE_TITLE</key>
+	<string>Enhance Unit</string>
+	<key>ENHANCE_DESCRIPTION</key>
+	<string>Boost up unit's' stats.</string>
+	<key>AWAKENING_TITLE</key>
+	<string>Awaken Units</string>
+	<key>AWAKENING_DESCRIPTION</key>
+	<string>Awaken units to make them more powerful.</string>
+	<key>SKILL_ENHANCE_TITLE</key>
+	<string>Enhance Skill Level</string>
+	<key>SKILL_ENHANCE_DESCRIPTION</key>
+	<string>Enhance Skill Level to make unit more powerful.</string>
+	<key>LIMITBREAK_ENHANCE_TITLE</key>
+	<string>Limit Break</string>
+	<key>LIMITBREAK_ENHANCE_DESCRIPTION</key>
+	<string>Limit Break to make unit more powerful.</string>
+	<key>REDUCE_LIMITBREAKS_TITLE</key>
+	<string>Limit Break Reset</string>
+	<key>REDUCE_LIMITBREAKS_DESCRIPTION</key>
+	<string>Convert fruits fused with unit into Bits.</string>
+	<key>LEVEL_LIMITBREAK_TITLE</key>
+	<string>Level Limit Break</string>
+	<key>LEVEL_LIMITBREAK_DESCRIPTION</key>
+	<string>Break Unit's Level Limit</string>
+	<key>EQUIP_WEAPON_TITLE</key>
+	<string>Equip Mods</string>
+	<key>EQUIP_WEAPON_DESCRIPTION</key>
+	<string>Equip units with Mods.</string>
+	<key>EX_AWAKENING_TITLE</key>
+	<string>Evolve Units</string>
+	<key>EX_AWAKENING_DESCRIPTION</key>
+	<string>Evolve to strengthen units' power.</string>
+	<key>UNLOCK_CRITERION_TEXT</key>
+	<string>Quest%s
+CLEAR</string>
+</dict>
+</plist>

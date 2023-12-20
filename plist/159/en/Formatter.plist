@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>POLYGON</key>
+	<string>Polygon</string>
+	<key>BIT</key>
+	<string>Bits</string>
+	<key>LINK</key>
+	<string>Links</string>
+	<key>GHOST</key>
+	<string>Ghosts</string>
+	<key>TITLE</key>
+	<string>Title＜%s＞</string>
+	<key>RAID_CHIP</key>
+	<string>Raid Chip</string>
+	<key>TOTAL_WAR_CHIP</key>
+	<string>Legion Quest Piece</string>
+	<key>QUANTITY</key>
+	<string> ×%d</string>
+	<key>TIME_REMAIN</key>
+	<string>Ends</string>
+	<key>TIME_REMAIN_MONTHS</key>
+	<string>mo</string>
+	<key>TIME_REMAIN_DAYS</key>
+	<string>d</string>
+	<key>TIME_REMAIN_HOURS</key>
+	<string>h</string>
+	<key>TIME_REMAIN_MINUTES</key>
+	<string>m</string>
+	<key>TIME_REMAIN_SECONDS</key>
+	<string>s</string>
+</dict>
+</plist>

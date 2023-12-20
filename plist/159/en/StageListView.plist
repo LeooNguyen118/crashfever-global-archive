@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CONFIRM_PURCHASE_POLYGON</key>
+	<string>You don&apos;t have enough energy.
+
+Energy can be recovered
+for the price of just 10 polygons.
+
+&lt;font color=&quot;red&quot;&gt;Purchase polygons?&lt;/font&gt;</string>
+	<key>CONFIRM_CHARGE_ENERGY</key>
+	<string>You don&apos;t have enough energy.
+
+Use 10 polygons to
+to recover energy?</string>
+	<key>CONFIRM_CHARGE_ENERGY_REMIND</key>
+	<string>Confirmation
+
+You&apos;re about to use 10 polygons
+to recover your energy.
+
+Are you sure?</string>
+	<key>CONFIRM_MAX_ENERGY_SHORTAGE</key>
+	<string>Your rank is lower than recommended for this quest.
+Would you like to try anyway?</string>
+	<key>SOLO_ONLY</key>
+	<string>This stage is for solo play only.
+Show &apos;em what you&apos;re made of!</string>
+	<key>MULTI_ONLY</key>
+	<string>This stage is multiplayer only.
+Play with your friends!</string>
+	<key>EVENT_PERIOD_DAY</key>
+	<string>%m/%d</string>
+	<key>EVENT_PERIOD_TIME</key>
+	<string>%H:%M:%S</string>
+	<key>RANK_CONDITION</key>
+	<string>Unlock condition: Rank %d</string>
+	<key>BONUS_COST</key>
+	<string>Cost</string>
+	<key>BONUS_TYPE</key>
+	<string>Type</string>
+	<key>BONUS_TRIBE</key>
+	<string>Tribe</string>
+	<key>BONUS_COLOR</key>
+	<string>Color</string>
+	<key>BONUS_ABILITY</key>
+	<string>Ability</string>
+	<key>BONUS_BUG</key>
+	<string>Bugs</string>
+	<key>BONUS_BASE_ID</key>
+	<string>Base No.</string>
+	<key>GRATER_THAN_EQUAL</key>
+	<string>≥</string>
+	<key>LESS_THAN_EQUAL</key>
+	<string>≤</string>
+	<key>CONSUME_KEY</key>
+	<string>Keys</string>
+	<key>CONSUME_POLYGON</key>
+	<string>Polygons</string>
+	<key>STAGE_LOCKED</key>
+<string>Clear
+
+%s
+%s
+
+to unlock this stage.</string>
+	<key>DAILY_LIMIT_REACHED</key>
+	<string>Play limit reached
+(Resets: %s)</string>
+	<key>STAGE_OPEN_DATE</key>
+	<string>%m/%d %H:%M</string>
+	<key>STAGE_OPEN_DEFAULT_MESSAGE</key>
+	<string>%s until unlock</string>
+	<key>STAGE_OPEN_DIALOG_MESSAGE</key>
+	<string>This stage will be unlocked on
+%m/%d %H:%M.</string>
+	<key>STAGE_CLOSED_MESSAGE</key>
+	<string>Closed</string>
+	<key>STAGE_CLOSED_DIALOG_MESSAGE</key>
+	<string>This stage is closed.</string>
+	<key>TUTORIAL_LOCK_QUEST</key>
+	<string>Let's challenge Lü Bu Invades!</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>CLOSE</key>
+<string>Close</string>
+<key>SHORTAGE_BITS</key>
+<string>Not enough bits.</string>
+<key>NEXT_DRAW</key>
+<string>Available in: %d h %d m %d s</string>
+<key>CHALLENGE</key>
+<string>Scratch Bonus</string>
+<key>NEXT_CHALLENGE</key>
+<string>Next Scratch Bonus</string>
+<key>CHALLENGE_TIME1</key>
+<string>2:00 am - 9:59 am</string>
+<key>CHALLENGE_TIME2</key>
+<string>10:00 am - 5:59 pm</string>
+<key>CHALLENGE_TIME3</key>
+<string>6:00 pm- 1:59 am</string>
+</dict>
+</plist>

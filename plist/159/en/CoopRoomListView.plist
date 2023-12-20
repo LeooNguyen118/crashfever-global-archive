@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CAPTION</key>
+	<string>Select Room</string>
+	<key>CAPTION_LINE</key>
+	<string>Select &lt;font color=&quot;#00ae3d&quot;&gt;SNS Multiplayer&lt;/font&gt; Room</string>
+	<key>GPS_INVALID</key>
+	<string>Location services turned off.
+Please turn it on.</string>
+	<key>GPS_DENIED</key>
+	<string>Unable to access
+current location. Enable
+location access.</string>
+	<key>GPS_FAILED</key>
+	<string>Failed to access
+location.
+Reason: %s</string>
+	<key>UNEXPECTED_ERROR</key>
+	<string>Unexpected error.
+Reason: %s</string>
+	<key>FAIL_SEARCH_ROOM</key>
+	<string>Failed to initialize
+communication. Try again.</string>
+	<key>ACCIDENTALLY_DISCONNECTED</key>
+	<string>Failed to communicate
+with server.</string>
+	<key>GPS_SEARCH</key>
+	<string>Accessing current
+location...</string>
+	<key>REQUEST_PHOTON_CONNECTINFO</key>
+	<string>Selecting connection
+management system. 
+Stable connection required.</string>
+	<key>REQUEST_FRIENDS_LIST</key>
+	<string>Updating friend data.
+Stable connection required.</string>
+	<key>ROOM_DOES_NOT_EXIST</key>
+	<string>Room is full or
+no longer active.
+Select another room.</string>
+	<key>MULTI_VERSION_FAIL</key>
+	<string>Unable to join.
+Your game version does
+not match this room.</string>
+	<key>SERVER_CONNECT</key>
+	<string>Connecting to
+room searching system.
+Stable connection required.</string>
+	<key>GPS_TIMEOUT</key>
+	<string>Failed to access
+location.
+Stable connection required.</string>
+	<key>TIMEOUT_DISCONNECT</key>
+	<string>Connection lost due
+to idle communication.</string>
+	<key>TIMEOUT_DISCONNECT_SERVER</key>
+	<string>Connection lost due
+to a communication timeout.</string>
+	<key>CONNECTION_FAILED</key>
+	<string>Server communication
+failed. Try again.</string>
+	<key>ROOM_FILTER_FAILED</key>
+	<string>Unable to join.
+Recruitment conditions not
+matched.</string>
+	<key>ROOM_DOES_NOT_FOUND</key>
+	<string>Return to title screen
+and try again.</string>
+	<key>SEARCH_BUTTON</key>
+	<string>Refine</string>
+	<key>SEARCH_RESET_BUTTON</key>
+	<string>&lt;font color=&quot;yellow&quot;&gt;Clear&lt;/font&gt;</string>
+	<key>SEARCH_DIALOG_HEADER</key>
+	<string>Refine Search</string>
+	<key>NOT_FIND_MULTI_ROOM</key>
+	<string>Room not found.</string>
+</dict>
+</plist>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>STAGE_DIFFICULTY_BASIC</key>
+<string>[Basic]</string>
+<key>STAGE_DIFFICULTY_EXPORT</key>
+<string>[Expert]</string>
+<key>STAGE_DIFFICULTY_Legend</key>
+<string>[Legend]</string>
+<key>STAGE_DIFFICULTY_WIZARD</key>
+<string>[Wizard]</string>
+<key>STAGE_DIFFICULTY_SUPER_WIZARD</key>
+<string>[Ultimate]</string>
+<key>STAGE_DIFFICULTY_ULTRA_WIZARD</key>
+<string>[Spectre]</string>
+<key>STAGE_DIFFICULTY_CRAZY_WIZARD</key>
+<string>[Insane]</string>
+<key>STAGE_DIFFICULTY_DIZASTER</key>
+<string>[Disaster]</string>
+<key>STAGE_DIFFICULTY_OMEGA</key>
+<string>[Omega]</string>
+<key>STAGE_DIFFICULTY_STORY</key>
+<string>[Story]</string>
+<key>STAGE_DIFFICULTY_BRACKET_LEFT</key>
+<string>[</string>
+<key>STAGE_DIFFICULTY_BRACKET_RIGHT</key>
+<string>]</string>
+</dict>
+</plist>

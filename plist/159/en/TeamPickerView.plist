@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CAPTION</key>
+	<string>Party Select</string>
+	<key>ROOM_PASSWORD_INVALID</key>
+	<string>Enter 4-digit number.</string>
+	<key>CAPTION_LINE</key>
+	<string>&lt;font color=&quot;#00ae3d&quot;&gt;SNS Multiplayer&lt;/font&gt; Party Select</string>
+	<key>SKILL</key>
+	<string>Skill</string>
+	<key>CRASH_SKILL</key>
+	<string>C Skill</string>
+	<key>ABILITY1</key>
+	<string>Ability 1</string>
+	<key>ABILITY2</key>
+	<string>Ability 2</string>
+	<key>ABILITY3</key>
+	<string>Ability 3</string>
+	<key>ABILITY4</key>
+	<string>Ability 4</string>
+	<key>ERROR_HELPER_ALREADY_IN_TEAM</key>
+	<string>You cannot start
+the quest because the
+Helper unit you selected
+is already in your party.
+Please edit your party.</string>
+	<key>WARNING_UPDATE_RESOURCE_REQUIRED</key>
+	<string>New quest data available.
+Updated data will now be
+downloaded.</string>
+	<key>UNABLE_HELPER</key>
+	<string>Helper unit not
+allowed on this Quest.</string>
+	<key>UNAVAILABLE_LAST_SELECTED_MEMBERS</key>
+	<string>No previous data.</string>
+	<key>FAIL_LOAD_LAST_SELECTED_MEMBERS</key>
+	<string>Failed to load last selected party.</string>
+	<key>CONFIRM_OVERWRITE_PARTY_BY_RECOMMENDED</key>
+	<string>Overwrite Party %d with
+recommended party
+Proceed?</string>
+	<key>CONFIRM_OVERWRITE_PARTY_BY_RECOMMENDED_AND_GO_QUEST</key>
+	<string>Overwrite Party %d with
+recommended party and begin
+Quest?</string>
+	<key>CONFIRM_OVERWRITE_PARTY_BY_LAST_USED</key>
+	<string>Overwrite Party %d with
+last party
+Proceed?</string>
+	<key>CONFIRM_OVERWRITE_PARTY_BY_LAST_USED_AND_GO_QUEST</key>
+	<string>Overwrite Party %d with
+last party and begin
+Quest?</string>
+	<key>FAIL_COPY_CLEAR_PARTY</key>
+	<string>Could not copy because
+you do not own the unit(s).</string>
+	<key>CONFIRM_OVERWRITE_CLEAR_PARTY</key>
+	<string>Overwriting Party %d with
+ cleared party.
+
+Confirm?</string>
+	<key>CONFIRM_OVERWRITE_CLEAR_PARTY_AND_GO_QUEST</key>
+	<string>Overwriting Party %d with cleared party
+and starting quest.
+	
+Confirm?</string>
+	<key>UNLOCK_ITEM_COUNT</key>
+	<string>&lt;font color=&apos;yellow&apos;&gt;%s&lt;/font&gt; &lt;font color=&apos;red&apos;&gt;%s&lt;/font&gt; items</string>
+	<key>CONFIRM_UNLOCK</key>
+	<string>Today %s time(s)
+quest can be unlocked.
+Would you like to use:
+%s
+（On hand: %s）
+&lt;font color=&apos;red&apos;&gt;The item is used when starting the quest.&lt;/font&gt;</string>
+    <key>CONFIRM_UNLOCK_CONSUME_BY_CLEAR</key>
+	<string>Quest can be unlocked %s more time(s) today.
+Use %s
+to start?
+（Owned: %s）
+Items will be consumed on quest clear.</string>
+	<key>CONFIRM_UNLOCK_IGNORE_FREE_CONSUME_BY_CLEAR</key>
+	<string>Quest can be unlocked %s more time(s) today.
+Use %s
+to start?
+（Owned: %s）
+This quest cannot be unlocked for free.
+Items will be consumed on quest clear.</string>
+	<key>CONFIRM_UNLOCK_UNLIMITED</key>
+	<string>Use %s
+to start
+(Available: %s)
+&lt;font color=&apos;red&apos;&gt;The item is used when starting the quest.&lt;/font&gt;</string>
+	<key>CONFIRM_UNLOCK_UNLIMITED_CONSUME_BY_CLEAR</key>
+	<string>Use %s
+to start?
+（Owned: %s）
+
+Items will be consumed on quest clear.</string>
+	<key>CONFIRM_UNLOCK_UNLIMITED_IGNORE_FREE</key>
+	<string>Use %s
+to start
+(Available: %s)
+Free play unavailable for this quest
+&lt;font color=&apos;red&apos;&gt;The item is used when starting the quest.&lt;/font&gt;</string>
+	<key>CONFIRM_UNLOCK_UNLIMITED_IGNORE_FREE_CONSUME_BY_CLEAR</key>
+	<string>Use %s
+to start?
+（Owned: %s）
+This quest cannot be unlocked for free.
+The item is used when clearing the quest.</string>
+	<key>CONFIRM_UNLOCK_FREE</key>
+	<string>&lt;font color=&apos;yellow&apos;&gt;Today&apos;s free play: &lt;/font&gt; &lt;font color=&apos;red&apos;&gt;%d&lt;/font&gt; time.
+Start?
+
+&lt;font color=&apos;red&apos;&gt;Challenge limit is consumed when starting the quest.&lt;/font&gt;</string>
+	<key>CONFIRM_UNLOCK_FREE_CONSUME_BY_CLEAR</key>
+	<string>&lt;font color=&apos;yellow&apos;&gt;Today: &lt;/font&gt; &lt;font color=&apos;red&apos;&gt;%d&lt;/font&gt; free unlock times left.
+Start?
+
+No. of challenges will be consumed on clear.</string>
+	<key>CONFIRM_CHALLENGE_LIMIT</key>
+	<string>&lt;font color=&apos;yellow&apos;&gt;Today: &lt;/font&gt; &lt;font color=&apos;red&apos;&gt;%d&lt;/font&gt; plays left.
+Start quest?
+	
+&lt;font color=&apos;red&apos;&gt;Challenge limit is consumed when starting the quest. &lt;/font&gt;</string>
+	<key>CONFIRM_CHALLENGE_LIMIT_CONSUME_BY_CLEAR</key>
+	<string>&lt;font color=&apos;yellow&apos;&gt;Today: &lt;/font&gt; &lt;font color=&apos;red&apos;&gt;%d&lt;/font&gt; plays left.
+Start quest?
+	
+Challenge limit is consumed when clearing the quest. </string>
+	<key>ERROR_UNLOCK_ITEM_SHORTAGE</key>
+	<string>&lt;font color=&apos;yellow&apos;&gt;%s&lt;/font&gt; shortage.</string>
+	<key>ERROR_UNLOCK_ITEM_SHORTAGE_MULTI</key>
+	<string>&lt;font color=&apos;yellow&apos;&gt;%s&lt;/font&gt; shortage.
+Close multi-room?</string>
+	<key>ERROR_UNLOCK_COUNT_SHORTAGE_MULTI</key>
+	<string>Play limit reached.
+Close multi-room?</string>
+	<key>ERROR_EMPTY_PARTY</key>
+	<string>Units for party not set.</string>
+	<key>TUTORIAL_GOODBY</key>
+	<string>That&apos;s all you&apos;ll need from me.
+Bye now and good luck!</string>
+	<key>WEAPON1</key>
+	<string>Mod 1</string>
+	<key>WEAPON2</key>
+	<string>Mod 2</string>
+	<key>WEAPON3</key>
+	<string>Mod 3</string>
+	<key>CAPTION_GOTO_CHANGE_HELPER</key>
+	<string>Helper Select</string>
+	<key>CAPTION_CLOSE</key>
+	<string>Close</string>
+	<key>ERROR_UNIT_CANNOT_ENTRY</key>
+	<string>Unit that cannot be
+used is included. Cannot
+continue.
+
+Unit that cannot be used</string>
+	<key>ERROR_UNIT_CANNOT_ENTRY2</key>
+	<string>Usable Unit</string>
+	<key>WEAPON_PROBABILITY</key>
+	<string>Activation Rate:%g%%</string>
+	<key>WEAPON_RESTRICTED</key>
+	<string>Mod cannot be
+used in this quest</string>
+	<key>SAMEUNIT_LOCK</key>
+	<string>Repeated</string>
+	<key>CANNOT_ENTRY_LOCK</key>
+	<string>Special Rule</string>
+	<key>WEAPON_HAS_NOT_EMPTY_SLOT</key>
+	<string>No Mod slot available
+ in front unit.
+
+
+Free a slot in front unit or
+change your front unit.
+
+
+&lt;font color = &quot;red&quot;&gt;Start anyway?&lt;/font&gt;</string>
+	<key>WEAPON_HAS_NOT_EMPTY_SLOT_START</key>
+	<string>Start</string>
+	<key>WEAPON_HAS_NOT_EMPTY_SLOT_CANCEL</key>
+	<string>Cancel</string>
+	<key>CONFIRM_UNLOCK_IGNORE_FREE</key>
+	<string>Today&apos;s available plays:  %s
+
+Use %s
+to start
+(Available: %s)
+Free play unavailable for this quest</string>
+	<key>ERROR_UNLOCK_ITEM_SHORTAGE_IGNORE_FREE</key>
+	<string>&lt;font color=&apos;yellow&apos;&gt;%s&lt;/font&gt;
+Insufficient amount available.
+Free play unavailable for this quest</string>
+	<key>ERROR_CHALLENGE_LIMIT</key>
+	<string>Play limit reached
+(Resets: %s)</string>
+	<key>ERROR_CHALLENGE_LIMIT_MULTI</key>
+	<string>Play limit reached
+Close room?</string>
+	<key>BINGO_BAN_UNIT</key>
+	<string>Banned Unit.</string>
+	<key>BAN_UNIT_CANNOT_ENTRY</key>
+	<string>Can&apos;t Select Banned Unit.</string>
+	<key>TUTORIAL_WEAPON</key>
+	<string>You can equip &lt;font color=&apos;yellow&apos;&gt;front unit&lt;/font&gt; with the &lt;font color=&apos;yellow&apos;&gt;Mod&lt;/font&gt;
+when you clear the Mod quest.
+
+Put unit who is able to equip Mod
+in front of the party.</string>
+	<key>TUTORIAL_LOCK_QUEST_1</key>
+	<string>Select a Party for quests.</string>
+	<key>TUTORIAL_LOCK_QUEST_2</key>
+	<string>To challenge Locked Quests,
+you will need corresponding Keys.	
+We have prepared an&lt;font color=&apos;yellow&apos;&gt;Ultimate Key&lt;/font&gt;for you.	
+Use this Key to challenge the quest.</string>
+	<key>Damage</key>
+	<string>Damage panel</string>
+	<key>Jammer</key>
+	<string>Junk</string>
+	<key>Virus</key>
+	<string>Virus</string>
+	<key>Poison</key>
+	<string>Poison Panel</string>
+	<key>Freeze</key>
+	<string>Protected Panel</string>
+	<key>Hacking</key>
+	<string>Hacking</string>
+	<key>Hacking_Panel</key>
+	<string>Hacking Panel</string>
+	<key>Dark</key>
+	<string>Darkness</string>
+	<key>ColorGain_Red</key>
+	<string>Red Panel Color Gain</string>
+	<key>ColorGain_Blue</key>
+	<string>Blue Panel Color Gain</string>
+	<key>ColorGain_Green</key>
+	<string>Green Panel Color Gain</string>
+	<key>ColorGain_Yellow</key>
+	<string>Yellow Panel Color Gain</string>
+	<key>Durable</key>
+	<string>Locked Panel</string>
+	<key>TimeBomb</key>
+	<string>Timer</string>
+	<key>Worm</key>
+	<string>Worm panel</string>
+	<key>VirusPanel</key>
+	<string>Virus Panel</string>
+	<key>SkillTurnDelay</key>
+	<string>Cooldown Increase</string>
+	<key>Damage_TEXT</key>
+	<string>Breaking Damage panels will cause damage to units.
+The unit in front with &apos;Damage Break&apos; can break Damage panels without taking damage.</string>
+	<key>Jammer_TEXT</key>
+	<string>Junks cannot be broken by normal clicking.
+Use units&apos; Skills or Abilities to break Junks.</string>
+	<key>Virus_TEXT</key>
+	<string>You will take damage at the end of each turn.
+The unit with &apos;Anti-Virus&apos; is immune to virus.
+The virus can be deactivated by Skills, or by waiting for turns to pass.</string>
+	<key>Poison_TEXT</key>
+	<string>Breaking Poison Panels will make you poisoned.
+Breaking multiple poison panels will cause you more instant damage and deferred damage at the end of the turn.
+The unit in front with &apos;Poison Break&apos; can break Poison Panels without taking damage.</string>
+	<key>Freeze_TEXT</key>
+	<string>Protected panels cannot be broken directly.
+Tap the protected panel to offset panel protection with 1 Tap count.
+Units with &apos;Protect Break&apos; can break Protected panels directly when in front.</string>
+	<key>Hacking_TEXT</key>
+	<string>You cannot take any action if being hacked.
+Units with ʻAnti-Hackingʻ ability won&apos;t be hacked.
+When hacked unit is in front,  you cannot take any action.
+Hacking can be deactivated by Skills, or by waiting for turns to pass.</string>
+	<key>Hacking_Panel_TEXT</key>
+	<string>Breaking Hacking panels will reduce your Tap count.
+Even if you break more than 1 Hacking Panel at one tap, the number of tap reductions won&apos;t change.
+The unit with &apos;Hacking Resistance&apos; can break Hacking Panels without tap reductions when at front.</string>
+	<key>Dark_TEXT</key>
+	<string>When in Darkness status, Panels will all turn black.
+Darkness can be removed by Skills, or by waiting for turns to pass.</string>
+	<key>ColorGain_Red_TEXT</key>
+	<string>Breaking Color Gain Panels will heal enemies.
+Convert panels by Skills, or try not to break certain panels. </string>
+	<key>ColorGain_Blue_TEXT</key>
+	<string>Breaking Color Gain Panels will heal enemies.
+Convert panels by Skills, or try not to break certain panels. </string>
+	<key>ColorGain_Green_TEXT</key>
+	<string>Breaking Color Gain Panels will heal enemies.
+Convert panels by Skills, or try not to break certain panels. </string>
+	<key>ColorGain_Yellow_TEXT</key>
+	<string>Breaking Color Gain Panels will heal enemies.
+Convert panels by Skills, or try not to break certain panels. </string>
+	<key>Durable_TEXT</key>
+	<string>Lock certain panels.
+Locked Panels shows count.
+Break Locked panels quickly. Or enemies will absorb them and cause damage or even worse. </string>
+	<key>TimeBomb_TEXT</key>
+	<string>Timers cannot be broken directly, and  when count to 0 they will explode to cause damage.
+Tap panels that are surrounding Timer and with the same color to break Timers.
+Otherwise, you can onvert Timers to panels by Skills.</string>
+	<key>Worm_TEXT</key>
+	<string>Multiply after certain turns passed.
+Explode and cause damage when countdown reaches 0.
+Worm Panels can be broken when units with Worm Break ability at front.
+※ Even if your front unit doesn&apos;t have Worm Break ability, you can break Worm Panels with Laser.</string>
+	<key>VirusPanel_TEXT</key>
+	<string>When you break a Virus-infected panel, party units will be damaged.
+When a unit with Anti-Virus ability is in front, it can break the panel without taking damage.
+Even if the panel is converted, the converted panel remains in a virus-infected state.</string>
+	<key>SkillTurnDelay_TEXT</key>
+	<string>Receiving this attack from the enemy will increase the number of turns required to use units' skills.
+Units with Anti-Cooldown Increase abilities can nullify the said effect with a fixed probability. If the unit has more than one resistance ability, the probability of disabling the effect is added up.</string>
+	<key>DISABLE_AUTO_BUTTON_CLEAR</key>
+	<string>Clear quest to unlock.</string>
+	<key>DISABLE_AUTO_BUTTON_FRIEND</key>
+	<string>Selecting helpers.</string>
+	<key>GIMMICK_DIALOG_TITLE</key>
+	<string>About Gimmicks.</string>
+	<key>DISABLE_AUTO_BUTTON_CLEAR_DIALOG</key>
+	<string>Clear quest
+	to unlock Auto Play </string>
+	<key>DISABLE_AUTO_BUTTON_FRIEND_DIALOG</key>
+	<string>The 4th unit in Auto Play
+can only be the Helper unit for your friends.</string>
+	<key>CHANGE_PARTY_NAME</key>
+	<string>Enter Party Name</string>
+	<key>INVALID_PARTY_NAME</key>
+	<string>Invalid Name</string>
+	<key>NG_PARTY_NAME</key>
+	<string>Enter a different name.</string>
+	<key>ACCESSOR_DIALOG</key>
+	<string>There is unequipped Mod(s).
+Choose Mod(s) to equip.</string>
+</dict>
+</plist>

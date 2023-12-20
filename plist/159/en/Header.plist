@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?> <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> <plist version="1.0">
+<dict>
+	<key>RANKING_IN_GROUP</key>
+	<string>&lt;font color="#ff9200"&gt;Group Rank %s&lt;/font&gt;</string>
+	<key>RANKING_IN_TOTAL</key>
+	<string>&lt;font color="#00DB00"&gt;Overall Rank %s&lt;/font&gt;</string>
+	<key>RANKING_SEPARATOR</key>
+	<string>・</string>
+</dict>
+</plist> 

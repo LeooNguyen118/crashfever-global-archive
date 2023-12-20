@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ERROR_DOWNLOAD_RESOURCES</key>
+	<string>Failed to download resource.</string>
+	<key>TAKEOVER_COMPLETE</key>
+	<string>Data successfully recovered.</string>
+	<key>OLD_TAKEOVER_CONFIRM</key>
+	<string>Restore the data saved in Google Account. 
+Log in Google Account 
+using the button below to restore.
+
+&lt;font color=&apos;red&apos;&gt;＊ Warning ＊
+In the case that a different OS is used
+from changing your device and such,
+Polygons cannot be transferred 
+due to Store policies.
+Other items shown in Item List,
+such as Mods, Lock Keys or Tickets,
+also cannot be transferred.&lt;/font&gt;</string>
+	<key>OLD_TAKEOVER_CONFIRM_PLAYERDATA</key>
+	<string>Player data found.
+&lt;font color=&quot;yellow&quot;&gt;Player name: %s
+Rank: %s&lt;/font&gt;
+
+Transfer player data?</string>
+	<key>OLD_TAKEOVER_CONFIRM_OVERWRITE</key>
+	<string>&lt;font color=&quot;red&quot;&gt;CAUTION&lt;/font&gt;
+Recovering previous data
+will cause you to lose
+your current game progress.
+Continue?</string>
+	<key>OLD_TAKEOVER_COMPLETE</key>
+	<string>Data successfully recovered.</string>
+	<key>OLD_TAKEOVER_NOT_FOUND</key>
+	<string>Player data not found.</string>
+	<key>OLD_TAKEOVER_AUTHENTICATE_FAILED</key>
+	<string>Failed to verify Google Sign-In.</string>
+	<key>OLD_LOGIN_DESCRIPTION</key>
+	<string>Verifying...</string>
+	<key>OLD_LOGIN_CANCEL</key>
+	<string>Cancel</string>
+	<key>DOWNLOAD_FREE_SPACE_SHORTAGE</key>
+	<string>Insufficient memory.
+You need at least %lldMB of free space.
+Your game progress may be hindered.</string>
+	<key>CONFIRM_UNABLE_HIGH_RESOLUTION</key>
+<string>Insufficient memory.
+Turn OFF High Definition Unit display
+to save space.
+OK?</string>
+	<key>TUTORIAL_WELCOME</key>
+	<string>&lt;font size=&quot;28&quot;&gt;System Match Detected&lt;/font&gt;
+Welcome to the world of ALICE.
+Your mission: Stop the rampaging
+avatars. Cooperate with other players
+and stand up to the nasty brutes
+infecting the system.</string>
+	<key>OLD_TUTORIAL_WELCOME</key>
+	<string>&lt;font size=&quot;28&quot;&gt;System Match Detected&lt;/font&gt;
+Welcome to the world of ALICE.
+Your mission: Stop the rampaging
+avatars. Cooperate with other players
+and stand up to the nasty brutes
+infecting the system.</string>
+	<key>CONFIRM_RESUME_BATTLE</key>
+	<string>Your last quest was aborted.
+Resume where you left off?</string>
+	<key>PLEASE_UPDATE_VERSION</key>
+	<string>A new version of Crash Fever is available.
+Continuing to use this version may result in
+unexpected behaviors. Please download
+the latest version.</string>
+	<key>CONFIRM_APPLICATION_EXIT</key>
+	<string>You&apos;re about to exit the app.
+Proceed?</string>
+	<key>CONFIRM_DOWNLOAD</key>
+	<string>Download Size: %s 
+Proceed?</string>
+	<key>MESSAGE_DOWNLOAD</key>
+	<string>Downloading...</string>
+	<key>MESSAGE_LOGIN</key>
+	<string>Logging in...</string>
+	<key>MESSAGE_FILE_CHECK</key>
+	<string>Checking file...</string>
+	<key>MESSAGE_CREATE_PLAYER</key>
+	<string>Creating account...</string>
+	<key>MESSAGE_TUTORIAL_PROGRESS</key>
+	<string>Saving data...</string>
+	<key>OLD_MESSAGE_TUTORIAL_PROGRESS</key>
+	<string>Saving data...</string>
+	<key>LINE_URL_REMOVE_BACKUP</key>
+	<string>Unable to move to multiplayer
+due to aborted data from your last game session.
+Delete aborted data?</string>
+	<key>LINE_URL_TUTORIAL_BACKUP</key>
+	<string>You must complete the tutorial first
+before you can access multiplayer.</string>
+	<key>LINE_INCORRECT_URL</key>
+	<string>The URL is invalid.
+Please check to see if it&apos;s
+pasted incorrectly.</string>
+	<key>AGREEMENT_MESSAGE</key>
+	<string>In order to play Crash Fever,
+you first need to agree to the Terms. 
+Tap &quot;Terms&quot; to review the Terms.
+Tap &quot;Agree&quot; to begin the game.</string>
+	<key>AGREEMENT_SHOW_LICENSE</key>
+	<string>Terms</string>
+	<key>AGREEMENT_AGREE</key>
+	<string>Agree</string>
+	<key>AGREEMENT_DISAGREE</key>
+	<string>Decline</string>
+	<key>AGREEMENT_TITLE</key>
+	<string>Crash Fever Terms</string>
+	<key>AGREEMENT_AGAIN</key>
+	<string>You must agree to the Terms
+before playing Crash Fever.</string>
+	<key>CONFIRM_RESTORE</key>
+	<string>RELOAD: Download graphics resource, etc. This may resolve issues where graphics do not appear. RECOVER: Download data after deleting temporary save data from aborted battles, etc. This may resolve issues such as the app not starting.</string>
+	<key>CONFIRM_RESTORE_DOWNLOAD</key>
+	<string>Reload</string>
+	<key>CONFIRM_RESTORE_RESTORE</key>
+	<string>Recover</string>
+	<key>CONFIRM_RESTORE_CANCEL</key>
+	<string>Cancel</string>
+	<key>ERROR_LOAD_STASHED_DATA</key>
+	<string>The game version has been updated. Discarding aborted data and returning to the home screen.</string>
+	
+	<key>EVENT_PAGE_URL_TUTORIAL_BACKUP</key>
+	<string>Please complete the tutorial 
+before continuing.</string>
+	<key>RETURN_TO_TITLE</key>
+	<string>Return to Title screen.</string>
+	<key>CONFIRM_RESOURCE_UPDATE_MESSAGE</key>
+	<string>Download required data to play.
+Continue?
+
+Select「&lt;font color = &quot;blue&quot;&gt;Batch&lt;/font&gt;」
+to help reduce the number 
+of downloads during play.
+
+Select「&lt;font color = &quot;green&quot;&gt;Min.&lt;/font&gt;」
+for minimum required download.
+Additional downloads may be required.</string>
+	<key>CONFIRM_RESOURCE_UPDATE_SIZE</key>
+	<string>Size: %s</string>
+	<key>CONFIRM_RESOURCE_UPDATE_ALL_LABEL</key>
+	<string>Batch size: </string>
+	<key>CONFIRM_RESOURCE_UPDATE_MIN_LABEL</key>
+	<string>Minimum size: </string>
+	<key>CONFIRM_RESOURCE_UPDATE_ALL_BUTTON</key>
+	<string>Batch</string>
+	<key>CONFIRM_RESOURCE_UPDATE_MIN_BUTTON</key>
+	<string>Min</string>
+	<key>CONFIRM_RESOURCE_UPDATE_CANCEL_BUTTON</key>
+	<string>Cancel</string>
+	<key>CONFIRM_RESOURCE_UPDATE_ATTENTION</key>
+	<string>&lt;font size = &apos;20&apos;&gt;Please be sure you&lt;/font&gt;
+&lt;font size = &apos;20&apos;&gt;have a stable connection.&lt;/font&gt;
+&lt;font size = &apos;20&apos;&gt;Due to larger file sizes&lt;/font&gt;
+&lt;font size = &apos;20&apos;&gt;Wi-Fi is recommended.&lt;/font&gt;</string>
+	<key>CONFIRM_RESOURCE_UPDATE_SIMPLE_DIALOG</key>
+	<string>Downloading new data
+Continue?
+
+&lt;font size = &apos;24&apos;&gt;Size: &lt;/font&gt;&lt;font color = &quot;red&quot; size = &apos;24&apos;&gt;%s&lt;/font&gt;
+	</string>
+	<key>CONFIRM_CHECK_RESOURCE_UPDATE</key>
+	<string>Confirm new data?</string>
+	<key>CONFIRM_RESOURCE_FORCE_UPDATE</key>
+	<string>Additional data required to play
+Download data?
+
+Tap Cancel to return to
+the Title screen.
+
+&lt;font size = &apos;24&apos;&gt;Size:  &lt;/font&gt;&lt;font color = &quot;red&quot; size = &apos;24&apos;&gt;%s&lt;/font&gt;
+	</string>
+	<key>NOT_EXIST_RESOURCE_UPDATE</key>
+	<string>No additional data.</string>
+	<key>CONFIRM_RESOURCE_UPDATE_TITLE</key>
+	<string>Data Download</string>
+	<key>EVENT_PAGE_URL_TUTORIAL_BACKUP</key>
+	<string>Complete the Tutorial to 
+unlock the Raid.</string>
+	<key>RAID_URL_TUTORIAL_BACKUP</key>
+	<string>Complete the Tutorial to 
+unlock the Raid.</string>
+	<key>REMIND_IDFA_TRACKING_TITLE</key>
+	<string>About Tracking</string>
+	<key>REMIND_IDFA_TRACKING_MESSAGE</key>
+	<string>If you allow tracking, 
+Crash Fever ads will not be
+displayed on other apps
+or websites.
+	
+If you disable tracking,
+you can still use 
+Crash Fever.</string>
+	<key>REMIND_IDFA_TRACKING_NEXT</key>
+	<string>Next</string>
+	<key>DIALOG_CLOSE</key>
+	<string>Close</string>
+	<key>CAPTION_MENU</key>
+	<string>Menu</string>
+	<key>MESSAGE_ACCOUNT_DELETION</key>
+	<string>◆Account Deletion Request◆
+	
+If you wish to have your account deleted, please read the Terms of Agreement below before contacting us.
+&lt;font color = &quot;red&quot;&gt;※ You must agree to the following "Terms of Agreement" in order to delete your account. We will not be accepting any correspondence without your agreement.
+&lt;/font&gt;
+【Terms of Agreement】
+【1】Once the account deletion process is completed, you will no longer be able to log in to the application with the same account.
+【2】It may take several weeks for the deletion process to be completed after the submission of your account deletion request.
+【3】Until the deletion process is completed, you will be able to continue logging in to the app after the submission of your account deletion request.
+【4】&lt;font color = &quot;red&quot;&gt;If you own paid items, the paid items you owned will no longer be available to you.
+&lt;/font&gt;【5】&lt;font color = &quot;red&quot;&gt;Please note that deleted accounts cannot be restored for any reason.
+&lt;/font&gt;【6】Cancellations of account deletion will not be accepted after the request has been submitted.
+	
+If you agree to the “Terms of Agreement” above, please tap on the "Agree" button to contact us.</string>
+	<key>CAPTION_ACCOUNT_DELETION_OK</key>
+	<string>Agree</string>
+	<key>CAPTION_ACCOUNT_DELETION_CANCEL</key>
+	<string>Cancel</string>
+	<key>MESSAGE_ACCOUNT_DELETION_CONFIRM</key>
+	<string>*Confirm*
+	
+&lt;font color = &quot;red&quot;&gt;Submiting account deletion request.
+Cancellation is not possible after submission.&lt;/font&gt;
+	
+Continue?</string>
+	<key>MESSAGE_ACCOUNT_DELETION_COMPLETE</key>
+	<string>Submitted Account Deletion Request.</string>
+	<key>MESSAGE_ACCOUNT_DELETION_NOT_EXIST</key>
+	<string>Account not created yet.</string>
+	<key>MESSAGE_PLAY_RESET</key>
+	<string>Do you wish to delete your saved data and
+start a new game from the beginning?
+
+If you wish to restore your data and play,
+please perform a data backup before deleting.
+
+&lt;font color = &quot;red&quot;&gt;※ Deleted data can not be restored.&lt;/font&gt;</string>
+	<key>MESSAGE_PLAY_RESET_COMPLETE</key>
+	<string>Your data has been deleted.</string>
+	<key>MESSAGE_PLAY_RESET_NOT_EXIT</key>
+	<string>No account has been created yet.</string>
+</dict>
+</plist>

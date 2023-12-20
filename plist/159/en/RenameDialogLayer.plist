@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PLACE_HOLDER</key>
+	<string>Enter name</string>
+	<key>OK</key>
+	<string>Confirm</string>
+	<key>CANCEL</key>
+	<string>Back</string>
+	<key>INVALID_NAME</key>
+	<string>Invalid name</string>
+	<key>MESSAGE_TUTORIAL</key>
+	<string>Enter your name.
+You can change your name at any time.</string>
+	<key>OK_TUTORIAL</key>
+	<string>OK</string>
+	<key>TUTORIAL_DEFAULT_NAME</key>
+	<string>No Name</string>
+	<key>MESSAGE_INFO</key>
+	<string>Please enter a new name.</string>
+	<key>NG_NAME</key>
+	<string>Invalid Name</string>
+</dict>
+</plist>

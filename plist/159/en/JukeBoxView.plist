@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>TUNE_PERIOD</key>
+	<string>Available</string>
+	<key>MISSING_FILE</key>
+	<string>File missing or damaged.
+Please try Data Reload.</string>
+	<key>MESSAGE_NO_ITEM</key>
+	<string>Tap ★ to mark your
+Favorites.</string>
+	<key>MESSAGE_PLEASE_SELECT</key>
+	<string>Please select music.</string>
+</dict>
+</plist>

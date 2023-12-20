@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NOTIFICATION_TITLE_MISSION_CLEAR</key>
+	<string>Mission cleared.</string>
+	<key>NOTIFICATION_TITLE_AUTO_ENHANCE_RESULT</key>
+	<string>Autofusion complete.</string>
+	<key>NOTIFICATION_TITLE_DEEP_LOG_GET</key>
+	<string>Deep-Log Get</string>
+	<key>NOTIFICATION_DESCRIPTION_AUTO_ENHANCE_RESULT_BUG</key>
+	<string>Bug %d → %d</string>
+	<key>NOTIFICATION_TITLE_AUTO_ENHANCE_FAILED</key>
+	<string>Auto enhance failed.</string>
+	<key>NOTIFICATION_DESCRIPTION_AUTO_ENHANCE_FAILED_BY_LACKING_BITS</key>
+	<string>Insufficient bits.[</string>
+	<key>NOTIFICATION_DESCRIPTION_DEEP_LOG_GET</key>
+	<string>「Deep-Log[%05d]」× %d</string>
+	<key>NOTIFICATION_TITLE_GUIDE_MISSION_PROGRESS</key>
+	<string>Guide Mission Process</string>
+	<key>NOTIFICATION_DESCRIPTION_GUIDE_MISSION_PROGRESS</key>
+	<string>%s (%s/%s)</string>
+	<key>NOTIFICATION_TITLE_GUIDE_MISSION_CLEAR</key>
+	<string>Clear Guide Mission!</string>
+</dict>
+</plist>

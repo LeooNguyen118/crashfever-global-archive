@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>OK</key>
+	<string>OK</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>DISPLAY_RECOMMEND_QUEST_LABEL</key>
+	<string>Show Quest on
+Home Screen</string>
+</dict>
+</plist>

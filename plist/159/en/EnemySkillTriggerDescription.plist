@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HP_UPPER</key>
+	<string>Above %d% HP</string>
+	<key>HP_LOWER</key>
+	<string>Below %d% HP</string>
+	<key>BREAK_PANEL_ATTRIBUTE</key>
+	<string>Break %s</string>
+	<key>BREAK_PANEL_TYPE</key>
+	<string>%s Panel</string>
+	<key>BREAK_PANEL_COUNT</key>
+	<string>%d in 1 turn</string>
+	<key>REMAIN_PANEL_ATTRIBUTE</key>
+	<string>%s</string>
+	<key>REMAIN_PANEL_TYPE</key>
+	<string>%s Panel</string>
+	<key>REMAIN_PANEL_COUNT</key>
+	<string>remain %d</string>
+	<key>UNIT_SKILL</key>
+	<string>Activate skill</string>
+	<key>LOCK_PANEL_COUNT_UPPER</key>
+	<string>Locked Panel count under %d</string>
+	<key>LOCK_PANEL_COUNT_LOWER</key>
+	<string>Locked Panel count above  %d</string>
+	<key>LOCK_PANEL_COUNT_EQUAL</key>
+	<string>Locked Panel count at %d</string>
+</dict>
+</plist>

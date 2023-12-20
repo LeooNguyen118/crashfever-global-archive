@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CAPTION</key>
+	<string>Searching for Players</string>
+	<key>GPS_UNAVAILABLE</key>
+	<string>Your location service is switched off.
+Please turn it on.</string>
+	<key>GPS_DENIED</key>
+	<string>Unable to access
+location. Enable
+location access.</string>
+	<key>GPS_FAIL</key>
+	<string>Failed to access
+location.
+Reason: %s</string>
+	<key>UNEXPECTED_ERROR</key>
+	<string>Unexpected error.
+Reason: %s</string>
+	<key>CONNECTION_FAILED</key>
+	<string>Server communication
+failure. Try again.</string>
+	<key>ROOM_CLOSED</key>
+	<string>Room no longer active.
+Returning to room selection.</string>
+	<key>BATTLE_ABORTED</key>
+	<string>Unable to start battle
+Player left the room.
+Returning to previous screen.</string>
+	<key>ACCIDENTALLY_DISCONNECTED</key>
+	<string>Failed to communicate
+with server.</string>
+	<key>MATCHING_SERVER_CONNECTION</key>
+	<string>Connecting to room.
+Stable connection required.</string>
+	<key>GPS_SEARCH</key>
+	<string>Accessing location.
+Stable connection required.</string>
+	<key>REQUEST_HOST_INFO</key>
+	<string>Accessing data
+from host.
+Stable connection required.</string>
+	<key>LOW_LATENCY</key>
+	<string>Connection slow to respond.
+Communication may be
+disrupted during battle.</string>
+	<key>ERROR_STAMINA_SHORTAGE</key>
+	<string>You don't have
+the necessary stamina
+to join this quest.</string>
+	<key>ERROR_EVENT_TIMEOUT</key>
+	<string>Event is not available.
+Choose another quest.</string>
+	<key>ERROR_IMPOSSIBLE_QUEST</key>
+	<string>Unable to join quest.
+Choose another quest.</string>
+	<key>ERROR_GUERILLA_TIMEOUT</key>
+	<string>Event is not available.
+Choose another quest.</string>
+	<key>ERROR_DAYS_OF_WEEK</key>
+	<string>Event is not available.
+Choose another quest.</string>
+	<key>ERROR_FOLDER_LIMIT_WITH_QUEST</key>
+	<string>Unit Folder full.
+Clear space by enhancing
+or selling units.</string>
+	<key>GPS_TIMEOUT</key>
+	<string>Failed to access
+location.
+Stable connection required.</string>
+	<key>TIMEOUT_DISCONNECT</key>
+	<string>Connection lost due
+to idle communication.</string>
+	<key>TIMEOUT_DISCONNECT_SERVER</key>
+	<string>Connection lost due to
+communication timeout.</string>
+	<key>NOT_ROOM_CHANGE</key>
+	<string>Cannot move directly
+between rooms. Leave current
+room to try again.</string>
+	<key>GUEST_OF_ROOM_MASTER</key>
+	<string>Host not responding.
+Returning to room selection.</string>
+	<key>ROOM_DOES_NOT_EXIST</key>
+	<string>Room is full or
+no longer active.
+Choose another room.</string>
+<key>NOT_ROOM_MOVE</key>
+<string>Please leave current
+room before moving to 
+another room.</string>
+<key>ERROR_UNLOCK_COUNT_SHORTAGE</key>
+<string>Play limit reached.
+Room will be closed.</string>
+</dict>
+</plist>

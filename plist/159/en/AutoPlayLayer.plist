@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BTN_AUTO_LOOP</key>
+	<string>Auto
+Lap</string>
+	<key>THE_LOOP_LAPS</key>
+	<string>Set Laps</string>
+	<key>AUTO_HEAL_ENERGY_WITH_POLYGON</key>
+	<string>Auto Energy Recover
+Use Polygons</string>
+	<key>AUTO_CONTINUE_WITH_POLYGON</key>
+	<string>Auto Continue
+Use Polygons</string>
+	<key>BTN_LEFT</key>
+	<string>3 Laps</string>
+	<key>BTN_CENTER</key>
+	<string>5 Laps</string>
+	<key>BTN_RIGHT</key>
+	<string>Nonstop</string>
+	
+<key>TITLE</key>
+<string>Auto Lap</string>
+<key>OK</key>
+<string>OK</string>
+<key>CANCEL</key>
+<string>Cancel</string>
+<key>DESCRIPTION_01</key>
+<string>Continuous Play</string>
+<key>DESCRIPTION_02</key>
+<string>Continue auto-lap with Energy Drinks or Polygons?</string>
+<key>DESCRIPTION_03</key>
+<string>Use Polygons to continue?</string>
+<key>DESCRIPTION_04</key>
+<string>Helper set after 2nd lap.</string>
+<key>BTN_AUTO</key>
+<string>AUTO</string>
+<key>TXT_AUTO_LOOP</key>
+<string>Auto Lap</string>
+<key>AUTO_HEAL_DRINK50</key>
+<string>Energy Drink
+(50)</string>
+<key>AUTO_HEAL_DRINK100</key>
+<string>Energy Drink
+(100)</string>
+<key>AUTO_HEAL_POLYGON</key>
+<string>Polygons
+10</string>
+<key>AUTO_CONTINUE</key>
+<string>Continue</string>
+<key>NOT_POSSESSION_DRINK50</key>
+<string>No Energy Drink (50) remaining</string>
+<key>NOT_POSSESSION_DRINK100</key>
+<string>No Energy Drink (100) remaining</string>
+<key>NOT_POSSESSION_POLYGON</key>
+<string>No Polygons remaining</string>
+</dict>
+</plist>

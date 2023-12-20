@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CAPTION</key>
+	<string>Operation Defrag</string>
+	<key>PERIOD</key>
+	<string>%m/%d %H:%M</string>
+	<key>PERIOD_TITLE</key>
+	<string>Event Period : %s 〜 %s</string>
+	<key>REMAIN</key>
+	<string>%s more pt</string>
+	<key>BONUS_CONDITION</key>
+	<string>Conditions</string>
+	<key>BONUS_UNIT</key>
+	<string>Bonus Unit</string>
+	<key>BONUS_QUEST</key>
+	<string>Bonus Quest</string>
+	<key>LABEL_POINT</key>
+	<string>%lldpt</string>
+	<key>DEFRAG_NEXT_GAUGE_LABEL</key>
+	<string>Next Reward in</string>
+</dict>
+</plist>

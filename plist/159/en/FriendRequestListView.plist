@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CAPTION</key>
+	<string>Friend request</string>
+	<key>REQUEST_CONFIRM</key>
+	<string>Send request</string>
+	<key>REQUEST_YES</key>
+	<string>Yes</string>
+	<key>REQUEST_NO</key>
+	<string>No</string>
+	<key>REQUEST_COMPLETE</key>
+	<string>Request sent</string>
+	<key>LAST_LOGIN_MONTHS</key>
+	<string>mo. ago</string>
+	<key>LAST_LOGIN_DAYS</key>
+	<string>days ago</string>
+	<key>LAST_LOGIN_HOURS</key>
+	<string>hrs ago</string>
+	<key>LAST_LOGIN_MINUTES</key>
+	<string>mi. ago</string>
+	<key>LAST_LOGIN_SECONDS</key>
+	<string>sec. ago</string>
+	<key>ERROR_ALREADY_FRIEND</key>
+	<string>Player is already a friend.</string>
+	<key>ERROR_ALREADY_SENT</key>
+	<string>Friend request already sent.</string>
+	<key>ERROR_RECEIVER_LIMIT</key>
+	<string>Player cannot accept
+additional requests.</string>
+</dict>
+</plist>

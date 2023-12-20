@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>-1</key>
+	<string>Unable to connect to internet.
+Error: -1</string>
+	<key>-2</key>
+	<string>Canceled
+Error: -2</string>
+<key>-3</key>
+<string>Could not connect to network.
+Be sure to use a stable connection.
+Error: -3</string>
+<key>-4</key>
+<string>Could not connect to network.
+Be sure to use a stable connection.
+Error: -4</string>
+	<key>-1000</key>
+	<string>Unexpected system error.
+Please try again later.
+Error: -1000</string>
+	<key>-2000</key>
+	<string>Currently under maintenance.
+Please wait and try again.
+Error: -2000</string>
+	<key>-3000</key>
+	<string>Failed to connect to 
+Google Sign-In.
+Error: -3000</string>
+	<key>-4000</key>
+	<string>Unable to connect to internet.
+Error: -4000</string>
+	<key>-5000</key>
+	<string>Unable to load data.
+Please try again later.
+Error: -5000</string>
+	<key>-6000</key>
+	<string>Failed to register data.
+Please try again later.
+Error: -6000</string>
+	<key>-8000</key>
+	<string>Failed to send and receive data.
+Try playing in an area
+with a better connection.
+Error: -8000</string>
+	<key>-9000</key>
+	<string>Unexpected data error
+Please try again later.
+Error: -9000</string>
+	<key>-9999</key>
+	<string>Unexpected system error.
+Please try again later.
+Error: -9999</string>
+	<key>1000</key>
+	<string>Exceeds your party cost.</string>
+	<key>1001</key>
+	<string>Please select a unit.</string>
+	<key>1002</key>
+	<string>Unit level must be at MAX.</string>
+	<key>1003</key>
+	<string>Not enough Bits.</string>
+	<key>1004</key>
+	<string>Not enough material units.</string>
+	<key>1005</key>
+	<string>Not enough Bits.</string>
+	<key>1006</key>
+	<string>ENHANCE_MATERIAL_SHORTAGE</string>
+	<key>1105</key>
+	<string>Insufficient bits</string>
+	<key>1106</key>
+	<string>Select material item.</string>
+	<key>1901</key>
+	<string>This unit cannot be enhanced any further.</string>
+	<key>1902</key>
+	<string>ERROR_IMPOSSIBLE_HELP_UNIT</string>
+	<key>1903</key>
+	<string>ERROR_CANNOT_ENHANCE_UNIT</string>
+	<key>1910</key>
+	<string>ERROR_CANNOT_ENHANCE_UNIT_LEVEL_LIMIT</string>
+	<key>2000</key>
+	<string>Not enough energy.</string>
+	<key>2001</key>
+	<string>Exceeds your maximum energy.</string>
+	<key>2002</key>
+	<string>Exceeds your maximum energy.</string>
+	<key>2003</key>
+	<string>Folder is full.</string>
+	<key>2801</key>
+	<string>This quest has closed</string>
+	<key>2802</key>
+	<string>Enigma Quests are closed for now</string>
+	<key>2803</key>
+	<string>This Enigma Quest has already been challenged</string>
+	<key>2804</key>
+	<string>This quest has closed</string>
+	<key>2805</key>
+	<string>This Enigma Quest cannot be challenged</string>
+	<key>2806</key>
+	<string>In Enigma Quests,
+bring 4 units</string>
+	<key>2807</key>
+	<string>Units that have already been used are included</string>
+	<key>2808</key>
+	<string>This quest has closed</string>
+	<key>2901</key>
+	<string>Not enough energy.</string>
+	<key>2902</key>
+	<string>This event has ended.</string>
+	<key>2903</key>
+	<string>This quest has ended.</string>
+	<key>2904</key>
+	<string>This quest has ended.</string>
+	<key>2905</key>
+	<string>This quest has ended.</string>
+	<key>2906</key>
+	<string>Your folder is full.</string>
+	<key>2907</key>
+	<string>Multiplayer quests currently unavailable.</string>
+	<key>2908</key>
+	<string>Your rank is not high enough.</string>
+	<key>2911</key>
+	<string>This quest cannot be unlocked.</string>
+	<key>2912</key>
+	<string>Already unlocked.</string>
+	<key>2913</key>
+	<string>No more tries available.
+(Try count is reset at midnight.)</string>
+	<key>2914</key>
+	<string>You don&apos;t have enough Polygons.</string>
+	<key>2915</key>
+	<string>This quest has ended.</string>
+	<key>2916</key>
+	<string>This quest is locked.</string>
+	<key>2917</key>
+	<string>Rank Quest currently under preparation.</string>
+	<key>2918</key>
+	<string>Error occurred while
+preparing to record ranking.
+Contact support.</string>
+	<key>2922</key>
+	<string>Quest has 3-player limit.</string>
+	<key>2923</key>
+	<string>Error: Stage limit.</string>
+	<key>2924</key>
+	<string>Unit not found.</string>
+	<key>2925</key>
+	<string>Play limit reached</string>
+	<key>2938</key>
+	<string>ERROR_STAGE_IS_NOT_RECOMMEND</string>
+	<key>2941</key>
+	<string>This Legion Quest has ended.</string>
+	<key>2943</key>
+	<string>Enemy already defeated.</string>
+	<key>2944</key>
+	<string>No rewards available.</string>
+	<key>2945</key>
+	<string>Units with the same ID are compiled.</string>
+	<key>2946</key>
+	<string>Material units that cannot be used in Legion Quest.</string>
+	<key>2947</key>
+	<string>Enemy has not yet been defeated</string>
+	<key>2948</key>
+	<string>Return to title screen and login.</string>
+	<key>2950</key>
+	<string>Defeat current enemy.</string>
+	<key>2951</key>
+	<string>Insufficient item amount.</string>
+	<key>2952</key>
+	<string>Insufficient item amount.</string>
+	<key>2971</key>
+	<string>Error: Stage schedule locked.</string>
+	<key>3801</key>
+	<string>No Raid Quests currently available.
+Error: 3801</string>
+	<key>3802</key>
+	<string>Insufficient Raid Quest Keys.
+Error: 3802</string>
+	<key>3804</key>
+	<string>Tabulating Raid Quest results.</string>
+	<key>3805</key>
+	<string>Raid Quest currently full.
+Choose another Raid Quest.</string>
+	<key>3806</key>
+	<string>Raid Quest Boss already defeated.</string>
+	<key>3807</key>
+	<string>Raid Quest Boss time limit expired.</string>
+	<key>3808</key>
+	<string>Raid Quest List limit reached.</string>
+	<key>3809</key>
+	<string>Rank is too low to enter Raid Quests.</string>
+	<key>3811</key>
+	<string>Already in battle with another boss.</string>
+	<key>3901</key>
+	<string>This Hatcher is no longer available.</string>
+	<key>3902</key>
+	<string>ERROR_ALREADY_DRAW</string>
+	<key>3903</key>
+	<string>Your folder is full.</string>
+	<key>3904</key>
+	<string>You don&apos;t have enough Links.</string>
+	<key>3905</key>
+	<string>You don&apos;t have enough Polygons.</string>
+	<key>3906</key>
+	<string>You don&apos;t have enough tickets.</string>
+	<key>3907</key>
+	<string>You can&apos;t use this Hatcher anymore.</string>
+	<key>4000</key>
+	<string>The ID you entered is invalid.</string>
+	<key>4901</key>
+	<string>You&apos;re already friends with this player.</string>
+	<key>4803</key>
+	<string>You have reached today's
+Rental Unit limit.</string>
+	<key>4804</key>
+	<string>Rental Unit period
+has ended</string>
+	<key>4902</key>
+	<string>You cannot add any more friends.</string>
+	<key>4903</key>
+	<string>Failed to load friend data.
+Please try again later.
+If trouble continues,contact support.</string>
+	<key>4904</key>
+	<string>Friend request already sent.</string>
+	<key>4905</key>
+	<string>Invitation codes can only be used once.</string>
+	<key>4906</key>
+	<string>The ID you entered is invalid.</string>
+	<key>4907</key>
+	<string>Enter a friend&apos;s ID.</string>
+	<key>4908</key>
+	<string>Unable to find any friends matching that ID.</string>
+	<key>4909</key>
+	<string>This player has reached their maximum number of friend slots.
+Unable to add as a friend.</string>
+	<key>4910</key>
+	<string>Friend Request invalid.
+No data found.</string>
+	<key>5901</key>
+	<string>Error. Connection Failed.</string>
+	<key>5902</key>
+	<string>Max friend slots reached.</string>
+	<key>5903</key>
+	<string>Max folder size reached.</string>
+	<key>5904</key>
+	<string>You don&apos;t have enough Polygons.</string>
+	<key>5905</key>
+	<string>Your energy is already full.</string>
+	<key>5906</key>
+	<string>Already canceled.</string>
+	<key>5907</key>
+	<string>Item currently unavailable for purchase.</string>
+	<key>5908</key>
+	<string>You don&apos;t have enough Ghosts.</string>
+	<key>5909</key>
+	<string>You can&apos;t exchange any more.</string>
+	<key>5910</key>
+	<string>Your folder is full.</string>
+	<key>5911</key>
+	<string>This item is no longer available.</string>
+	<key>5912</key>
+	<string>Insufficient data chips.
+5912</string>
+	<key>5913</key>
+	<string>Exchange currently closed.
+5913</string>
+	<key>5914</key>
+	<string>Purchase conditions not met.
+5914</string>
+	<key>5915</key>
+	<string>This cannot be used.
+message: 5915</string>
+	<key>5916</key>
+	<string>TRAN ID unavailable.
+message: 5916</string>
+	<key>5917</key>
+	<string>Monthly limit reached.
+Additional purchases unavailable.</string>
+	<key>5918</key>
+	<string>ERROR_LACK_OF_BITS</string>
+	<key>5919</key>
+	<string>ERROR_INVALID_USE_COUNT</string>
+	<key>6901</key>
+	<string>The serial code you entered is invalid.</string>
+	<key>6902</key>
+	<string>This serial code has already been used.</string>
+	<key>6903</key>
+	<string>This serial code has expired.</string>
+	<key>10001</key>
+	<string>Max number of views reached.</string>
+	<key>7902</key>
+	<string>Expired. Past claim date.</string>
+	<key>7903</key>
+	<string>Too many folders.</string>
+	<key>9901</key>
+	<string>Failed to load player information.
+Please try again later.
+If the error continues, please contact support.</string>
+	<key>9903</key>
+	<string>Password entry failed
+after 3 attempts.
+Try again after 24 hours.
+
+&lt;font color=&quot;red&quot;&gt;Customer Support
+cannot disclose account information.&lt;/font&gt;</string>
+	<key>9904</key>
+	<string>ID or password does not match.
+Recheck your login information.
+
+&lt;font color=&quot;red&quot;&gt;CAUTION
+For account protection,
+input locked after 3 failed attempts.&lt;/font&gt;</string>
+
+	<key>9905</key>
+	<string>Insufficient Items</string>
+	<key>9906</key>
+	<string>Limit reached. Unable to continue</string>
+	<key>9909</key>
+	<string>You have reached your inventory slot limit.
+Unable to receive items.</string>
+	<key>9913</key>
+	<string>Input failed after 3 attempts.
+Entry locked for 24 hours.
+
+&lt;font color=&quot;red&quot;&gt;Customer Support
+cannot disclose IDs or passwords.&lt;/font&gt;</string>
+	<key>9914</key>
+	<string>ID and password do not match.
+
+&lt;font color=&quot;red&quot;&gt;CAUTION
+For account protection,
+input locked after 3 failed attempts.&lt;/font&gt;</string>
+
+	<key>20001</key>
+	<string>File download has timed out.
+Check your internet connection
+and try again.</string>
+	<key>20002</key>
+	<string>Max number of retries allowed.
+Check your internet connection
+and login again.</string>
+	<key>20003</key>
+	<string>Master update failed.</string>
+<key>2004</key>
+	<string>You cannot start
+the quest because the
+Helper unit you selected
+is already in your party.
+Please edit your party.</string>
+
+<key>2925</key>
+<string>Play limit reached.</string>
+
+<key>2981</key>
+<string>Data acquisition failed.</string>
+<key>2982</key>
+<string>Reward data acquisition failed.</string>
+<key>2983</key>
+<string>Quest clear reward unit register failed.</string>
+<key>2984</key>
+<string>Line clear register failed.</string>
+<key>2985</key>
+<string>Quest clear update failed.</string>
+<key>2986</key>
+<string>All rewards claimed.</string>
+<key>2987</key>
+<string>Rewards already received.</string>
+<key>2988</key>
+<string>Reward information error.</string>
+<key>2989</key>
+<string>Reward claim failed.</string>
+<key>2990</key>
+<string>Reward claim time update failed.</string>
+<key>2991</key>
+<string>Some units in use in other Enigma quests.</string>
+<key>2992</key>
+<string>Unit update failed.</string>
+
+</dict>
+</plist>

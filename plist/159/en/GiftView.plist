@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>CAPTION</key>
+<string>Gift Box</string>
+<key>LABEL_MULTI</key>
+<string>Delete
+All</string>
+<key>DIALOG_DELETE</key>
+<string>Delete</string>
+<key>DIALOG_RECEIVE</key>
+<string>Claim</string>
+<key>DIALOG_CLOSE</key>
+<string>Close</string>
+<key>DIALOG_HEADER</key>
+<string>Gift</string>
+<key>DELETE_ALL_CONFIRM</key>
+<string>Delete all %d read message(s)?</string>
+	<key>DIALOG_SUCCESS_GET_GIFTS</key>
+	<string>Claim %d gifts</string>
+	<key>DIALOG_FAIL_GET_GIFTS</key>
+	<string>&lt;font color = &quot;red&quot;&gt;%d gifts could not be claimed.&lt;/font&gt;</string>
+	<key>LABEL_GIFT_TYPE_ITEM</key>
+	<string>Items</string>
+	<key>LABEL_GIFT_TYPE_UNIT</key>
+	<string>Units</string>
+	<key>LABEL_GIFT_TYPE_ENHANCE_CELL</key>
+	<string>Enhance・Selling</string>
+	<key>LABEL_GIFT_TYPE_AWAKE</key>
+	<string>Awakening Materials</string>
+	<key>LABEL_BRAKETS</key>
+	<string>【%s】</string>
+	<key>DIALOG_RECEIVE_COLLECTIVELY</key>
+	<string>Select Gifts.
+Up to %d gifts
+can be claimed at one time.</string>
+	<key>DIALOG_REQUIRE_SELECT</key>
+	<string>&lt;font color = &quot;red&quot; size = &quot;24&quot;&gt;Select gift type.&lt;/font&gt;</string>
+	<key>DIALOG_NOT_EXIST_SELECTED_GIFTS</key>
+	<string>&lt;font color = &quot;red&quot;&gt;Not found in Gift Box:&lt;/font&gt;</string>
+	
+	<key>NO_ITEM_TO_RECEIVE</key>
+<string>No available
+gifts</string>
+<key>NO_ITEM_ALREADY_RECEIVED</key>
+<string>No claimed
+gifts</string>
+	
+</dict>
+</plist>

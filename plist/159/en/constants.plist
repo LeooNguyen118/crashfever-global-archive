@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>cost</key>
+<string>Cost</string>
+<key>rare</key>
+<string>Rarity</string>
+<key>tribe</key>
+<string>Tribe</string>
+<key>type</key>
+<string>Type</string>
+<key>color</key>
+<string>Attribute</string>
+<key>bug</key>
+<string>BUG</string>
+<key>red</key>
+<string>Red</string>
+<key>blue</key>
+<string>Blue</string>
+<key>green</key>
+<string>Green</string>
+<key>yellow</key>
+<string>Yellow</string>
+<key>=</key>
+<string>＝</string>
+<key>!=</key>
+<string>≠</string>
+<key>&gt;</key>
+<string>＞</string>
+<key>&gt;=</key>
+<string>≧</string>
+<key>&lt;</key>
+<string>＜</string>
+<key>&lt;=</key>
+<string>≦</string>
+</dict>
+</plist>

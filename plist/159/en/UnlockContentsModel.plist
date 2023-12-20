@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>normal</key>
+	<string>Normal Quests</string>
+	<key>event</key>
+	<string>Event Quests</string>
+	<key>lock</key>
+	<string>Locked Quests</string>
+	<key>basic</key>
+	<string>Basic Quests</string>
+	<key>expert</key>
+	<string>Expert Quests</string>
+	<key>legend</key>
+	<string>Legend Quests</string>
+	<key>loop</key>
+	<string>Tower Quest</string>
+	<key>raid</key>
+	<string>Raid Quest</string>
+	<key>ranking</key>
+	<string>Ranking Quest</string>
+	<key>traversal</key>
+	<string>Enigma Quest</string>
+	<key>accessor</key>
+	<string>Mod Quests</string>
+	<key>story</key>
+	<string>Story</string>
+	<key>enhance</key>
+	<string>Enhancement Material Quest</string>
+	<key>daily</key>
+	<string>Daily Quest</string>
+	<key>special</key>
+	<string>Special Quest</string>
+	<key>unit_enhance</key>
+	<string>Unit Enhance</string>
+	<key>unit_enhance_skill</key>
+	<string>Skill Enhance</string>
+	<key>unit_enhance_limitbreak</key>
+	<string>Limit Break</string>
+	<key>unit_level_limitbreak</key>
+	<string>Level Limit Break</string>
+	<key>unit_awake</key>
+	<string>Unit Awaken</string>
+	<key>unit_ex_awake</key>
+	<string>Unit Evolve</string>
+	<key>multi_join</key>
+	<string>Join Multi</string>
+	<key>beginner</key>
+	<string>Easy Quests</string>
+	<key>senior</key>
+	<string>Hard Quests</string>
+	<key>wizard</key>
+	<string>Wizard Quests</string>
+	<key>cho_wiz</key>
+	<string>Ultimate Quests</string>
+	<key>goku_wiz</key>
+	<string>Spectre Quests</string>
+	<key>kyo_wiz</key>
+	<string>Spectre Quests</string>
+	<key>disaster</key>
+	<string>Disaster Quests</string>
+	<key>cho_disaster</key>
+	<string>Ultra Disaster Quests</string>
+	<key>total_war</key>
+	<string>Legion Quest</string>
+	<key>goku_disaster</key>
+	<string>Hyper Disaster Quest</string>
+	<key>UNLOCK_CRITERIA_GUIDE_MISSION</key>
+	<string>Clear Guide Mission Lv.%d</string>
+</dict>
+</plist>

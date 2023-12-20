@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CAPTION</key>
+	<string>Item Exchange</string>
+	<key>MONTHS</key>
+	<string>mo</string>
+	<key>DAYS</key>
+	<string>d</string>
+	<key>HOURS</key>
+	<string>h</string>
+	<key>MINUTES</key>
+	<string>mn</string>
+	<key>SECONDS</key>
+	<string>s</string>
+	<key>GHOSTS</key>
+	<string>Ghosts</string>
+	<key>RAID_CHIPS</key>
+	<string>Raid Chips</string>
+	<key>TOTAL_WAR_CHIPS</key>
+	<string>Legion Quest Piece</string>
+	<key>POLYGONS</key>
+	<string>Polygons</string>
+	<key>BITS</key>
+	<string>bits</string>
+	<key>ITEM</key>
+	<string>Item</string>
+	<key>EXCHANGE_CURRENCY_SHORTAGE</key>
+	<string>Insufficient %s.
+
+Required: &lt;font color=&quot;red&quot;&gt;%s&lt;/font&gt;
+Available: &lt;font color=&quot;red&quot;&gt;%s&lt;/font&gt;</string>
+	<key>EXCHANGE_OVERLIMIT</key>
+	<string>Exchange limit
+reached.</string>
+	<key>EXCHANGE_CONFIRM</key>
+	<string>Use %s ×&lt;font color=&quot;red&quot;&gt;%s&lt;/font&gt;?
+
+Available: &lt;font color=&quot;red&quot;&gt;%s&lt;/font&gt;</string>
+	<key>EXCHANGE_COMPLETE</key>
+	<string>%s acquired </string>
+	<key>NO_STORE_EXISTS</key>
+	<string>Exchange currently
+unavailable.</string>
+	<key>COUNT_ENERGY_ITEM</key>
+	<string>Stock:%d</string>
+	<key>NO_CURRENT</key>
+	<string>None</string>
+	<key>SORT_DIALOG_TITLE</key>
+	<string>Sort</string>
+	<key>ASCENDING</key>
+	<string>↑</string>
+	<key>DESCENDING</key>
+	<string>↓</string>
+	<key>DISPLAY_ALL</key>
+	<string>All</string>
+	<key>DISPLAY_EXCHANGE</key>
+	<string>Exchange items</string>
+	<key>SORT_PRIORITY</key>
+	<string>Order</string>
+	<key>SORT_PRICE</key>
+	<string>Cost</string>
+	<key>FILTER_UNIT</key>
+	<string>Unit</string>
+	<key>FILTER_ENHANCE</key>
+	<string>Enhance
+Material</string>
+	<key>FILTER_AWAKE</key>
+	<string>Awakening
+Material</string>
+	<key>FILTER_ITEM</key>
+	<string>items</string>
+	<key>FILTER_POLYGON</key>
+	<string>Polygons</string>
+	<key>FILTER_BIT</key>
+	<string>BIts</string>
+	<key>DISPLAY_LABEL</key>
+	<string>Show</string>
+	<key>SORT_LABEL</key>
+	<string>Order</string>
+	<key>FILTER_LABEL</key>
+	<string>Refine</string>
+	<key>COLORS_LABEL</key>
+	<string>Attribute (can select multiple)</string>
+	<key>UNIT_NAME_LABEL</key>
+	<string>Search Unit Name</string>
+	<key>UNIT_NAME_PLACE_HOLDER</key>
+	<string>Enter Unit Name</string>
+	<key>BUTTON_ALL</key>
+	<string>All</string>
+	<key>MESSAGE_NO_ITEM</key>
+	<string>No matching
+items found</string>
+	<key>NO_LIMIT</key>
+	<string>No exchange limit</string>
+	<key>TIME_LIMIT</key>
+	<string>left: %Y/%m/%d %H:%M</string>
+	<key>BUG_LABEL</key>
+	<string>(Max Bug %d)</string>
+	<key>UNLIMIT_TIME</key>
+	<string>None</string>
+	<key>REMAIN</key>
+	<string>until</string>
+</dict>
+</plist>

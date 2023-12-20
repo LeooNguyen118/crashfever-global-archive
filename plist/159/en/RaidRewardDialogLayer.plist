@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>RANKUP_MESSAGE</key>
+<string>Rank increase: &lt;font color=&quot;blue&quot;&gt;%d&lt;/font&gt;</string>
+<key>RANKUP_ENERGY</key>
+<string>Max Energy increase: &lt;font color=&quot;blue&quot;&gt;%d&lt;/font&gt; to &lt;font color=&quot;blue&quot;&gt;%d&lt;/font&gt; </string>
+<key>RANKUP_TEAM_COST</key>
+<string>Party Cost limit &lt;font color=&quot;blue&quot;&gt;%d&lt;/font&gt; to &lt;font color=&quot;blue&quot;&gt;%d&lt;/font&gt; </string>
+<key>RANKUP_FRIEND_SIZE</key>
+<string>Friend slot increase:&lt;font color=&quot;blue&quot;&gt;%d&lt;/font&gt; to &lt;font color=&quot;blue&quot;&gt;%d&lt;/font&gt;</string>
+<key>RECEIVED_EXPERIENCE</key>
+<string>EXP: Received</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?> <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> <plist version="1.0">
+<dict>
+	<key>HEADER_TITLE</key>
+	<string>Recruitment Conditions</string>
+	<key>PLACE_HOLDER</key>
+	<string>0000</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>ROOM_PASSWORD_INVALID</key>
+	<string>Please set a 4-digit no.</string>
+</dict>
+</plist> 

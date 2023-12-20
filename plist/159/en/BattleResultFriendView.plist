@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CAPTION</key>
+	<string>Players Who Helped</string>
+	<key>LAST_LOGIN_MONTHS</key>
+	<string> mo ago</string>
+	<key>LAST_LOGIN_DAYS</key>
+	<string> d ago</string>
+	<key>LAST_LOGIN_HOURS</key>
+	<string> hr ago</string>
+	<key>LAST_LOGIN_MINUTES</key>
+	<string> min ago</string>
+	<key>LAST_LOGIN_SECONDS</key>
+	<string> sec ago</string>
+	<key>CONFIRM_REQUEST</key>
+	<string>Send a friend request to this player?</string>
+	<key>CONFIRM_REQUEST_ALL</key>
+	<string>Send a friend request to all players?</string>
+	<key>SUCCESS_REQUEST</key>
+	<string>You sent a friend request to %s.</string>
+	<key>FAIL_REQUEST</key>
+	<string>Unable to send a friend request to %s.</string>
+	<key>MESSAGE_FIRST_MET_BONUS</key>
+	<string>&lt;font color=&quot;blue&quot; size=&quot;32&quot;&gt;New Friend Bonus!&lt;/font&gt;
+
+You teamed up with a new friend,
+so you get polygons as a gift!
+
+Be sure to check your gift box!</string>
+	<key>ERROR_ALREADY_FRIEND</key>
+	<string>You&apos;re already friends with this player.</string>
+	<key>ERROR_ALREADY_SENT</key>
+	<string>Friend request already sent.</string>
+	<key>ERROR_RECEIVER_LIMIT</key>
+	<string>This player has no empty friend slots available.</string>
+	<key>REWARD_CONFIRM</key>
+	<string>Watch video to gain
+%d Energy.</string>
+	<key>REWARD_OK</key>
+	<string>Watch</string>
+	<key>REWARD_CANCEL</key>
+	<string>Cancel</string>
+	<key>REWARD_DONE</key>
+	<string>Energy gained: %d</string>
+</dict>
+</plist>

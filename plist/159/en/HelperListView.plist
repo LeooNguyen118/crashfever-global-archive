@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CAPTION</key>
+	<string>Select Helper</string>
+	<key>ADVENTURER</key>
+	<string>Player</string>
+	<key>FRIEND</key>
+	<string>Friend</string>
+	<key>TUTORIAL_SELECT_HELPER</key>
+	<string>You can take the leader units
+	of other players into battle as helpers.</string>
+	<key>OLD_TUTORIAL_SELECT_HELPER</key>
+	<string>You can take the leader units
+	of other players into battle as helpers.</string>
+	<key>TUTORIAL_SELF_HELPER</key>
+<string>You can choose your own helper
+
+For now, use another player's unit.</string>
+	<key>MESSAGE_NO_ITEM</key>
+	<string>No matching
+units found</string>
+	<key>TUTORIAL_LOCK_QUEST</key>
+	<string>Choose Helper</string>
+	<key>SEPARATOR_MYSELF</key>
+	<string>My unit</string>
+	<key>SEPARATOR_OTHER</key>
+	<string>Other unit</string>
+	<key>SEPARATOR_RENTAL</key>
+	<string>Rental Unit</string>
+	<key>RENTAL_UNIT_COUNT</key>
+	<string>%d/%d</string>
+	<key>RENTAL_UNIT_DAY</key>
+	<string>Period: Until %Y/%m/%d %H:%M</string>
+</dict>
+</plist>

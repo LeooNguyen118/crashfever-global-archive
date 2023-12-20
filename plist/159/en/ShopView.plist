@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CAPTION</key>
+	<string>Shop</string>
+	<key>REWARD_TITLE</key>
+	<string>Free Polygon Reward</string>
+	<key>REWARD_DESCRIPTION</key>
+	<string>Watch video ads to get Polygons.</string>
+	<key>PURCHASE_TITLE</key>
+	<string>Purchase Polygons</string>
+	<key>PURCHASE_DESCRIPTION</key>
+	<string>Get discounts on polygons.</string>
+	<key>MONTHLYPACK_TITLE</key>
+	<string>Purchase Monthly Membership</string>
+	<key>MONTHLYPACK_IS_NOT_READY</key>
+    <string>Next Monthly Pack
+not yet available.</string>
+	<key>MONTHLYPACK_DESCRIPTION</key>
+	<string>Receive polygons daily for one month.</string>
+	<key>CHARGE_TITLE</key>
+	<string>Recover Energy</string>
+	<key>CHARGE_DESCRIPTION</key>
+	<string>Recover your Energy.</string>
+	<key>EXPAND_FOLDER_TITLE</key>
+	<string>Folder</string>
+	<key>EXPAND_FOLDER_DESCRIPTION</key>
+	<string>Increase Folder capacity.</string>
+	<key>EXPAND_FRIENDS_TITLE</key>
+	<string>Friend Slots</string>
+	<key>EXPAND_FRIENDS_DESCRIPTION</key>
+	<string>Increase Friend slots. </string>
+	<key>CHARGE_CONFIRM</key>
+	<string>Fully recover your energy
+for 10 polygons.</string>
+	<key>CHARGE_OK</key>
+	<string>Recover</string>
+	<key>CHARGE_PURCHASE</key>
+	<string>Purchase</string>
+	<key>CHARGE_CANCEL</key>
+	<string>Back</string>
+	<key>CHARGE_ALREADY_MAX</key>
+	<string>Your energy is already full!</string>
+	<key>CHARGE_LACK_POLYGONS</key>
+	<string>You don&apos;t have enough polygons!</string>
+	<key>CHARGE_COMPLETE</key>
+	<string>Energy recovered!</string>
+	<key>EXPAND_FOLDER_CONFIRM</key>
+	<string>Add 5 slots to your Folder
+for 10 polygons.
+(Currently: %d → After Expansion: %d)</string>
+	<key>EXPAND_FOLDER_OK</key>
+	<string>Expand</string>
+	<key>EXPAND_FOLDER_PURCHASE</key>
+	<string>Purchase</string>
+	<key>EXPAND_FOLDER_CANCEL</key>
+	<string>Back</string>
+	<key>EXPAND_FOLDER_OVERLIMIT</key>
+	<string>Unable to expand any further.</string>
+	<key>EXPAND_FOLDER_LACK_POLYGONS</key>
+	<string>You don&apos;t have enough polygons!</string>
+	<key>EXPAND_FOLDER_COMPLETE</key>
+	<string>Your folder now has %d slots!</string>
+	<key>EXPAND_FRIENDS_CONFIRM</key>
+	<string>Add 5 extra friend slots
+for 10 polygons.
+(Currently: %d → After Expansion: %d)</string>
+	<key>EXPAND_FRIENDS_OK</key>
+	<string>Expand</string>
+	<key>EXPAND_FRIENDS_PURCHASE</key>
+	<string>Purchase</string>
+	<key>EXPAND_FRIENDS_CANCEL</key>
+	<string>Back</string>
+	<key>EXPAND_FRIENDS_OVERLIMIT</key>
+	<string>Unable to expand any further.</string>
+	<key>EXPAND_FRIENDS_LACK_POLYGONS</key>
+	<string>You don&apos;t have enough polygons!</string>
+	<key>EXPAND_FRIENDS_COMPLETE</key>
+	<string>Now you can have up to %d friends!</string>
+	<key>EVENT_REMAIN</key>
+	<string>Til: </string>
+	<key>EVENT_REMAIN_MONTHS</key>
+	<string> mo</string>
+	<key>EVENT_REMAIN_DAYS</key>
+	<string> d</string>
+	<key>EVENT_REMAIN_HOURS</key>
+	<string> hr</string>
+	<key>EVENT_REMAIN_MINUTES</key>
+	<string> mi</string>
+	<key>EVENT_REMAIN_SECONDS</key>
+	<string> sec</string>
+	<key>NO_PACK_EXISTS</key>
+	<string>No packs currently
+available.</string>
+	<key>MESSAGE_NOT_AVAILABLE_PACK</key>
+	<string>Pack already
+purchased.</string>
+	<key>EXPAND_FOLDER_DIALOG_TEXT</key>
+	<string>Use &lt;font color=&quot;red&quot;&gt;%d&lt;/font&gt; Polygon(s).</string>
+	<key>LEGAL_NOTICE_1</key>
+	<string>
+	
+	
+&lt;font size=&quot;18&quot;&gt;※ Click 'Expand' to consume Polygon
+to expand folder.
+※ This action cannot be undone.　&lt;/font&gt;</string>
+	<key>LEGAL_NOTICE_2</key>
+	<string>
+	
+	
+&lt;font size=&quot;18&quot;&gt;※ Click 'REC'
+to use Polygon to recover.
+※ This action cannot be undone.　&lt;/font&gt;</string>
+</dict>
+</plist>

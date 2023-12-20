@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>TITLE_NEXT</key>
+	<string>Next: %s</string>
+	<key>MESSAGE_LAST</key>
+	<string>Be sure to check your gift box.</string>
+	<key>MESSAGE_THANKS</key>
+	<string>Thanks for logging in for 
+30 days. ALICE is grateful
+and counting on your help.
+</string>
+</dict>
+</plist>

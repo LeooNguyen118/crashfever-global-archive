@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HEADER_TITLE</key>
+	<string>Quest Info</string>
+	<key>BOSS_INFO_TITLE</key>
+	<string>Boss Info</string>
+	<key>BOSS_INFO_COLOR_RED</key>
+	<string>&lt;font color = &quot;red&quot;&gt;Red&lt;/font&gt;</string>
+	<key>BOSS_INFO_COLOR_BLUE</key>
+	<string>&lt;font color = &quot;blue&quot;&gt;Blue&lt;/font&gt;</string>
+	<key>BOSS_INFO_COLOR_YELLOW</key>
+	<string>&lt;font color = &quot;yellow&quot;&gt;Yellow&lt;/font&gt;</string>
+	<key>BOSS_INFO_COLOR_GREEN</key>
+	<string>&lt;font color = &quot;green&quot;&gt;Green&lt;/font&gt;</string>
+	<key>BOSS_INFO_TRIBE</key>
+	<string>Tribe: %s</string>
+	<key>BOSS_INFO_TYPE</key>
+	<string>Type: %s</string>
+	<key>GIMMICK_INFO_TITLE</key>
+	<string>Skills</string>
+	<key>GIMMICK_INFO_NONE</key>
+	<string>None</string>
+	<key>GIMMICK_INFO_JAMMER_PANNEL</key>
+	<string>Junk</string>
+	<key>GIMMICK_INFO_FREEZE</key>
+	<string>Panel
+Protect</string>
+	<key>GIMMICK_INFO_DAMAGE_PANNEL</key>
+	<string>Damage Panel</string>
+	<key>GIMMICK_INFO_VIRUS</key>
+	<string>Virus</string>
+	<key>GIMMICK_INFO_TIME_BOMB_PANNEL</key>
+	<string>Timer
+</string>
+	<key>GIMMICK_INFO_DURABLE_PANNEL</key>
+	<string>Locked Panel</string>
+	<key>GIMMICK_INFO_COLOR_GAIN_RED</key>
+	<string>Red Panel
+Color Gain</string>
+	<key>GIMMICK_INFO_COLOR_GAIN_GREEN</key>
+	<string>Green Panel
+Color Gain</string>
+	<key>GIMMICK_INFO_COLOR_GAIN_YELLOW</key>
+	<string>Yellow Panel
+Color Gain</string>
+	<key>GIMMICK_INFO_COLOR_GAIN_BLUE</key>
+	<string>Blue Panel
+Color Gain</string>
+	<key>GIMMICK_INFO_HACKING</key>
+	<string>Hacking</string>
+	<key>GIMMICK_INFO_DARK</key>
+	<string>Darkness</string>
+	<key>GIMMICK_INFO_VIRUS_PANEL</key>
+	<string>Virus Panel</string>
+	<key>GIMMICK_INFO_POISON_PANNEL</key>
+	<string>Poison panel</string>
+	<key>GIMMICK_INFO_HACKING_PANNEL</key>
+	<string>Hacking panel</string>
+	<key>GIMMICK_INFO_WORM_PANNEL</key>
+	<string>Worm panel</string>
+	<key>GIMMICK_INFO_SKILL_TURN_DELAY</key>
+	<string>Cooldown Increase</string>
+	<key>SPECIAL_RULE_INFO_TITLE</key>
+	<string>Special Rules</string>
+	<key>SPECIAL_RULE_INFO_NONE</key>
+	<string>None</string>
+	<key>INTRODUCTION_INFO_TITLE</key>
+	<string>Introduction</string>
+	<key>INTRODUCTION_INFO_TITLE_LOCK</key>
+	<string>Locked Quest</string>
+	<key>TREASURE_INFO_TITLE</key>
+	<string>First Clear Bonus</string>
+	<key>TREASURE_INFO_POLYGON</key>
+	<string>Polygons</string>
+	<key>TREASURE_INFO_BIT</key>
+	<string>Bits</string>
+	<key>TREASURE_INFO_LINK</key>
+	<string>Links</string>
+	<key>TREASURE_INFO_GHOST</key>
+	<string>Ghosts</string>
+	<key>TREASURE_INFO_CUSTOM_TITLE</key>
+	<string>Title: %s</string>
+	<key>TREASURE_INFO_NONE</key>
+	<string>None</string>
+	<key>DROP_INFO_TITLE</key>
+	<string>Rewards</string>
+	<key>HEADER_TITLE_QUEST</key>
+	<string>Quest Info</string>
+	<key>HEADER_TITLE_STAGE</key>
+	<string>Stage Info</string>
+	<key>LIMIT_BONUS_INFO_TITLE</key>
+	<string>Limited Time Additional Bonus</string>
+	<key>FORMATION_BONUS_UNIT_TITLE</key>
+	<string>Bonus Unit</string>
+	<key>RECOMMEND_UNIT_INFO_TITLE</key>
+	<string>Recommended Unit</string>
+	<key>CLEAR_TREASURE_INFO_TITLE</key>
+	<string>Clear Bonus</string>
+	<key>BUG_TREASURE_INFO_TITLE</key>
+	<string>Bug Bonus</string>
+	<key>MULTI_TREASURE_INFO_TITLE</key>
+	<string>Multiplayer Bonus</string>
+	<key>NO_CONTINUE_TREASURE_INFO_TITLE</key>
+	<string>No Continues Bonus</string>
+</dict>
+</plist>

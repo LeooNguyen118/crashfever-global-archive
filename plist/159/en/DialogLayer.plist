@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>BUTTON_OK</key>
+<string>OK</string>
+<key>BUTTON_CANCEL</key>
+<string>Cancel</string>
+<key>BUTTON_YES</key>
+<string>Yes</string>
+<key>BUTTON_NO</key>
+<string>No</string>
+<key>FATAL_ERROR</key>
+<string>A critical error has occurred.
+Returning to title screen.</string>
+	<key>BUTTON_CLOSE</key>
+	<string>Close</string>
+	<key>BUTTON_RETURN</key>
+	<string>Back</string>
+</dict>
+</plist>

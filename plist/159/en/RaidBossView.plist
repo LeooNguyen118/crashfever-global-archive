@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CAPTION</key>
+	<string>Boss Battle Preparation</string>
+	<key>USE_BOOSTER</key>
+	<string>Use Attack Boost?</string>
+	<key>HELP_RAID_BATTLE</key>
+	<string>Send calls for help.
+									
+Note: Players who have
+participated in 9 Raids
+cannot join.</string>
+	<key>RAID_HELP_SUCCESS</key>
+	<string>Calls for help sent.</string>
+	<key>LABEL_ATTACKS</key>
+	<string>Attacks:</string>
+	<key>LABEL_TOTAL_DAMEGE</key>
+	<string>Total Damage</string>
+	<key>LABEL_ATTACK_NUMBER</key>
+	<string>×</string>
+	<key>LABEL_TURN_NUM</key>
+	<string>%d</string>
+	<key>LABEL_BOSS_LV</key>
+	<string>Lv %d</string>
+	<key>LABEL_PARTICIPATION_NUM</key>
+	<string>%d</string>
+	<key>LABEL_MY_ADVENT</key>
+	<string>Boss spotted</string>
+	<key>LABEL_HELP</key>
+	<string>Calls for help: %s</string>
+	<key>RAID_BOSS_PERIOD</key>
+	<string>Until: %H:%M:%S</string>
+	<key>USE_BOOSTER</key>
+<string>Use Attack Boost?
+
+Only effective in battle with
+%s </string>
+</dict>
+</plist>

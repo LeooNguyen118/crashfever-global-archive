@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CAPTION</key>
+	<string>Select unit to change</string>
+	<key>CAPTION_DICTIONARY</key>
+	<string>Skin Change Available Units</string>
+	<key>UNIT_SKIN_ATTENTION</key>
+	<string>Select Skin</string>
+	<key>UNIT_SKIN_ATTENTION_2</key>
+	<string>※Skills will not change</string>
+	<key>UNIT_SKIN_CHANGE</key>
+	<string>Change Skin</string>
+	<key>UNIT_SKIN_RELEASE</key>
+	<string>Unlock Skin</string>
+	<key>UNIT_SKIN_ITEM_COST</key>
+	<string>Used</string>
+	<key>UNIT_SKIN_ITEM_NUMBER</key>
+	<string>Owned</string>
+	<key>UNIT_SKIN_EXCHANGE_ITEM</key>
+	<string>&lt;font color=&quot;blue&quot;&gt;%s&lt;/font&gt;  &lt;font color=&quot;red&quot;&gt;%s&lt;/font&gt; </string>
+	<key>UNIT_SKIN_EXCHANGE_ATTENTION</key>
+	<string> Use to unlock Skin?</string>
+	<key>UNIT_SKIN_EXCHANGE_ITEM_CHANGE</key>
+	<string>（Owned: &lt;font color=&quot;red&quot;&gt;%lld&lt;/font&gt;  → &lt;font color=&quot;red&quot;&gt;%lld&lt;/font&gt; ）</string>
+	<key>UNIT_SKIN_EXCHANGE_YES</key>
+	<string>Yes</string>
+	<key>UNIT_SKIN_EXCHANGE_NO</key>
+	<string>No</string>
+	<key>UNIT_SKIN_EXCHANGE_ATTENTION_SHORTAGE</key>
+	<string>&lt;font color=&quot;blue&quot;&gt;%s&lt;/font&gt;  insufficient</string>
+	<key>UNIT_SKIN_EXCHANGE_ITEM_COST</key>
+	<string>Number needed: &lt;font color=&quot;red&quot;&gt;%d&lt;/font&gt;</string>
+	<key>UNIT_SKIN_EXCHANGE_ITEM_NUMBER</key>
+	<string>Number owned: &lt;font color=&quot;red&quot;&gt;%d&lt;/font&gt;</string>
+	<key>FAIL_PUTON</key>
+	<string>Failed to change Skin.</string>
+	<key>MESSAGE_NO_UNIT</key>
+	<string>No units can
+unlock Skins</string>
+	<key>MESSAGE_NO_ITEM</key>
+	<string>No owned items</string>
+</dict>
+</plist>

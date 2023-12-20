@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MESSAGE_ENHANCE_UNLOCKED</key>
+	<string>Now you can enhance units!</string>
+	<key>MESSAGE_AWAKE_UNLOCKED</key>
+	<string>Now you can awaken units!</string>
+	<key>DIALOG_DETAIL</key>
+	<string>Details</string>
+	<key>DIALOG_CLOSE</key>
+	<string>Close</string>
+	<key>DIALOG_OK</key>
+	<string>OK</string>
+	<key>TUTORIAL_NAME_INPUT</key>
+	<string>Lastly, enter a nickname.</string>
+	<key>TUTORIAL_COMPLETE</key>
+	<string>You finished the mission
+ &quot;Complete the tutorial!&quot;
+Tap Missions to receive
+your reward.</string>
+	<key>TUTORIAL_LETS_GO_MISSION</key>
+	<string>Let's collect mission rewards.</string>
+	<key>OLD_TUTORIAL_NAME_INPUT</key>
+	<string>Lastly, enter a nickname.</string>
+	<key>OLD_TUTORIAL_COMPLETE</key>
+	<string>You finished the mission
+ &quot;Complete the tutorial!&quot;
+Tap Missions to receive
+your reward.</string>
+	<key>PAY_LOGIN_REMAIN_DAYS</key>
+	<string>r%d d</string>
+	<key>PAY_LOGIN_BEFOR_PURCHASE</key>
+	<string>b</string>
+	<key>ADSTIR_DISABLED</key>
+	<string>For Lucky Pick、
+Video Ads must be 
+set to ON。</string>
+	<key>WIKI_COMING_SOON</key>
+	<string>Under construction.</string>
+	<key>TUTORIAL_LETS_GO_QUEST</key>
+	<string>%s
+Welcome to ALICE!
+I'll show you to the entry!</string>
+	<key>OLD_TUTORIAL_LETS_GO_MISSION</key>
+	<string>Let's collect mission rewards.</string>
+	<key>EMPTY_UNIT</key>
+	<string>Pending</string>
+	<key>WEAPON_EXCHANGE_MESSAGE</key>
+	<string>Expired Mods
+have been converted</string>
+	<key>NO_MORE_SHOW_INFOMATION</key>
+	<string>Do not show today</string>
+	<key>QUEST_OPEN_DIALOG_MESSAGE</key>
+	<string>This quest will unlock on
+%m／%d %H:%M.</string>
+	<key>QUEST_CLOSED_DIALOG_MESSAGE</key>
+	<string>This quest has closed.</string>
+	<key>QUEST_OPEN_DATE</key>
+	<string>%m／%d %H:%M</string>
+	<key>DAILY_LIMIT_REACHED</key>
+	<string>Play limit reached.
+(Reset in %s)</string>
+	<key>UNLOCK_POLYGON_SHORTAGE</key>
+	<string>Use &lt;font color=&quot;red&quot;&gt;%d&lt;/font&gt; Polygons to unlock quest.
+Polygon insufficient.
+Purchase?</string>
+	<key>PURCHASE</key>
+	<string>Purchase</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>ERROR_UNLOCK_ITEM_SHORTAGE_IGNORE_FREE</key>
+	<string>&lt;font color=&apos;yellow&apos;&gt;%s&lt;/font&gt; insufficient.
+	
+This quest cannot be unlocked for free.</string>
+	<key>ERROR_UNLOCK_ITEM_SHORTAGE</key>
+	<string>&lt;font color=&apos;yellow&apos;&gt;%s&lt;/font&gt; insufficient.</string>
+	<key>REMIND_PAY_LOGIN</key>
+	<string>Polygon Pass period
+has ended.</string>
+	<key>DEFRAG_EVENT_CLOSED</key>
+	<string>Operation Defrag Completed.</string>
+	<key>GUIDE_MISSION_LEVEL</key>
+	<string>Lv.%d</string>
+	<key>GUIDE_MISSION_ACHIEVEMENT</key>
+	<string>%d/%d</string>
+	<key>ITEM_STORE_REMIND</key>
+	<string>There is an Item Exchange
+expiring soon.</string>
+	<key>DIALOG_ITEM_STORE</key>
+	<string>Item Exchange</string>
+	<key>PLAY_SPINE_ANIMATION</key>
+	<string>Play Animation</string>
+	<key>SHOW_FAVORITE_PARTY</key>
+	<string>Show Favorite Unit</string>
+	<key>DESCRIPTION_HOME_PARTY</key>
+	<string>If set to OFF, your Party units
+will be displayed on home screen.</string>
+	<key>CHANGE_FAVORITE_PARTY</key>
+	<string>Change
+Unit</string>
+</dict>
+</plist>

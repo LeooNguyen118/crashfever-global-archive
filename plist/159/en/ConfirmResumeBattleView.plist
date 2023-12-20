@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ERROR_LOAD_STASHED_DATA</key>
+	<string>The app version has been updated. Discarding aborted data and returning to the home screen.</string>
+	<key>ERROR_CANNOT_RESUME</key>
+	<string>Unable to resume quest due to an unexpected error with aborted data. Returning to the home screen.</string>
+	<key>ERROR_CONTINUE_OVERLIMIT</key>
+	<string>Multiplayer session was aborted due to a break in the connection. This quest was aborted with no remaining units. You cannot resume this quest. Returning to the home screen.</string>
+	<key>ERROR_ENERGY_OVERLIMIT</key>
+	<string>Multiplayer session was aborted due to a break in the connection. (Current energy: &lt;font color="blue"&gt;%d&lt;/font&gt; / Max energy: &lt;font color="blue"&gt;%d&lt;/font&gt;) Your maximum energy isn't sufficient to resume this quest. Unable to resume quest.</string>
+	<key>CONFIRM_RESUME_BATTLE</key>
+	<string>Your last quest attempt was aborted. Resume where you left off?</string>
+	<key>CONFIRM_RESUME_LOCK_QUEST</key>
+	<string>&lt;font color="red"&gt;This is a locked quest.&lt;/font&gt; Aborting play will result in its being locked again. Are you sure you want to abort?</string>
+	<key>CONFIRM_RESUME_BATTLE_LIMIT_OVER</key>
+	<string>You've reached the maximum number of aborts allowed. Returning to the home screen without resuming quest.</string>
+	<key>CONFIRM_RESUME_BATTLE_LIMIT</key>
+	<string>Your last quest attempt was aborted. Resume where you left off?
+(You can resume &lt;font color="red"&gt;%d&lt;/font&gt; more times.)
+This quest has a limited number of retries.</string>
+	<key>CONFIRM_RESUME_BATTLE_MULTI</key>
+	<string>Multiplayer session was aborted due to a break in the connection. You can resume this quest at a cost of &lt;font color="red"&gt;%d&lt;/font&gt; energy units. (Current energy: &lt;font color="blue"&gt;%d&lt;/font&gt; / Max energy: &lt;font color="blue"&gt;%d&lt;/font&gt;) Resume quest?</string>
+	<key>CONFIRM_RESUME_BATTLE_MULTI_LACK_ENERGY</key>
+	<string>&lt;font color="red"&gt;You don't have enough energy. &lt;font color="red"&gt;You can fully recover your energy for &lt;font color="red"&gt;1&lt;/font&gt; Polgyon. Recover energy? (Current Polygons: &lt;font color="blue"&gt;%d&lt;/font&gt;)</string>
+	<key>CONFIRM_RESUME_BATTLE_MULTI_LACK_POLYGONS</key>
+	<string>&lt;font color="red"&gt;You don't have enough Polygons. &lt;/font&gt;Purchase Polygons?</string>
+	<key>CONFIRM_RESUME_BATTLE_RAID_CLOSED</key>
+	<string>Raid Quest Completed.
+
+Return to Home screen.</string>
+	
+	<key>CONFIRM_CONTINUE</key>
+	<string>
+
+IMPORTANT: This quest was aborted with no remaining units. Upon resuming the quest, &lt;font color="red"&gt;continues&lt;/font&gt; can be bought for the price of &lt;font color="red"&gt;1&lt;/font&gt; Polygon.</string>
+	<key>CONFIRM_CONTINUE_LIMIT</key>
+	<string>
+(You have &lt;font color="red"&gt;%d&lt;/font&gt; more continues.)</string>
+	<key>CONFIRM_CONTINUE_ATTENTION</key>
+	<string>
+
+In the event another player resumes play just before you, gameplay will be picked up from where you left off.</string>
+	<key>LINE_URL_ERROR_LOAD_STASHED_DATA</key>
+	<string>The app version has been updated. Discarding aborted data and moving to multiplayer.</string>
+	<key>LINE_URL_REMOVE_BACKUP</key>
+	<string>Unable to move to multiplayer due to aborted data from your last game session. Delete aborted data?</string>
+	
+	<key>CONFIRM_RESUME_RAID_HOST</key>
+<string>&lt;font color=&quot;red&quot;&gt;Raid Quest&lt;/font&gt;
+
+Energy is consumed
+if quest is stopped.
+
+Stop quest?</string>
+<key>CONFIRM_RESUME_RAID_GUEST</key>
+<string>&lt;font color=&quot;red&quot;&gt;Raid Quest&lt;/font&gt;
+
+Raid Quest Key cannot be
+returned if quest is stopped.
+
+Stop quest?</string>
+
+<key>CONFIRM_RESUME_RAID_HOST</key>
+<string>&lt;font color=&quot;red&quot;&gt;Raid Quest&lt;/font&gt;
+
+Even if you quit 
+Energy is used.
+
+Quit?</string>
+<key>CONFIRM_RESUME_RAID_GUEST</key>
+<string>&lt;font color=&quot;red&quot;&gt;Raid Quest&lt;/font&gt;
+
+Even if you quit 
+Raid Key is used.
+
+Quit?</string>
+<key>CONFIRM_RESUME_LIMIT_QUEST</key>
+<string>&lt;font color=&quot;red&quot;&gt;This quest has
+a play limit&lt;/font&gt;
+
+Even if you quit 
+It is counted against the limit
+
+Quit?</string>
+</dict>
+</plist>

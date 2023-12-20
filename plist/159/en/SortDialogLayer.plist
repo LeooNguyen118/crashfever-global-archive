@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BUTTON_ALL</key>
+	<string>All</string>
+	<key>BUTTON_RESET</key>
+	<string>Reset</string>
+	<key>BUTTON_RARITY_6</key>
+	<string>6★</string>
+	<key>BUTTON_RARITY_5</key>
+	<string>5★</string>
+	<key>BUTTON_RARITY_4</key>
+	<string>4★</string>
+	<key>BUTTON_RARITY_3</key>
+	<string>3★</string>
+	<key>BUTTON_RARITY_2</key>
+	<string>2★</string>
+	<key>COLORS</key>
+	<string>Attribute</string>
+	<key>RARITIES</key>
+	<string>Rarity</string>
+	<key>ABILITIES</key>
+	<string>Ability</string>
+	<key>TYPES</key>
+	<string>Type</string>
+	<key>TRIBES</key>
+	<string>Tribe</string>
+	<key>COST</key>
+	<string>Cost</string>
+	<key>MIN_COST_PLACE_HOLDER</key>
+	<string>No lower limit.</string>
+	<key>MAX_COST_PLACE_HOLDER</key>
+	<string>No max limit.</string>
+	<key>RANGE</key>
+	<string>-</string>
+	<key>WEAPON_EQUIPS</key>
+	<string>Mod Equips</string>
+	<key>WEAPON_HAS_SLOT</key>
+	<string>Available</string>
+	<key>WEAPON_EQUIPPED</key>
+	<string>Equipped</string>
+	<key>LEADER_SKILL</key>
+	<string>Leader Skill</string>
+	<key>LEADER_SKILL_AVAILABLE</key>
+	<string>Available</string>
+	<key>LEADER_SKILL_UNAVAILABLE</key>
+	<string>Unavailable</string>
+	<key>SEARCH</key>
+	<string>Search Text</string>
+	<key>SKILL_CHECK</key>
+	<string>Skill</string>
+	<key>CRASH_SKILL_CHECK</key>
+	<string>C Skill</string>
+	<key>ABILITY_CHECK</key>
+	<string>Ability</string>
+	<key>LEADER_SKILL_CHECK</key>
+	<string>Leader
+	Skill</string>
+	<key>WEAPON_CHECK</key>
+	<string>Mod</string>
+	<key>NAME_CHECK</key>
+	<string>Unit</string>
+	<key>SORT_1</key>
+	<string>Sort 1</string>
+	<key>SORT_2</key>
+	<string>Sort 2</string>
+	<key>ASCENDING</key>
+	<string>↑</string>
+	<key>DESCENDING</key>
+	<string>↓</string>
+	<key>UNIT_PLACE_HOLDER</key>
+	<string>Search Unit Name</string>
+	<key>SKILL_PLACE_HOLDER</key>
+	<string>Enter text</string>
+	<key>PLACE_HOLDER_0</key>
+	<string>Search by unit name</string>
+	<key>PLACE_HOLDER_1</key>
+	<string>Search by Skill</string>
+	<key>PLACE_HOLDER_2</key>
+	<string>Search by C skill</string>
+	<key>PLACE_HOLDER_3</key>
+	<string>Search by Ability</string>
+	<key>PLACE_HOLDER_4</key>
+	<string>Search by Leader Skill</string>
+	<key>PLACE_HOLDER_5</key>
+	<string>Search by Mod</string>
+</dict>
+</plist>

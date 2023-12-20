@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CAPTION</key>
+	<string>Item List</string>
+	<key>COUNT</key>
+	<string>Qty: %lld</string>
+	<key>COUNT_ENERGY_ITEM</key>
+	<string>Qty:%d</string>
+	<key>LIMIT</key>
+	<string>Until: %s</string>
+	<key>CAPTION_USE</key>
+	<string>Use</string>
+	<key>CAPTION_CLOSE</key>
+	<string>Close</string>
+	<key>MESSAGE_USED</key>
+	<string>%s used.</string>
+	<key>MESSAGE_NO_ITEM</key>
+<string>No items
+in stock</string>
+</dict>
+</plist>

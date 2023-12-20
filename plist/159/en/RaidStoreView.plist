@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CAPTION</key>
+	<string>Raid Item Exchange</string>
+	<key>EXCHANGE_DATACHIP_SHORTAGE</key>
+	<string>Insufficient Datachips
+
+Required: &lt;font color=&quot;red&quot;&gt;%s&lt;/font&gt;
+Available: &lt;font color=&quot;red&quot;&gt;%s&lt;/font&gt;</string>
+	<key>EXCHANGE_OVERLIMIT</key>
+	<string>Exchange limit reached.</string>
+	<key>EXCHANGE_CONFIRM</key>
+	<string>Exchange &lt;font color=&quot;red&quot;&gt;%s&lt;/font&gt; 
+Datachips?
+
+Available: &lt;font color=&quot;red&quot;&gt;%s&lt;/font&gt;</string>
+	<key>EXCHANGE_COMPLETE</key>
+	<string>acquired.</string>
+	<key>CELL_LABEL_LAST_COUNT</key>
+	<string>Remaining</string>
+	<key>CELL_LABEL_LAST_COUNT_UNIT</key>
+	<string>Times</string>
+	<key>ATTACK_BOOSTER_COUNT</key>
+	<string>Attack Boosts: %d</string>
+	<key>RAID_TICKET_COUNT</key>
+	<string>Raid Keys: %d</string>
+	<key>BUY_MESSAGE_WITH_POLYGON</key>
+	<string>Cost: %d Polygons
+Available Polygons: %d</string>
+
+	<key>CONFIRM_PURCHASE_POLYGON</key>
+	<string>Insufficinet Raid Quest Keys.
+
+Use %d polygons for
+additional Raid Quest Keys.
+
+&lt;font color=&quot;red&quot;&gt;Purchase polygons?&lt;/font&gt;</string>
+	<key>CONFIRM_CHARGE_RAID_TICKET</key>
+	<string>Insufficinet Raid Quest Keys.
+
+Use %d polygons for
+additional Raid Quest Keys.</string>
+	<key>CONFIRM_CHARGE_RAID_TICKET_REMIND</key>
+	<string>CONFIRM
+
+You are about to use %d polygons
+for additional Raid Quest Keys.
+
+Continue?</string>
+	<key>CONFIRM_PURCHASE_POLYGON_BOOSTER</key>
+	<string>Insufficient Attack Boosters.
+
+Use %d polygons for
+additional Attack Boosters.
+
+&lt;font color=&quot;red&quot;&gt;Purchase polygons?&lt;/font&gt;</string>
+	<key>CONFIRM_CHARGE_RAID_BOOSTS</key>
+	<string>Insufficient Attack Boosters.
+
+Use %d polygons for
+additional Attack Boosters.</string>
+	<key>CONFIRM_CHARGE_RAID_BOOSTS_REMIND</key>
+	<string>CONFIRM
+
+You are about to use %d polygons
+for additional Attack Boosters.
+
+Continue?</string>
+	<key>LEGAL_NOTICE</key>
+	<string>
+	
+	
+&lt;font size=&quot;18&quot;&gt;※ Click 'Yes' to use the Polygon.
+	
+※ This action cannot be undone.　&lt;/font&gt;</string>
+</dict>
+</plist>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CAPTION</key>
+	<string>Select Unit to Awaken</string>
+	<key>CAPTION_EX</key>
+	<string>Select evolution unit</string>
+	<key>SELECT_CAPTION</key>
+	<string>Select Unit</string>
+	<key>SELECT_CAPTION_EX</key>
+	<string>Select evolution unit</string>
+	<key>BASE_CAPTION</key>
+	<string>Select Unit to Awaken</string>
+	<key>DETAIL_CAPTION</key>
+	<string>Awaken Unit</string>
+	<key>DETAIL_CAPTION_EX</key>
+	<string>Unit evolution</string>
+	<key>DETAIL_MATERIAL_SHORTAGE</key>
+	<string>You don't have enough material units.</string>
+	<key>DETAIL_MATERIAL_IS_FAVORITE</key>
+	<string>Units in your favorites can't be
+used as awakening material.</string>
+	<key>DETAIL_MATERIAL_IS_TEAM_MEMBER</key>
+	<string>Units currently in your party can't be
+used as awakening material.</string>
+	<key>DETAIL_MATERIAL_BUG_SHORTAGE</key>
+	<string>The material unit doesn't have enough Bugs
+to proceed with awakening.</string>
+	<key>HABITAT_DIALOG_MESSAGE</key>
+	<string>Get hold of material in quest: %s</string>
+	<key>DETAIL_MATERIAL_IS_LIMIT_EXTENDED</key>
+	<string>&lt;font color=&quot;red&quot;&gt;Includes units with limit
+break&lt;/font&gt;
+
+When awakening a unit,
+units used as material will disappear
+Continue?</string>
+	<key>DETAIL_MATERIAL_POTENTIAL_UNLOCKED</key>
+	<string>&lt;font color=&quot;red&quot;&gt; Units with unlocked Potentials
+are included.
+Deep-Log will be lost.&lt;/font&gt;
+
+</string>
+	<key>DETAIL_SKILL_LEVEL</key>
+	<string>Skill Lv.%s</string>
+	<key>DETAIL_SKILL_TURN</key>
+	<string>Turns: %d</string>
+	<key>DETAIL_ABILITY_TITLE</key>
+	<string>Ability %d</string>
+	<key>HABITAT_DIALOG_MESSAGE_NOW</key>
+	<string>&lt;font color=&quot;red&quot;&gt;Quest Available&lt;/font&gt;</string>
+	<key>HABITAT_DIALOG_MESSAGE_NEXT</key>
+	<string>Coming Soon</string>
+	<key>HABITAT_DIALOG_OK</key>
+	<string>Accept</string>
+	<key>HABITAT_DIALOG_SCHEDULE</key>
+	<string>Check
+Schedule</string>
+	<key>HABITAT_DIALOG_CANCEL</key>
+	<string>Cancel</string>
+	<key>HABITAT_NONE_MESSAGE</key>
+	<string>%s
+Active Quests and Schedule
+Unavailable.</string>
+	<key>QUEST_NORMAL</key>
+	<string>Normal</string>
+	<key>QUEST_EVENT</key>
+	<string>Event</string>
+	<key>QUEST_GUERILLA</key>
+	<string>Guerilla</string>
+	<key>QUEST_MONDAY</key>
+	<string>Monday</string>
+	<key>QUEST_TUESDAY</key>
+	<string>Tuesday</string>
+	<key>QUEST_WEDNESDAY</key>
+	<string>Wednesday</string>
+	<key>QUEST_THURSDAY</key>
+	<string>Thursday</string>
+	<key>QUEST_FRIDAY</key>
+	<string>Friday</string>
+	<key>QUEST_SATURDAY</key>
+	<string>Saturday</string>
+	<key>QUEST_SUNDAY</key>
+	<string>Sunday</string>
+	<key>QUEST_SATURDAY_SUNDAY</key>
+	<string>Sat &amp; Sun</string>
+	<key>DETAIL_MATERIAL_WEAPON_EQUIP</key>
+	<string>&lt;font color=&quot;red&quot;&gt;Includes unit with mod
+attached to material unit.
+Mods are converted automatically.
+Continue?&lt;/font&gt;
+	</string>
+	<key>DETAIL_MATERIAL_WEAPON_SLOT_UNLOCKED</key>
+	<string>&lt;font color=&quot;red&quot;&gt;Includes unit with
+released mod slot&lt;/font&gt;
+	</string>
+	<key>QUEST_LOCK</key>
+	<string>Lock</string>
+	<key>QUEST_RANKING</key>
+	<string>Ranking</string>
+	<key>AUTO_ENHANCE_CANCEL</key>
+	<string>Autofusion canceled.</string>
+	<key>ERROR_USED_TRAVERSAL</key>
+	<string>Currently in use for Enigma Quest,
+cannot be Awakened.</string>
+	<key>ERROR_USED_TRAVERSAL_EX</key>
+	<string>Currently in use for Enigma Quest,
+cannot be EX Evolved.</string>
+	<key>TUTORIAL_AWAKE_1</key>
+	<string>About Awakening Units
+You can awaken units after leveling them up to maximum.
+After awakening, you can strengthen your units further.
+
+We prepared the Awakening Material for you this time.
+Try to awaken this unit. </string>
+	<key>TUTORIAL_AWAKE_2</key>
+	<string>Check &lt;font color=&apos;yellow&apos;&gt;Awaken Units &lt;/font&gt;here.</string>
+	<key>TUTORIAL_AWAKE_3</key>
+	<string>You can check here for
+&lt;font color=&apos;yellow&apos;&gt;Bits&lt;/font&gt; and &lt;font color=&apos;yellow&apos;&gt;Material&lt;/font&gt; to awaken units.</string>
+	<key>TUTORIAL_AWAKE_4</key>
+	<string>Now, try to awaken an unit.</string>
+	<key>TUTORIAL_AWAKE_5</key>
+	<string>Awakening is successful
+&lt;font color=&apos;yellow&apos;&gt; Skill &lt;/font&gt; and &lt;font color=&apos;yellow&apos;&gt; Ability &lt;/font&gt; has changed.
+
+Units will become level 1 after being awakened.
+Strengthen your unit by boosting up unit's level
+and make it even powerful.</string>
+	<key>TUTORIAL_DIALOG_BUTTON_1</key>
+	<string>Challenge</string>
+	<key>TUTORIAL_DIALOG_BUTTON_2</key>
+	<string>Skip</string>
+	<key>TUTORIAL_DIALOG_MESSAGE</key>
+	<string>Now you can challenge
+the Unit Awakening tutorial quest.
+Try to challenge?
+
+If you skip the tutorial,
+the units given in the tutorial
+will be sent directly to your folder.</string>
+	<key>TUTORIAL_SKIP</key>
+	<string>Skip the tutorial.</string>
+</dict>
+</plist>

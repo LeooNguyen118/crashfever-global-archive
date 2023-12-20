@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CAPTION</key>
+	<string>Friend Menu</string>
+	<key>FRIEND_LIST_TITLE</key>
+	<string>Friend List</string>
+	<key>FRIEND_LIST_DESCRIPTION</key>
+	<string>View your friends.</string>
+	<key>APPROVAL_TITLE</key>
+	<string>Accept Friends</string>
+	<key>APPROVAL_DESCRIPTION</key>
+	<string>Check and accept new friend requests.</string>
+	<key>APPLICATION_TITLE</key>
+	<string>Sent Requests</string>
+	<key>APPLICATION_DESCRIPTION</key>
+	<string>View or cancel sent friend requests.</string>
+	<key>INVITATION_TITLE</key>
+	<string>View / Enter Invitation Code</string>
+	<key>INVITATION_DESCRIPTION</key>
+	<string>Invite friends to win rewards!</string>
+	<key>SEARCH_TITLE</key>
+	<string>ID Search</string>
+	<key>SEARCH_DESCRIPTION</key>
+	<string>Search for friends using an ID number.</string>
+	<key>HELPER_SELECT_TITLE</key>
+	<string>Helper Unit</string>
+	<key>HELPER_SELECT_DESCRIPTION</key>
+	<string>Choose a helper unit for friends.</string>
+	<key>REQUEST_TITLE</key>
+	<string>Friend request</string>
+	<key>REQUEST_DESCRIPTION</key>
+	<string>Send a request to make friends</string>
+	<key>APPROVAL_TITLE</key>
+	<string>Friend approved</string>
+	<key>APPROVAL_DESCRIPTION</key>
+	<string>Check requests</string>
+	<key>APPLICATION_TITLE</key>
+	<string>Friend request pending</string>
+	<key>APPLICATION_DESCRIPTION</key>
+	<string>Edit requests</string>
+	<key>INVITATION_TITLE</key>
+	<string>Check or enter invite code</string>
+	<key>INVITATION_DESCRIPTION</key>
+	<string>Invite friends for a reward</string>
+	<key>SEARCH_TITLE</key>
+	<string>ID search</string>
+	<key>SEARCH_DESCRIPTION</key>
+	<string>Search IDs to make friends</string>
+	<key>COMMUNITY_TITLE</key>
+	<string>Community</string>
+	<key>COMMUNITY_DESCRIPTION</key>
+	<string>Community chat</string>
+</dict>
+</plist>

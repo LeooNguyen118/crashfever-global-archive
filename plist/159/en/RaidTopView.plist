@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CAPTION</key>
+	<string>Raid</string>
+	<key>RAID_PREVIEW</key>
+	<string>A boss is approaching.
+Prepare Yourself！</string>
+	<key>RAID_OPEN</key>
+	<string>A boss has invaded.
+Join forces to repel the attack.</string>
+	<key>RAID_CALCULATING</key>
+	<string>Invasion has ended.</string>
+	<key>RAID_RESULT</key>
+	<string>Invasion has ended.
+Prepare for next time.</string>
+	<key>RAID_ENCOUNTER_CLOSED</key>
+	<string>Raid complete.</string>
+	<key>RAID_PERIOD</key>
+	<string>%m/%d %H:%M</string>
+	<key>RAID_PERIOD_TITLE</key>
+	<string> Period:%s 〜 %s</string>
+	<key>EVENT_PERIOD_TIL_END</key>
+	<string>-</string>
+	<key>EVENT_TIL_START</key>
+	<string>until start</string>
+	<key>EVENT_TIL_END</key>
+	<string>until end</string>
+	<key>RAID_BMF_REMAIN_DAYS</key>
+	<string>%dd</string>
+	<key>RAID_BMF_REMAIN_HOURS</key>
+	<string>%dh</string>
+	<key>RAID_BMF_REMAIN_MINUTES</key>
+	<string>%dm</string>
+	<key>RAID_REMAIN_UNIT_DAYS</key>
+	<string>d</string>
+	<key>RAID_REMAIN_UNIT_HOURS</key>
+	<string>h</string>
+	<key>RAID_REMAIN_UNIT_MINUTES</key>
+	<string>m</string>
+	<key>ERROR_RANK_SHORTAGE</key>
+	<string>Minimum Rank: %d</string>
+	<key>LABEL_RAID_POINT_PRE</key>
+	<string>Points: </string>
+	<key>LABEL_RAID_POINT_SUF</key>
+	<string> pts</string>
+	<key>WARNING_TIMEOUT</key>
+	<string>CAUTION
+Score updated in
+%Y/%m/%d %H:%M</string>
+	<key>RANK_THRESHOLD_NUM</key>
+	<string>Rank %d</string>
+	<key>RANK_THRESHOLD_STR</key>
+	<string>or higher</string>
+	<key>RAID_CLOSED</key>
+	<string>Raid Complete</string>
+	<key>RAID_PREVIEW_LABEL</key>
+	<string>Upcoming</string>
+	<key>RAID_CALCUATING_LABEL</key>
+	<string>Counting</string>
+	<key>RAID_RESULT_LABEL</key>
+	<string>Results Shown</string>
+</dict>
+</plist>

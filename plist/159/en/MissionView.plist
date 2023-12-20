@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CAPTION</key>
+	<string>Mission Menu</string>
+	<key>DETAIL_CHALLANGE</key>
+	<string>Accept Mission</string>
+	<key>DETAIL_RECEIVE</key>
+	<string>Claim</string>
+	<key>DETAIL_CLOSE</key>
+	<string>Close</string>
+	<key>DETAIL_RETRY</key>
+	<string>View</string>
+	<key>REMAIN</key>
+	<string>Til: </string>
+	<key>REMAIN_MONTHS</key>
+	<string> mo</string>
+	<key>REMAIN_DAYS</key>
+	<string> d</string>
+	<key>REMAIN_HOURS</key>
+	<string> hr</string>
+	<key>REMAIN_MINUTES</key>
+	<string> mi</string>
+	<key>REMAIN_SECONDS</key>
+	<string> sec</string>
+	<key>NO_MISSIONS_DAILY</key>
+	<string>No daily missions
+available.</string>
+	<key>NO_MISSIONS_LIMITED</key>
+	<string>No special missions
+available.</string>
+	<key>NO_MISSIONS</key>
+	<string>No mission
+available for challenge.</string>
+	<key>RECEIVE_EXPIRED</key>
+	<string>Expired.</string>
+	<key>MESSAGE_TUTORIAL_COMPLETE</key>
+	<string>Congratulations on completing the tutorial!
+Nice to meet you, I am Mobius ♪
+I will support you from now on!</string>
+	<key>MESSAGE_WELCOME</key>
+	<string>We need your power to stop
+the Queen from getting out of control!
+First, learn about the world of ALICE
+by completing the Guide Missions ♪</string>
+	<key>MESSAGE_FULL_COMPLETE</key>
+	<string>As expected!
+You can save ALICE!
+Let's do our best together ♪</string>
+	<key>MESSAGE_RECEIVE</key>
+	<string>You have a reward!</string>
+	<key>TUTORIAL_CONGRATULATIONS</key>
+	<string>You cleared the mission!</string>
+	<key>NO_ITEM_TO_RECEIVE</key>
+	<string>No achievement rewards
+to claim</string>
+	<key>DIALOG_FAIL_GET_MISSION</key>
+	<string>Some rewards not claimed</string>
+	<key>COLLECTIVELY_RECEIVE</key>
+	<string>Bulk claim mission rewards
+Up to 50 rewards at one time.
+Bulk claim? </string>
+	<key>GUIDE_MISSION_DESCRIPTION</key>
+	<string>Guide Mission</string>
+	<key>GUIDE_MISSION_NEXT</key>
+	<string>NEXT：</string>
+	<key>GUIDE_MISSION_ALL_COMPLETE</key>
+	<string>All Missions Complete!</string>
+	<key>ALL_COMPLETE</key>
+	<string>All Missions Complete!</string>
+	<key>GUIDE_MISSION_CHALLENGE</key>
+	<string>Challenge Guide Missions!</string>
+	<key>PANEL_MISSION_CHALLENGE</key>
+	<string>Challenge Panel Missions!</string>
+	<key>PANEL_MISSION_LOCK</key>
+	<string>Locked</string>
+	<key>PANEL_MISSION_LOCK_NOT_VALIDITY_PERIOD_DESC</key>
+	<string>Next level unlocked from %m/%d %H:00</string>
+	<key>CATEGORY_CLOSED</key>
+	<string>Closed</string>
+</dict>
+</plist>

@@ -1,0 +1,2393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+<dict>
+	<key>選択中&amp;同じユニット</key>
+	<string>Duplicates</string>
+	<key>その他のユニット</key>
+	<string>Other</string>
+	<key>体</key>
+	<string>・</string>
+	<key>合成ビット</key>
+	<string>Fusion Bits</string>
+	<key>取得経験値</key>
+	<string>EXP Earned</string>
+	<key>レベル</key>
+	<string>Level</string>
+	<key>強化素材</key>
+	<string>Material</string>
+	<key>ユニット</key>
+	<string>Unit</string>
+	<key>並び替え</key>
+	<string>Sort</string>
+	<key>絞り込み</key>
+	<string>Refine</string>
+	<key>ギフトボックスよりお受け取りください
+
+
+</key>
+	<string>Claim in Gift Box.
+
+
+</string>
+	<key>アビリティ(複数選択できます)</key>
+	<string>Abilities</string>
+	<key>表示順</key>
+	<string>Sort by:</string>
+	<key>対象ユニット数</key>
+	<string>Results:</string>
+	<key>リセット</key>
+	<string>Reset</string>
+	<key>属性(複数選択できます)</key>
+	<string>Attributes</string>
+	<key>ミッション達成時の
+ポップアップを表示する</key>
+	<string>Receive alerts when missions
+are completed.</string>
+	<key>エナジー全回復の通知を受け取る</key>
+	<string>Energy Full</string>
+	<key>ビギナーブースト発動!</key>
+	<string>Beginner Boost!</string>
+	<key>ミッションクリア！</key>
+	<string>Cleared!</string>
+	<key>効果音</key>
+	<string>Sound Effects</string>
+	<key>音楽</key>
+	<string>Music</string>
+	<key>解 放 条 件</key>
+	<string>To Unlock:</string>
+	<key>バグ</key>
+	<string>Bugs</string>
+	<key>なし</key>
+	<string>None</string>
+	<key>タップして次へ&gt;&gt;</key>
+	<string>Continue &gt;&gt;</string>
+	<key>バグボーナス</key>
+	<string>Bug Bonus</string>
+	<key>クリアボーナス</key>
+	<string>Clear Bonus</string>
+	<key>ゲット！</key>
+	<string>GET!</string>
+	<key>リンク</key>
+	<string>Links</string>
+	<key>現在リンク</key>
+	<string>Current Links:</string>
+	<key>獲得ビット</key>
+	<string>Bits</string>
+	<key>獲得EXP</key>
+	<string>EXP</string>
+	<key>獲得報酬</key>
+	<string>Rewards</string>
+	<key>次のランクまで</key>
+	<string>Until Next Rank</string>
+	<key>申請中</key>
+	<string>OK</string>
+	<key>思案中</key>
+	<string>...</string>
+	<key>FEVER MODEの申請は
+却下されました</key>
+	<string>Fever Mode denied.</string>
+	<key>あなたの申請は
+否決されました</key>
+	<string>Request denied.</string>
+	<key>(NGは1人1回までです)</key>
+	<string>(Players can be denied once.)</string>
+	<key>FEVER MODEが
+提案されました</key>
+	<string>FEVER MODE</string>
+	<key>FEVER MODEを
+申請しますか？</key>
+	<string>Request Fever Mode?</string>
+	<key>他のプレイヤーの参加を待っています。
+</key>
+	<string>Waiting for other players to join.
+</string>
+	<key>ターン</key>
+	<string>Turns</string>
+	<key>あと</key>
+	<string>Ends</string>
+	<key>エナジー</key>
+	<string>Energy</string>
+	<key>ビット</key>
+	<string>Bits</string>
+	<key>ドロップ率</key>
+	<string>Drop Rate</string>
+	<key>経験値</key>
+	<string>EXP</string>
+	<key>倍</key>
+	<string>x</string>
+	<key>大成功確率</key>
+	<string>Success</string>
+	<key>解放時間</key>
+	<string>Unlock Time</string>
+	<key>トータルスコア</key>
+	<string>Total Score</string>
+	<key>戦略</key>
+	<string>Strategy</string>
+	<key>感情</key>
+	<string>Feeling</string>
+	<key>交流</key>
+	<string>Idle</string>
+	<key>5000</key>
+	<string>5,000</string>
+	<key>99999</key>
+	<string>99,999</string>
+	<key>REMAINING TIME</key>
+	<string>REMAINING TIME</string>
+	<key>piece</key>
+	<string>piece</string>
+	<key>効果：</key>
+	<string>Effect:</string>
+	<key>Player</key>
+	<string>Player</string>
+	<key>最終ログイン</key>
+	<string>Last Login:</string>
+	<key>時間前</key>
+	<string>hr ago</string>
+	<key>ランク</key>
+	<string>Rank</string>
+	<key>名前</key>
+	<string>•</string>
+	<key>まで</key>
+	<string>End</string>
+	<key>人</key>
+	<string>.</string>
+	<key>現在の招待人数</key>
+	<string>Current Invitees</string>
+	<key>あなたの招待コード</key>
+	<string>Your Invitation Code</string>
+	<key>※招待のお礼が行えるのは一回のみです</key>
+	<string>*You can redeem an invite code one time only.</string>
+	<key>ゲームを紹介してくれた招待コードを入力しよう！
+お互いにプレゼントがもらえます！</key>
+	<string>Enter code from the invite you received.</string>
+	<key>協力者</key>
+	<string>Helper</string>
+	<key>フレンド</key>
+	<string>Friend</string>
+	<key>現在フレンドはいません</key>
+	<string>You don't have
+any friends at present.</string>
+	<key>検索したい人のIDを入力してください</key>
+	<string>Search for Player ID</string>
+	<key>あなたのIDは</key>
+	<string>Your ID is </string>
+	<key>初回のみ★４以上確定！</key>
+	<string>4★ or higher guaranteed first time!</string>
+	<key>期限日</key>
+	<string>until</string>
+	<key>受信日</key>
+	<string>From</string>
+	<key>ランクアップまで:</key>
+	<string>Until Rank-up:</string>
+	<key>現在の経験値:</key>
+	<string>EXP:</string>
+	<key>ランク:</key>
+	<string>Rank:</string>
+	<key>LOADING</key>
+	<string>LOADING</string>
+	<key>メニュー</key>
+	<string> </string>
+	<key>ランキング更新の通知を受け取る</key>
+	<string>Ranking Update</string>
+	<key>イベントなどの通知を受け取る</key>
+	<string>Quests and others</string>
+	<key>ゲリラの開始通知を受け取る</key>
+	<string>Guerilla Event</string>
+	<key>4桁の番号を設定して友達に伝えてください</key>
+	<string>Set a 4-digit number and notify friends.</string>
+	<key>その他ユニット情報</key>
+	<string>Additional Unit Filters</string>
+	<key>属性</key>
+	<string>Attribute</string>
+	<key>バグ30以上限定</key>
+	<string>30+ Bugs only</string>
+	<key>レベルMAX限定</key>
+	<string>Max Lv. only</string>
+	<key>★5以上限定</key>
+	<string>5★ or higher</string>
+	<key>ランクの近い人を募集</key>
+	<string>Players near your rank</string>
+	<key>暗証番号を入力して友達を募集</key>
+	<string>Set Password</string>
+	<key>全て</key>
+	<string>All</string>
+	<key>OFF</key>
+	<string>OFF</string>
+	<key>ON</key>
+	<string>ON</string>
+	<key>シリアルコードを入力してください</key>
+	<string>Please enter serial code.</string>
+	<key>Floor</key>
+	<string>Floor</string>
+	<key>Stage</key>
+	<string>Stage</string>
+	<key>Quest</key>
+	<string>Quest</string>
+	<key>消費エナジー</key>
+	<string>Energy</string>
+	<key>お知らせ</key>
+	<string>News</string>
+	<key>問い合わせ</key>
+	<string>FAQ</string>
+	<key>時間変更</key>
+	<string>Time Change</string>
+	<key>初期化</key>
+	<string>Reset</string>
+	<key>データ引き継ぎ</key>
+	<string>Transfer Data</string>
+	<key>スキル名:</key>
+	<string>Skill:</string>
+	<key>Cスキル名：</key>
+	<string>C Skill:</string>
+	<key>エリア</key>
+	<string>Area</string>
+	<key>チャンス！</key>
+	<string>Now's your chance!</string>
+	<key>日の</key>
+	<string>Day of</string>
+	<key>フィールドスコア</key>
+	<string>Field Score</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>連れて行ってもらいました</key>
+	<string>with them on a quest.</string>
+	<key>人のユーザーにクエストへ</key>
+	<string>Players took your helper</string>
+	<key>合計</key>
+	<string>Tot.</string>
+	<key>リンク獲得！</key>
+	<string> Links</string>
+	<key>動画を撮ってみんなと共有しよう！</key>
+	<string>Take movies and share them with everyone!</string>
+	<key>録画を有効にすると
+プレイの動画をシェアできます。</key>
+	<string>Enable movie capture to share movies of your gameplay.</string>
+	<key>音声を付ける</key>
+	<string>Add Audio</string>
+	<key>動画を撮る</key>
+	<string>Take Movie</string>
+	<key>評価</key>
+	<string>Rate</string>
+	<key>最終スコア</key>
+	<string>Final Score</string>
+	<key>Party</key>
+	<string>Party</string>
+	<key>変換されるビット</key>
+	<string>Converted Bits</string>
+	<key>限界
+突破</key>
+	<string>Limit
+Break</string>
+	<key>4桁の番号を設定して友達に
+伝えてください。</key>
+	<string>Set a 4-digit number
+then notify friends.</string>
+	<key>覚醒後</key>
+	<string>Awakened</string>
+	<key>スキル・Cスキル</key>
+	<string>Skill/C Skill</string>
+	<key>スキル
+Lv.</key>
+	<string>Skill</string>
+	<key>アビリティ１・２</key>
+	<string>Ability 1/2</string>
+	<key>アビリティ３・４</key>
+	<string>Ability 3/4</string>
+	<key>次の覚醒に必要なユニット</key>
+	<string>Units Required for Next Awakening</string>
+	<key>コスト:</key>
+	<string>Cost:</string>
+	<key>n</key>
+	<string>n</string>
+	<key>m</key>
+	<string>m</string>
+	<key>l</key>
+	<string>l</string>
+	<key>ID:</key>
+	<string>ID:</string>
+	<key>THANKS FOR PLAYING
+PLEASE CONTINUE TO
+SUPPORT ME</key>
+	<string>Thanks for playing!
+Please continue to help ALICE!</string>
+	<key>A FATAL ERROR</key>
+	<string>A critical error occurred.</string>
+	<key>レベル：</key>
+	<string>Level:</string>
+	<key>取得経験値：</key>
+	<string>EXP Earned:</string>
+	<key>合成ビット：</key>
+	<string>Fusion Bits:</string>
+	<key>ターン:</key>
+	<string>Turns:</string>
+	<key>Lv.</key>
+	<string>Lv.</string>
+	<key>既に最大レベルに到達しています。</key>
+	<string>Already at maximum level.</string>
+	<key>ベースユニット</key>
+	<string>Base Unit</string>
+	<key>Skill Lv.</key>
+	<string>Skill Lv.</string>
+	<key>素材ユニット</key>
+	<string>Material Unit</string>
+	<key>素材角色</key>
+	<string>Material Unit</string>
+	<key>必要的比特：</key>
+	<string>Bits Required:</string>
+	<key>必要なビット：</key>
+	<string>Bits Required:</string>
+	<key>データ修復</key>
+	<string>Restore</string>
+	<key>クエスト中の演出を抑える</key>
+	<string>Minimize visual effects</string>
+	<key>ON にすると、クエスト中の演出が
+抑えられ、ご使用の端末の
+負荷が軽減されます。</key>
+	<string>Set ON to minimize visual
+effects and reduce burden
+on device.</string>
+	<key>コスト</key>
+	<string>Cost</string>
+	<key>フレンドになるといいこといっぱい！フレンド申請をオススメします！</key>
+	<string>Good things come to those with many friends!</string>
+	<key>参加者受付中…</key>
+	<string>     Searching...</string>
+	<key>レアガチャ</key>
+	<string>RARE</string>
+	<key>リンクガチャ</key>
+	<string>LINK</string>
+	<key>チケットガチャ</key>
+	<string>TICKET</string>
+	<key>プレイヤー</key>
+	<string>Players</string>
+	<key>覚醒に必要なユニット</key>
+	<string>Units for Awakening</string>
+	<key>超覚醒に必要なユニット</key>
+	<string>Units for Ultra Awakening</string>
+	<key>覚醒</key>
+	<string>Awaken</string>
+	<key>超覚醒</key>
+	<string>UA</string>
+	<key>閉じる</key>
+	<string>Close</string>
+	<key>考え中…</key>
+	<string>Thinking…</string>
+	<key>あなたのターンです。</key>
+	<string>Your turn.</string>
+	<key>次のレベルまで：</key>
+	<string>Until Next Level:</string>
+	<key>クエスト</key>
+	<string>Quest</string>
+	<key>ゴーストストア</key>
+	<string>Ghost Store</string>
+	<key>ゴーストを消費してユニットやアイテムをGet!!</key>
+	<string>Exchange Ghosts for units and items.</string>
+	<key>残り：</key>
+	<string>left</string>
+	<key>回</key>
+	<string>×</string>
+	<key>時間</key>
+	<string>hr</string>
+	<key>交換制限なし</key>
+	<string>no conversion limit</string>
+	<key>次のLv.まで：</key>
+	<string>To Nxt Lv:</string>
+	<key>次のLv.まで</key>
+	<string>To Nxt Lv:</string>
+	<key>リン
+ク</key>
+	<string>Links
+</string>
+	<key>★6以上限定</key>
+	<string>6★ only</string>
+	<key>バグMAX限定</key>
+	<string>Max Bugs only</string>
+	<key>ダメージスコア</key>
+	<string>Attack Score</string>
+	<key>被ダメージスコア</key>
+	<string>Damage Score</string>
+	<key>スペシャル</key>
+	<string>Special</string>
+	<key>SNSやレビューで友達に紹介しよう！</key>
+	<string>Send your code to friends.</string>
+	<key>期間限定ミッションはありません
+
+ALICEで何かが起こればミッションが
+発生するかもしれません</key>
+	<string>No Special Missions
+Currently there are no limited
+time missions. If something occurs
+in ALICE a mission may take place.</string>
+	<key>指定</key>
+	<string>Orders</string>
+	<key>スキルLvMAX限定</key>
+	<string>Skill Lv. MAX</string>
+	<key>ギフトボックスよりお受け取りください
+
+
+ - 2</key>
+	<string>Claim in Gift Box.
+
+
+</string>
+	<key>ポリゴン×1</key>
+	<string>Polygon ×1</string>
+	<key>メニューテキスト</key>
+	<string>メニューテキスト</string>
+	<key>メニュー説明です。２１文字まで入りますよ！</key>
+	<string>メニュー説明です。２１文字まで入りますよ！</string>
+	<key>解放条件：ウィザードクリア</key>
+	<string>Unlock Condition: Wizard Area</string>
+	<key>一二三四五称号１９文字まではいります！</key>
+	<string>一二三四五称号１９文字まではいります！</string>
+	<key>1日1回限定！
+動画を最後まで視聴して
+エナジーを40回復！
+
+※動画視聴を途中でとめると回復出来ません。</key>
+	<string>Limit 1 per day.
+Energy gained for
+watching video: 40
+
+*Complete video MUST be viewed.</string>
+	<key>プレゼントゲット！</key>
+	<string>GIFT!</string>
+	<key>開けたい箱を選ぼう！</key>
+	<string>Choose a box.</string>
+	<key>ログイン1日目！</key>
+	<string>Login Day: 1</string>
+	<key>次回は○時間○分後に引けます</key>
+	<string>Next Draw in: ○h ○m</string>
+	<key>豪華プレゼント獲得のチャンス！
+動画を最後まで視聴して
+ハッピーくじに挑戦しよう！</key>
+	<string>Bonus Gift Chance！
+Watch complete video
+for a Lucky Pick chance.</string>
+	<key>○時間○分後にひけます</key>
+	<string>Drawing in:○h ○m</string>
+	<key>イベントエリア九◯一三一二三四◯</key>
+	<string>Event Area九◯一三一二三四◯</string>
+	<key>実施期間：5/11〜(月) 00:00 〜 5/31(水) 23:59</key>
+	<string>実施期間：5/11〜(月) 00:00 〜 5/31(水) 23:59</string>
+	<key>マスターキーx2</key>
+	<string>Master Key x2</string>
+	<key>メニュー説明です。
+１６文字まで！！</key>
+	<string>メニュー説明です。
+１６文字まで！！</string>
+	<key>一二三四五六七八九十一二</key>
+	<string>一二三四五六七八九十一二</string>
+	<key>ヒューマン＋攻撃タイプ＋
+黄属性＋コスト35以下限定</key>
+	<string>Limited to: Human +
+Offense + Yellow + Cost 35 or less</string>
+	<key>コスト 20</key>
+	<string>Cost 20</string>
+	<key>スコアアタッククエスト</key>
+	<string>Score Attack Quest</string>
+	<key>クエスト名</key>
+	<string>クエスト名</string>
+	<key>個人スコアランキング</key>
+	<string>Individual Ranking</string>
+	<key>ユニットボーナス</key>
+	<string>Unit Bonus</string>
+	<key>スコアアタック評価基準</key>
+	<string>Valuation Basis</string>
+	<key>※クエスト毎に評価基準が異なります</key>
+	<string>*Basis will vary by quest.</string>
+	<key>回復スコア</key>
+	<string>REC Score</string>
+	<key>クリアターンスコア:999ターン</key>
+	<string>Clear Turns Score: 999 turns</string>
+	<key>ステージ名12345123456</key>
+	<string>ステージ名12345123456</string>
+	<key>キャラ</key>
+	<string>キャラ</string>
+	<key>文字</key>
+	<string>文字</string>
+	<key>スタンプ</key>
+	<string>スタンプ</string>
+	<key>１２３４５６７８
+あいうえ１６文字
+かきくけ２４文字
+さしすせ３２文字
+かきくけ４０文字</key>
+	<string>１２３４５６７８
+あいうえ１６文字
+かきくけ２４文字
+さしすせ３２文字
+かきくけ４０文字</string>
+	<key>プレイヤー名七八九〇一二</key>
+	<string>プレイヤー名七八九〇一二</string>
+	<key>一二三四五六七八九〇一二三四五六七八九〇</key>
+	<string>一二三四五六七八九〇一二三四五六七八九〇</string>
+	<key>ヶ月以前</key>
+	<string>mo. ago</string>
+	<key>プレイヤーネーム九◯一三</key>
+	<string>プレイヤーネーム九◯一三</string>
+	<key>レッド・ドラゴン１２３４５６７８９</key>
+	<string>Red Dragon１２３４５６７８９</string>
+	<key>ビット×１０００００</key>
+	<string>Bit×100000</string>
+	<key>ログインボーナスとして、プレゼントいたします。</key>
+	<string>Login Bonus Present</string>
+	<key>ユーザーネーム八九〇一二</key>
+	<string>ユーザーネーム八九〇一二</string>
+	<key>1234位</key>
+	<string>1234位</string>
+	<key>動画広告を利用する</key>
+	<string>Enable Video Ads</string>
+	<key>OFF にすると全ての動画広告を
+表示しなくなります。
+
+アプリを再起動すると反映されます。</key>
+	<string>Set OFF to disable video ads.
+Restart app for setting to
+take effect.</string>
+	<key>報酬：ポリゴン×1000</key>
+	<string>Reward: Polygon×1000</string>
+	<key>イベント「お茶会のラビットを救え！」
+１２３４５６７８９０１２３４５６７８
+１２３４５６７８９０１２３４５６７８</key>
+	<string>Event「お茶会のラビットを救え！」
+１２３４５６７８９０１２３４５６７８
+１２３４５６７８９０１２３４５６７８</string>
+	<key>ミッション説明が入ります１２３４５６７
+19文字×２行対応できます。</key>
+	<string>Mission Description１２３４５６７
+19文字×２行対応できます。</string>
+	<key>報酬　ポリゴン×100</key>
+	<string>Reward: Polygon×100</string>
+	<key>あと999日</key>
+	<string>after 999 days</string>
+	<key>DL 省略</key>
+	<string>DL 省略</string>
+	<key>ログイン処理をしています…</key>
+	<string>Logging in…</string>
+	<key>一二三四五六七八九〇一二</key>
+	<string>一二三四五六七八九〇一二</string>
+	<key>あと24時間</key>
+	<string>after 24 hrs.</string>
+	<key>開放時間　9:00〜10:00</key>
+	<string>Available from: 9:00-10:00</string>
+	<key>ランク30になるとポリゴン１個で解放</key>
+	<string>At Rank 30 unlock with 1 polygon.</string>
+	<key>１日１回無料開放</key>
+	<string>Free unlock once per day.</string>
+	<key>最終
+ログイン</key>
+	<string>Last
+Login</string>
+	<key>時間
+前</key>
+	<string>hrs
+ago</string>
+	<key>一二三四五称号２０文字まではいります！！</key>
+	<string>一二三四五称号２０文字まではいります！！</string>
+	<key>アビリティ１</key>
+	<string>Ability 1</string>
+	<key>スキル名五六七八九〇一二三四五六</key>
+	<string>Unit Skill五六七八九〇一二三四五六</string>
+	<key>一二三四五六七八九〇一二三四五六七八九〇
+一二三四五六七八九〇一二三四五六七八九〇
+一二三四五六七八九〇一二三四五六七八九〇
+一二三四五六七八九〇一二三四五六七八九〇</key>
+	<string>一二三四五六七八九〇一二三四五六七八九〇
+一二三四五六七八九〇一二三四五六七八九〇
+一二三四五六七八九〇一二三四五六七八九〇
+一二三四五六七八九〇一二三四五六七八九〇</string>
+	<key> レイドイベントは終了しました。現在
+集計中です　報酬配布までお待ちください</key>
+	<string> Raid event completed。Rewards
+will be sent after tabulating results.</string>
+	<key>ノーマルクエストをクリアしてレイドボス
+を出現させよう！38文字まで入ります！</key>
+	<string>Clear Normal Quest for Raid
+Boss to appear！38文字まで入ります！</string>
+	<key>レイドコインで豪華報酬と交換しましょう</key>
+	<string>Exchange for Raid Coins</string>
+	<key>レイドストア</key>
+	<string>Raid Store</string>
+	<key>開催期間： 00月00日00：00〜00月00日00：00</key>
+	<string>Available: 00/00/00:00 to  00/00/00:00 </string>
+	<key>ラ ン ク：1234567位 / ポイント：123456789 pt</key>
+	<string>Rank: 1234567 / Points: 123456789</string>
+	<key>レイドイベントお疲れ様でした
+報酬をお送りしておりますので
+「ギフト」よりご確認ください
+
+EXバトルチケットを所持中なら
+EXボスを召喚できます</key>
+	<string>Raid Event complete.
+Check Gift Box for rewards.
+
+Summon an EX Boss with a
+Ex Battle Ticket.</string>
+	<key>12.345.678位</key>
+	<string>12.345.678</string>
+	<key>ここに文字がでます。
+タップしてあいてに攻撃してみよう！</key>
+	<string>Write here.
+Tap to attack.</string>
+	<key>攻略のヒント</key>
+	<string>Hint</string>
+	<key>ユニット名六七八九〇一二三四五六</key>
+	<string>Unit Name六七八九〇一二三四五六</string>
+	<key>種族名称五六七八九〇一二</key>
+	<string>Tribe五六七八九〇一二</string>
+	<key>タイプ名五六七</key>
+	<string>Type五六七</string>
+	<key>一二三四五六七八九〇</key>
+	<string>一二三四五六七八九〇</string>
+	<key>スキル名スキル名スキル名スキル名</key>
+	<string>Unit Skillスキル名スキル名</string>
+	<key>一二三四五六七八九〇一二三四五六七八九〇一二三
+一二三四五六七八九〇一二三四五六七八九〇一二三
+一二三四五六七八九〇一二三四五六七八九〇一二三
+一二三四五六七八九〇一二三四五六七八九〇一二三</key>
+	<string>一二三四五六七八九〇一二三四五六七八九〇一二三
+一二三四五六七八九〇一二三四五六七八九〇一二三
+一二三四五六七八九〇一二三四五六七八九〇一二三
+一二三四五六七八九〇一二三四五六七八九〇一二三</string>
+	<key>最大文字数１２文字あああ</key>
+	<string>最大文字数１２文字あああ</string>
+	<key>ロボットはようすをみている。</key>
+	<string>ロボットはようすをみている。</string>
+	<key>ヒューマン・ヒューマン</key>
+	<string>Human・Human</string>
+	<key>テクニカル</key>
+	<string>Technical</string>
+	<key>キャラクター７８９９１１２３４５６</key>
+	<string>キャラクター７８９９１１２３４５６</string>
+	<key>Cスキル</key>
+	<string>C Skill</string>
+	<key>スキル詳細６７８９０１２３４５６７８９０スキル詳細６７８９０１２３４５６７８９０スキル詳細６７８９０１２３４５６７８９０スキル詳細６７８９０１２３４５６７８９０</key>
+	<string>スキル詳細６７８９０１２３４５６７８９０スキル詳細６７８９０１２３４５６７８９０スキル詳細６７８９０１２３４５６７８９０スキル詳細６７８９０１２３４５６７８９０</string>
+	<key>スキル</key>
+	<string>Skill</string>
+	<key>アビリティ</key>
+	<string>Ability</string>
+	<key>アビリティなし</key>
+	<string>No Ability</string>
+	<key>スーパーサンダーバースト</key>
+	<string>Super Thunder Boost</string>
+	<key>最大文字数１０文字あ</key>
+	<string>最大文字数１０文字あ</string>
+	<key>Lv30　ユニット名６７８９０１２３４５６</key>
+	<string>Lv30　ユニット名６７８９０１２３４５６</string>
+	<key>今回与えたダメージ</key>
+	<string>今回与えたダメージ</string>
+	<key>挑戦回数</key>
+	<string>挑戦回数</string>
+	<key>累計ダメージ</key>
+	<string>累計ダメージ</string>
+	<key>ユニットネーム八九〇一二三四五六七八九</key>
+	<string>ユニットネーム八九〇一二三四五六七八九</string>
+	<key>ポリゴン１個で開放（本日あと３回）</key>
+	<string>ポリゴン１個で開放（本日あと３回）</string>
+	<key>無料開放中！</key>
+	<string>FREE PLAY</string>
+	<key>ポイント：123,456,789,012pt</key>
+	<string>ポイント：123,456,789,012pt</string>
+	<key>Lv 30　ウルトラスーパーハッピー</key>
+	<string>Lv 30　ウルトラスーパーハッピー</string>
+	<key>参加人数　20人</key>
+	<string>参加人数　20人</string>
+	<key>あと　１時間</key>
+	<string>あと　１時間</string>
+	<key>10/10　00:00</key>
+	<string>10/10　00:00</string>
+	<key>一二１２pt七八九〇一二三四五六七八九〇</key>
+	<string>一二１２pt七八九〇一二三四五六七八九〇</string>
+	<key>累積ダメージ</key>
+	<string>累積ダメージ</string>
+	<key>攻撃回数</key>
+	<string>攻撃回数</string>
+	<key>9,999回</key>
+	<string>9,999回</string>
+	<key>アタックポイント</key>
+	<string>アタックポイント</string>
+	<key>団結クエスト期間は終了しました。現在
+集計中です　報酬配布までお待ちください</key>
+	<string>団結クエスト期間は終了しました。現在
+集計中です　報酬配布までお待ちください</string>
+	<key>データチップで豪華報酬と交換しましょう</key>
+	<string>データチップで豪華報酬と交換しましょう</string>
+	<key>データチップ交換所</key>
+	<string>データチップ交換所</string>
+	<key>ポイント：123456789 pt</key>
+	<string>ポイント：123456789 pt</string>
+	<key>クエスト名六七八九〇一二三四五六</key>
+	<string>クエスト名六七八九〇一二三四五六</string>
+	<key>エリア名五六七八九〇一二三四五六</key>
+	<string>エリア名五六七八九〇一二三四五六</string>
+	<key>一三四五六七八九〇一二がバトルに救援に来ました
+一三四五六七八九〇一二がバトルに救援に来ました</key>
+	<string>一三四五六七八九〇一二がバトルに救援に来ました
+一三四五六七八九〇一二がバトルに救援に来ました</string>
+	<key>残り12ターンです</key>
+	<string>残り12ターンです</string>
+	<key>イベント「お茶会のラビットを救え！」
+１２３４５６７８９０１２３４５６７８９０１２３４５
+
+１２３４５６７８９０１２３４５６７８９０１２３４５
+１２３４５６７８９０１２３４５６７８９０１２３４５
+</key>
+	<string>イベント「お茶会のラビットを救え！」
+１２３４５６７８９０１２３４５６７８９０１２３４５
+
+１２３４５６７８９０１２３４５６７８９０１２３４５
+１２３４５６７８９０１２３４５６７８９０１２３４５
+</string>
+	<key>このスペースで26文字×3行の76文字かけます。
+一二三四五六七八九〇一二三四五六七八九〇一二三四五六
+ブレフロは二〇文字×四行で八〇文字の模様です。</key>
+	<string>このスペースで26文字×3行の76文字かけます。
+一二三四五六七八九〇一二三四五六七八九〇一二三四五六
+ブレフロは二〇文字×四行で八〇文字の模様です。</string>
+	<key>ガチャチケット名九〇一二三四五六</key>
+	<string>ガチャチケット名九〇一二三四五六</string>
+	<key>予約クエストの通知を受け取る</key>
+	<string>Bookmarked Quests</string>
+	<key>ユニットネーム八九〇一二３４５６</key>
+	<string>ユニットネーム八九〇一二３４５６</string>
+	<key>ユーザ ID 変更</key>
+	<string>ユーザ ID 変更</string>
+	<key>12/31(日) 23:59〜12/31(日)23:59</key>
+	<string>12/31(日) 23:59〜12/31(日)23:59</string>
+	<key>フリーチャットを使用する</key>
+	<string>Enable Chat</string>
+	<key>プレイヤーネーム九〇一二</key>
+	<string>プレイヤーネーム九〇一二</string>
+	<key>ポイント：0pt</key>
+	<string>ポイント：0pt</string>
+	<key>ユーザー名六七八九０一二 からの協力依頼</key>
+	<string>ユーザー名六七八九０一二 からの協力依頼</string>
+	<key>ユーザー名六七八九０一二　からの協力依頼</key>
+	<string>ユーザー名六七八九０一二　からの協力依頼</string>
+	<key>あと　0:00:00</key>
+	<string>あと　0:00:00</string>
+	<key>ターン制限　4ターン</key>
+	<string>ターン制限　4ターン</string>
+	<key>ユニット名六七八九０一二三四五六</key>
+	<string>ユニット名六七八九０一二三四五六</string>
+	<key>0000枚</key>
+	<string>0000枚</string>
+	<key>準MVP</key>
+	<string>2nd MVP</string>
+	<key>発見者報酬</key>
+	<string>Spotter Rewards</string>
+	<key>クエスト参加報酬</key>
+	<string>Participation Rewards</string>
+	<key>総ダメージ量報酬</key>
+	<string>Total Damage Rewards</string>
+	<key>残り時間報酬</key>
+	<string>Time Left Rewards</string>
+	<key>開催期間： </key>
+	<string>Until: </string>
+	<key>00月00日00：00</key>
+	<string>00月00日00：00</string>
+	<key>〜</key>
+	<string>-</string>
+	<key>ポイント：0 pt</key>
+	<string>ポイント：0 pt</string>
+	<key>ランク３０</key>
+	<string>Rank 30</string>
+	<key>以上開放</key>
+	<string>Opens</string>
+	<key>団結クエストアイテム交換所</key>
+	<string>Raid Item Exchange</string>
+	<key>00月00日00:00まで交換可能</key>
+	<string>00月00日00:00まで交換可能</string>
+	<key>月額パックは現在準備中です</key>
+	<string>Coming soon.</string>
+	<key>ユニット名称７８９０１２３４５６</key>
+	<string>ユニット名称７８９０１２３４５６</string>
+	<key>クエストエリア名九〇一二三四五六</key>
+	<string>クエストエリア名九〇一二三四五六</string>
+	<key>ステージ名六七八九〇一二三四五六</key>
+	<string>ステージ名六七八九〇一二三四五六</string>
+	<key>ステージ名六七八九〇一二三四五六
+ステージ名六七八九〇一二三四五六</key>
+	<string>ステージ名六七八九〇一二三四五六
+ステージ名六七八九〇一二三四五六</string>
+	<key>一二三四五六七八九〇一二三四五六七八九〇
+一二三四五六七八九〇一二三四五六七八九〇
+一二三四五六七八九〇一二三四五六七八九〇
+一二三四五六七八九〇一二三四五六七八九〇 </key>
+	<string>一二三四五六七八九〇一二三四五六七八九〇
+一二三四五六七八九〇一二三四五六七八九〇
+一二三四五六七八九〇一二三四五六七八九〇
+一二三四五六七八九〇一二三四五六七八九〇 </string>
+	<key>売却ビット:</key>
+	<string>Bits:</string>
+	<key>６５サイズ</key>
+	<string>Size 65</string>
+	<key>７０サイズ</key>
+	<string>Size 70</string>
+	<key>７５サイズ</key>
+	<string>Size 75</string>
+	<key>８０サイズ</key>
+	<string>Size 80</string>
+	<key>ユーザーネーム８９０１2</key>
+	<string>ユーザーネーム８９０１2</string>
+	<key>ユーザーネーム８９０１２</key>
+	<string>ユーザーネーム８９０１２</string>
+	<key>スーパーサンダーバースト三四五六</key>
+	<string>スーパーサンダーバースト三四五六</string>
+	<key>待ってたぜ、この時をな！</key>
+	<string>待ってたぜ、この時をな！</string>
+	<key>一二三四五六七八九〇一二がバトルに救援に来ました
+一二三四五六七八九〇一二がバトルに救援に来ました</key>
+	<string>一二三四五六七八九〇一二がバトルに救援に来ました
+一二三四五六七八九〇一二がバトルに救援に来ました</string>
+	<key>ボス退却まで 残り12ターン</key>
+	<string>Boss retreats in 12 turns.</string>
+	<key>ああああ…</key>
+	<string>Ahhh…</string>
+	<key>クエスト1-4
+   CLEAR</key>
+	<string>Quest1-4
+   CLEAR</string>
+	<key>アイコンなしメニュー説明です。２５文字入りますよ！</key>
+	<string>アイコンなしメニュー説明です。２５文字入りますよ！</string>
+	<key>引き継ぎ ID・パスワードを発行しました。
+データ引き継ぎの際は、タイトル画面で
+以下の ID、パスワードを入力してください。</key>
+	<string>Transfer ID and password.
+For data transfer, enter the following ID
+and password at the title screen.</string>
+	<key>アナタの引き継ぎ ID</key>
+	<string>Transfer ID</string>
+	<key>アナタのパスワード</key>
+	<string>Password</string>
+	<key>ID・パスワード
+コピー</key>
+	<string>Copy ID and
+password</string>
+	<key>パスワード送信</key>
+	<string>Send password</string>
+	<key>引き継ぎIDとパスワードは、
+スクリーンショットを撮影するか、
+上記ボタンよりコピーや、メール送信を
+利用するなどして、必ずお控え下さい。</key>
+	<string>Be sure to record
+your Transfer ID and password
+and keep it in a safe place.</string>
+	<key>発行した引き継ぎIDとパスワードを
+入力することで、保存したデータを
+この端末に引き継ぎます。</key>
+	<string>Transfer saved data to
+this device by entering Transfer ID
+and password.</string>
+	<key>＊ 注意 ＊
+iOS から Android、
+Android から iOS に機種変更する場合
+ポリゴン、ロッククエスト開放キー各種
+ガチャチケット各種、チケットピースを
+引き継ぐことはできません</key>
+	<string>CAUTION
+Polygons, Quest Keys, Hatcher
+Tickets or Ticket Pieces
+cannot be transfered between
+different operating systems.</string>
+	<key>データをバックアップ</key>
+	<string>Data Backup</string>
+	<key>データを引き継ぎます</key>
+	<string>Transfer Data</string>
+	<key>旧データバックアップ</key>
+	<string>Data Backup</string>
+	<key>近日中に使用できなくなります</key>
+	<string>Tap to continue.</string>
+	<key>一二三四五六七八九〇一二三四五六七八</key>
+	<string>一二三四五六七八九〇一二三四五六七八</string>
+	<key>セット</key>
+	<string>Set</string>
+	<key>協力依頼</key>
+	<string>Call for Help</string>
+	<key>協力依頼を出すと複数人でバトルが行えます。
+協力依頼の送信先を選んでください。</key>
+	<string>Send co-op multiplayer requests to players.
+Select recipients.</string>
+	<key>次回バトル開始時に協力依頼を自動で開く
+(画面右上のボタンから設定は変更できます)</key>
+	<string>	Open Co-op Request automatically.
+	(Can be adjusted in Settings.)</string>
+	<key>入場条件を
+満たしていません</key>
+	<string>Entry conditions
+not met.</string>
+	<key>一二三四五六七八九〇一二三四五六</key>
+	<string>一二三四五六七八九〇一二三四五六</string>
+	<key>一二三四五六七八九〇一二三四五六　Lv.999</key>
+	<string>一二三四五六七八九〇一二三四五六　Lv.999</string>
+	<key>対象ユニットのHPをN増加</key>
+	<string>対象ユニットのHPをN増加</string>
+	<key>対象ユニットのHPが124増加
+一二三四五六七八九〇一二三四五六七八九〇
+一二三四五六七八九〇一二三四五六七八九〇
+一二三四五六七八九〇一二三四五六七八九〇</key>
+	<string>対象ユニットのHPが124増加
+一二三四五六七八九〇一二三四五六七八九〇
+一二三四五六七八九〇一二三四五六七八九〇
+一二三四五六七八九〇一二三四五六七八九〇</string>
+	<key>バグMAXユニット数</key>
+	<string>Bug MAX Units:</string>
+	<key>9999体</key>
+	<string>9999</string>
+	<key>アクセサ</key>
+	<string>Mod</string>
+	<key>アクセサ３</key>
+	<string>Mod 3</string>
+	<key>アクセサ２</key>
+	<string>Mod 2</string>
+	<key>アクセサ１</key>
+	<string>Mod 1</string>
+	<key>一二三四五六七八九〇１２３４５６７８９０
+ドラゴン５６７８９０１２３４５６７８９０
+１２３４５６７８９０１２３４５６７８９０
+一二三四五六七八九〇一二三四五六七八九〇</key>
+	<string>一二三四五六七八九〇１２３４５６７８９０
+ドラゴン５６７８９０１２３４５６７８９０
+１２３４５６７８９０１２３４５６７８９０
+一二三四五六七八九〇一二三四五六七八九〇</string>
+	<key>所持しているアクセサを変換して新たに手に入れたアクセサを獲得しますか？</key>
+	<string>Exchange Mods for new ones?</string>
+	<key>元のアクセサはアクセサ強化素材に
+変換されます。</key>
+	<string>Mod will be converted to
+Mod enhancement material.</string>
+	<key>【ユニット名十六文字〇一二三四五六】に【アクセサ名十八文字〇一二三四五六七八】を所持させますか？</key>
+	<string>【ユニット名十六文字〇一二三四五六】に【アクセサ名十八文字〇一二三四五六七八】を所持させますか？</string>
+	<key>アクセサスロットを選択してください。</key>
+	<string>Select a Mod Slot</string>
+	<key>既にアクセサがあるスロットを選択した場合、
+所持しているアクセサを変換して獲得します。</key>
+	<string>Select a slot with a Mod to
+exchange it with a Mod you have.</string>
+	<key>所持アクセサ</key>
+	<string>Your Mods</string>
+	<key>Sample Text
+一二三四五六七八九〇一二三四五六七八九〇
+一二三四五六七八九〇一二三四五六七八九〇
+一二三四五六七八九〇一二三四五六七八九〇</key>
+	<string>Sample Text
+一二三四五六七八九〇一二三四五六七八九〇
+一二三四五六七八九〇一二三四五六七八九〇
+一二三四五六七八九〇一二三四五六七八九〇</string>
+	<key>ベースアクセサ</key>
+	<string>Base Mods</string>
+	<key>ユニット名称７８９１２３４５６</key>
+	<string>ユニット名称７８９１２３４５６</string>
+	<key>バグMAXエフェクト</key>
+	<string>Bug MAX Effect</string>
+	<key>アクセサ効果</key>
+	<string>Mod Effect</string>
+	<key>ユーザーネーム８９０１２のターンです。</key>
+	<string>ユーザーネーム８９０１２のターンです。</string>
+	<key>プレンゼントチョコ1個で開放</key>
+	<string>プレンゼントチョコ1個で開放</string>
+	<key>攻撃演出を短縮する</key>
+	<string>Shorten attack effects</string>
+	<key>交換アイテム名</key>
+	<string>Item Name</string>
+	<key>元のアクセサはアクセサ強化アイテムに
+変換されます。</key>
+	<string>Mod will be converted
+to strengthen item.</string>
+	<key>強化アイテム</key>
+	<string>Strengthen Item</string>
+	<key>iCloud バックアップ</key>
+	<string>iCloud Backup</string>
+	<key>iCloud のバックアップからデータを引き継ぎます</key>
+	<string>Use iCloud Backup data.</string>
+	<key>バグ MAX ユニット数</key>
+	<string>Bug MAX Units</string>
+	<key>バグ MAX エフェクトなし</key>
+	<string>No Bug MAX effect</string>
+	<key>┗カウントスキップを常に反映</key>
+	<string>┗Count Skip active</string>
+	<key>報酬アイテム名八九〇一二三四五六七八九（バグ99）</key>
+	<string>報酬アイテム名八九〇一二三四五六七八九（バグ99）</string>
+	<key>2017/12/22 15:00 〜
+　　207/12/31 15:00 まで</key>
+	<string>2017/12/22 15:00 〜
+　　207/12/31 15:00 まで</string>
+	<key>エナジーが足りません。</key>
+	<string>Not enough energy</string>
+	<key>アイテムを使用して
+エナジーを回復しますか？</key>
+	<string>Use item
+to restore Energy</string>
+	<key>所持数:%d</key>
+	<string>Qty:%d</string>
+	<key>エナジーを</key>
+	<string>Restore</string>
+	<key>する</key>
+	<string>Energy</string>
+	<key>50回復</key>
+	<string>50</string>
+	<key>100回復</key>
+	<string>100</string>
+	<key>一括で受け取るギフトを
+選択してください
+最大50件まで受け取り可能です</key>
+	<string>Select Gifts.
+Up to 50 gifts
+can be claimed at one time.</string>
+	<key>アイテム</key>
+	<string>Items</string>
+	<key>強化・売却素材ユニット</key>
+	<string>Enhance・Selling</string>
+	<key>覚醒素材ユニット</key>
+	<string>Awakening Materials</string>
+	<key>0000年00月00日 00:00まで</key>
+	<string>Until: 0000/00/00 00:00</string>
+	<key>明日のボーナスは
+リンク×1000です。</key>
+	<string>Tomorrow's Bonus
+Links×1000</string>
+	<key>ポリゴン×5</key>
+	<string>Polgygons×50</string>
+	<key>セリフ表示を短縮する</key>
+	<string>Shorten unit dialogue</string>
+	<key>あと１日</key>
+	<string>after 1 day</string>
+	<key>無料</key>
+	<string>FREE</string>
+	<key>消費キー</key>
+	<string>Keys</string>
+	<key>解放条件：ランク30</key>
+	<string>Rank 30 required</string>
+	<key>本日あと１回無料開放！</key>
+	<string>1 free play today.</string>
+	<key>残りあと</key>
+	<string>Remaining</string>
+	<key>ボスがまだ見つかっていません。
+ALICE内のどこかにいるはずです。
+
+探しに行きましょう。</key>
+	<string>Boss not yet spotted
+but is somewhere within ALICE
+
+Keep searching.</string>
+	<key>┗ボイス</key>
+	<string>┗Voice</string>
+	<key>ゲームプレイに必要なデータを
+ダウンロードしますがよろしいですか？
+
+「一括DL」を選択していただきますと
+ゲームプレイ中のダウンロード回数が減り
+より快適に遊ぶことができます。
+
+すぐにゲームを始めたい方は
+一部のデータを後からダウンロードする
+「分割DL」を選択してください。</key>
+	<string>Download required data to play.
+Continue?
+
+Select Batch
+to help reduce the number
+of downloads during play.
+
+Select Min for minimum
+required download. Additional
+downloads may be required.</string>
+	<key>データダウンロード</key>
+	<string>Data Download</string>
+	<key>一括DLサイズ：</key>
+	<string>Batch size: </string>
+	<key>分割DLサイズ：</key>
+	<string>Minimum size: </string>
+	<key>通信環境のよい場所で
+ダウンロードを行ってください。
+また、大量のデータ通信が発生しますので
+Wi-Fiでのダウンロードをお勧めします。</key>
+	<string>Please be sure you have
+a stable connection.
+Due to larger file sizes
+Wi-Fi is recommended.</string>
+	<key>分割DL</key>
+	<string>Min.</string>
+	<key>一括DL</key>
+	<string>Batch</string>
+	<key>キャンセル</key>
+	<string>Cancel</string>
+	<key>スクラッチ</key>
+	<string>Scratch</string>
+	<key>戻る</key>
+	<string>Back</string>
+	<key>  豪華プレゼント獲得のチャンス！
+スクラッチボーナスに挑戦しよう！</key>
+	<string> Your chance at
+awesome rewards!</string>
+	<key>スクラッチにチャレンジ！</key>
+	<string>Scratch Bonus!</string>
+	<key>AM2:00〜AM10:00</key>
+	<string>2:00 am - 10:00 am</string>
+	<key>デ</key>
+	<string>●</string>
+	<key>ー</key>
+	<string>●</string>
+	<key>タ</key>
+	<string>●</string>
+	<key>ダ</key>
+	<string>●</string>
+	<key>ウ</key>
+	<string>●</string>
+	<key>ン</key>
+	<string>●</string>
+	<key>ロ</key>
+	<string>●</string>
+	<key>ド</key>
+	<string>●</string>
+	<key>中</key>
+	<string>●</string>
+	<key>超成功確率</key>
+	<string>Super Success</string>
+	<key>12月12日</key>
+	<string>12/12</string>
+	<key>12345一〇三四五六七アイウエオ</key>
+	<string>12345一〇三四五六七アイウエオ</string>
+	<key>ヘルプ</key>
+	<string>Help</string>
+	<key>20歳未満の方はポリゴンを自分の意志のみで買うことはできません。また、年齢によって買える金額が決まっています。
+
+あなたの年齢を選んでください。</key>
+	<string>If you are under age 20, polygon purchase is restricted. Purchases restricted by age
+
+</string>
+	<key>16歳未満</key>
+	<string>under 16</string>
+	<key>16〜19歳</key>
+	<string>16-19</string>
+	<key>20歳以上</key>
+	<string>20 or over</string>
+	<key>月 5,000円まで</key>
+	<string>月 5,000円まで</string>
+	<key>月 20,000円まで</key>
+	<string>月 20,000円まで</string>
+	<key>制限なし</key>
+	<string>unlimited</string>
+	<key>いくつ交換しますか？</key>
+	<string>How many?</string>
+	<key>コストXアイテム名</key>
+	<string>Cost x Item Name</string>
+	<key>到達Lv.</key>
+	<string>Reach Lv.</string>
+	<key>スキルLv.</key>
+	<string>Skill Lv.</string>
+	<key>超越</key>
+	<string>Transcend</string>
+	<key>素材自動選択 ▶︎</key>
+	<string>Material Auto Select ▶︎</string>
+	<key>バグ：</key>
+	<string>Bug:</string>
+	<key>オート</key>
+	<string>Auto</string>
+	<key>スキップ</key>
+	<string>Skip</string>
+	<key>ロボットはようすをみている。こんにちは。
+ロボットはようすをみている。こんにちは。
+ロボットはようすをみている。こんにちは。
+ロボットはようすをみている。こんにちは。
+ロボットはようすをみている。こんにちは。
+ロボットはようすをみている。こんにちは。
+ロボットはようすをみている。こんにちは。</key>
+	<string>The robot is watching. Hello.
+The robot is watching. Hello.
+The robot is watching. Hello.
+The robot is watching. Hello.
+The robot is watching. Hello.
+The robot is watching. Hello.
+The robot is watching. Hello.</string>
+	<key>ダランベール 123456 7890 </key>
+	<string>D'alembert123456 7890 </string>
+	<key>ボイス</key>
+	<string>Voice</string>
+	<key>ギフトボックスより受けとってくださいね</key>
+	<string>Claim from Gift Box</string>
+	<key>アイテム名×個数</key>
+	<string>Item×Qty</string>
+	<key>明日も素敵なプレゼントがありますよ</key>
+	<string>Log in tomorrow for rewards</string>
+	<key>ミッション名が入ります１４字
+</key>
+	<string>ミッション名が入ります１４字
+</string>
+	<key>ミッション内容説明が入ります。２２文字まで</key>
+	<string>ミッション内容説明が入ります。２２文字まで</string>
+	<key>達成度</key>
+	<string>Achievement</string>
+	<key>プレイ会</key>
+	<string>Play Party</string>
+	<key>おめでとうございます
+チュートリアルミッション全て完了です
+もう私の案内は必要ありませんね(仮)</key>
+	<string>Congratulations!
+Tutorial missions complete.
+</string>
+	<key>ミッション説明が１９文字１行はいります
+
+</key>
+	<string>ミッション説明が１９文字１行はいります
+
+</string>
+	<key>報酬
+
+ポリゴン×1000</key>
+	<string>Reward
+
+Polygon×1000</string>
+	<key>経験値ロッククエストに挑戦しよう！</key>
+	<string>Try the experience locked quest.</string>
+	<key>ミッション完了おめでとう！</key>
+	<string>Mission Complete</string>
+	<key>初めまして、〇〇零〇〇〇〇〇さん。
+案内役のメビウスです。まずはご一緒に、
+チュートリアルミッショに挑戦しましょう(仮)</key>
+	<string>初めまして、〇〇零〇〇〇〇〇さん。
+案内役のメビウスです。まずはご一緒に、
+チュートリアルミッショに挑戦しましょう(仮)</string>
+	<key>アクセサを３つ選んでください</key>
+	<string>Choose 3 Mods</string>
+	<key>3つ</key>
+	<string>3</string>
+	<key>変更しない</key>
+	<string>Do not change</string>
+	<key>一二三四五六七八九零一二三四五六七八九零一二三
+四五六七八九零一</key>
+	<string>一二三四五六七八九零一二三四五六七八九零一二三
+四五六七八九零一</string>
+	<key>発動率:</key>
+	<string>Invoke rate: </string>
+	<key>アクセサー名七八九〇一二三四五六</key>
+	<string>アクセサー名七八九〇一二三四五六</string>
+	<key>装着中</key>
+	<string> Installing </string>
+	<key>ミッション説明が入ります１２
+14文字×２行対応できます。</key>
+	<string>ミッション説明が入ります１２
+14文字×２行対応できます。</string>
+	<key>ポリゴン×100</key>
+	<string>Polygons ×100</string>
+	<key>今日はもう表示しない</key>
+	<string>Do not show today</string>
+	<key>イベントエリア九◯一三一二三四</key>
+	<string>イベントエリア九◯一三一二三四</string>
+	<key>開放時間</key>
+	<string>Available</string>
+	<key>20:00〜21:00</key>
+	<string>20:00-21:00</string>
+	<key>発動率100%</key>
+	<string>Invoke rate: 100%</string>
+	<key>１２３４５６７８９１０一二三四五六七八九
+１２３４５６７８９１０一二三四五六七八九
+１２３４５６７８９１０一二三四五六七八九</key>
+	<string>１２３４５６７８９１０一二三四五六七八九
+１２３４５６７８９１０一二三四五六七八九
+１２３４５６７８９１０一二三四五六七八九</string>
+	<key>バグMAXユニット 123体達成！</key>
+	<string>123 units at BUG MAX!</string>
+	<key>バグMAX
+エフェクトへ</key>
+	<string>To BUG MAX
+Effect</string>
+	<key>一二三四五六七八九零一二三四五六</key>
+	<string>一二三四五六七八九零一二三四五六</string>
+	<key>一二三四五六七八九零一二三四五六七八九零一二三四五六七八九零一</key>
+	<string>一二三四五六七八九零一二三四五六七八九零一二三四五六七八九零一</string>
+	<key>覚醒まで:</key>
+	<string>Until awakening:</string>
+	<key>覚醒まで：</key>
+	<string>Until awakening:</string>
+	<key>覚醒前</key>
+	<string>before awakening</string>
+	<key>覚醒すると発動率が上昇します。
+発動率はNN.NN～NN.NNの間で
+ランダムに決定されます。
+覚醒しますか？</key>
+	<string>覚醒すると発動率が上昇します。
+発動率はNN.NN～NN.NNの間で
+ランダムに決定されます。
+覚醒しますか？</string>
+	<key>アクセサを強化しますか？</key>
+	<string>Enhance Mod?</string>
+	<key>　覚醒まで：</key>
+	<string>Until awakening:</string>
+	<key>発動率 100%</key>
+	<string>Invoke rate: 100%</string>
+	<key>スロットなし</key>
+	<string>No slots</string>
+	<key>発動率:100%</key>
+	<string>Invoke rate: 100%</string>
+	<key>アクセサ未発動</key>
+	<string>Mod not active</string>
+	<key>ON にすると、ユニット画像が高画質に
+切り替わります。ご使用の端末によっては
+負荷が高くなりますのでご注意ください。
+また、高画質画像のダウンロードを行なうため、
+Wi-Fi 環境で行なうことをおすすめいたします。</key>
+	<string>When set to ON, unit images will be
+displayed in high quality. Depending on
+your device, the load may be high.
+We recommend downloading via
+Wi-Fi.</string>
+	<key>一括でユニット画像を高画質に変更する</key>
+	<string>Batch update unit images</string>
+	<key>その他文字が入ります</key>
+	<string>Enter other characters</string>
+	<key>クエスト情報</key>
+	<string>Quest Info</string>
+	<key>ギミック</key>
+	<string>Skills</string>
+	<key>テキストが入ります。１２３４５６７８９０１２３</key>
+	<string>Enter text.123456789123</string>
+	<key>特殊ルール</key>
+	<string>Special Rules</string>
+	<key>アイテム名
+と個数があ入ります</key>
+	<string>Enter item name
+and amount</string>
+	<key>タイトルが入ります。</key>
+	<string>Enter title</string>
+	<key>スキル名とか</key>
+	<string>Skills, etc.</string>
+	<key>発動中</key>
+	<string>Active</string>
+	<key>パネルの状態変化</key>
+	<string>Panel status change</string>
+	<key>パネルの状態スキルの説明パネルの状態スキルの説明</key>
+	<string>Panel state skill</string>
+	<key>アインシュタイン</key>
+	<string>Einstein</string>
+	<key>爆風範囲を表示する</key>
+	<string>Show Blast Range</string>
+	<key>＊ 注意 ＊
+別の OS に機種変更する場合
+ポリゴン、ロッククエスト開放キー各種
+ガチャチケット各種、チケットピースを
+引き継ぐことはできません</key>
+	<string>CAUTION
+If transferring an account
+between different OS, Polygons,
+Keys, Hatcher Tickets, Ticket Pieces
+may not be transferrable.</string>
+	<key>所持数</key>
+	<string>Stock</string>
+	<key>一二三四五六七八九零一二三四五六七八九零
+一二三四五六七八九零一二三四五六七八九零</key>
+	<string>一二三四五六七八九零一二三四五六七八九零
+一二三四五六七八九零一二三四五六七八九零</string>
+	<key>覚醒完了</key>
+	<string>Awakened</string>
+	<key>カラーゲイン・青</key>
+	<string>Color Gain・Blue</string>
+	<key>状態変化</key>
+	<string>State change</string>
+	<key>キャラクター７８９９１１２３４５６７８</key>
+	<string>キャラクター７８９９１１２３４５６７８</string>
+	<key>パネルの状態スキルの説明</key>
+	<string>Panel State Skill</string>
+	<key>99 ターン</key>
+	<string>99 turns</string>
+	<key>解除されるまで</key>
+	<string>until deactivated</string>
+	<key>未発動</key>
+	<string>Inactive</string>
+	<key>封翼の魔改変 コッククロフト</key>
+	<string>Suppressing Wing Mage Cockcroft</string>
+	<key>スキル：スキル名五六七八九○一二三四</key>
+	<string>Skill: Skill Name</string>
+	<key>助っ人に設定したユニットが
+パーティに編成されています</key>
+	<string>Helper unit is already
+in the party</string>
+	<key>開催期間：12/12(金) 00:00 まで</key>
+	<string>Ends: 12/12 00:00</string>
+	<key>非表示</key>
+	<string>Hide</string>
+	<key>表示は最大強化時のものです</key>
+	<string>Max enhancement shown.</string>
+	<key>キャラクター７８９１１２３４５６</key>
+	<string>Character 7891123456</string>
+	<key>テクニカルタイプ</key>
+	<string>Technical Type</string>
+	<key>ランキングクエストは終了しています
+ランキングには集計されません</key>
+	<string>Rank Quest complete.
+Not counted in rankings.</string>
+	<key>本日あと 1 回無料開放！</key>
+	<string>1 free play today</string>
+	<key>現在獲得している団結ポイントは</key>
+	<string>Current Raid Points: </string>
+	<key>です</key>
+	<string>.</string>
+	<key>団結クエストTOPへ &gt;&gt;</key>
+	<string>Raid Quest Top</string>
+	<key>獲得ポイント</key>
+	<string>Points Earned</string>
+	<key>獲得アイテム</key>
+	<string>Items Earned</string>
+	<key>報酬詳細</key>
+	<string>Reward Details</string>
+	<key>フレンドボーナス</key>
+	<string>Friend Bonus</string>
+	<key>参加人数</key>
+	<string>Players</string>
+	<key>ターン制限</key>
+	<string>Turns</string>
+	<key>ボス退却まで残り</key>
+	<string>Boss retreats in:</string>
+	<key>はい</key>
+	<string>Yes</string>
+	<key>いいえ</key>
+	<string>No</string>
+	<key>秒で次へ</key>
+	<string> seconds left</string>
+	<key>１２３４５６７８９０１２３４５６７８９
+19文字×２行対応できます。
+</key>
+	<string>１２３４５６７８９０１２３４５６７８９
+19文字×２行対応できます。
+</string>
+	<key>自動合成完了！</key>
+	<string>Complete</string>
+	<key>オート周回設定</key>
+	<string>Auto setting</string>
+	<key>所持数：</key>
+	<string>Owned: </string>
+	<key>使用するエナジードリンクと個数を設定してください</key>
+	<string>Set Energy Drinks to use.</string>
+	<key>ポップアップを表示する</key>
+	<string>Display Pop-up</string>
+	<key>┗ミッション</key>
+	<string>┗Mission</string>
+	<key>┗自動合成</key>
+	<string>┗Autofusion</string>
+	<key>バトルスキップ設定</key>
+	<string>Battle Skip Setting</string>
+	<key>回挑戦する</key>
+	<string> plays</string>
+	<key>回スキップ</key>
+	<string> skips</string>
+	<key>キー</key>
+	<string>key</string>
+	<key>スキップチケット</key>
+	<string>Skip Ticket</string>
+	<key>ゲームオーバーになった場合オート周回を中止</key>
+	<string>If game over, stop Auto-lap.</string>
+	<key>このステージに必要なスキップチケット：</key>
+	<string>Skip Ticket required: </string>
+	<key>1枚</key>
+	<string>1</string>
+	<key>(あと100回)</key>
+	<string>in 100 times</string>
+	<key>周回</key>
+	<string>Lap</string>
+	<key>ユニットを 5 体選んでください
+「おすすめ選択」ボタンをタップで
+おすすめユニット 5 体が選択されます</key>
+	<string> Tap Suggested Units to
+display 5 suggested units
+</string>
+	<key>操作説明</key>
+	<string>How to</string>
+	<key>ユニットの拡大縮小</key>
+	<string>Zoom</string>
+	<key>：ユニットをピンチイン・アウト</key>
+	<string>Pinch</string>
+	<key>ユニットの移動</key>
+	<string>Move unit</string>
+	<key>：ユニットをスライド</key>
+	<string>Slide unit</string>
+	<key>Cスキルカットイン再生</key>
+	<string>Play C Skill Cut in</string>
+	<key>：ユニットをタップ</key>
+	<string>Tap unit</string>
+	<key>スキルカットイン再生</key>
+	<string>Play Skill Cut in</string>
+	<key>：ユニットを長押し</key>
+	<string>Tap and hold unit</string>
+	<key>UI非表示</key>
+	<string>Hide UI</string>
+	<key>：画面上のUIボタンを非表示 / 画面をタップで解除</key>
+	<string>: Hide UI button / Tap screen to cancel</string>
+	<key>※UI非表示状態での操作はユニットの拡大縮小と移動のみ可能</key>
+	<string>When UI is hidden, unit can be zoomed or moved.</string>
+	<key>属性パネルとCPの威力を表示する</key>
+	<string>Show attribute panel, CP power</string>
+	<key>パネル破壊時に出る数字を
+チェイン順にする</key>
+	<string>Show chain
+order</string>
+	<key>オートプレイ中のクエスト終了を
+バイブレーションで知らせる</key>
+	<string>Vibrate when Auto play
+quest ends</string>
+	<key>周回終了時にバイブレーションで通知</key>
+	<string>Notify with vibration when autoplay ends</string>
+	<key>EX. 董卓の証言EX. 董卓の証言六七</key>
+	<string> EX. Dong Zhuo's testimony EX. Dong Zhuo's testimony 67 </string>
+	<key>難易度</key>
+	<string>Difficulty</string>
+	<key>【超ウィザード級】</key>
+	<string>Ultimate</string>
+	<key>ユニットピース交換所</key>
+	<string>Unit Piece Exchange</string>
+	<key>ユニットピースをユニットと交換しよう</key>
+	<string>Exchange Unit Pieces</string>
+	<key>所持：</key>
+	<string>Own:</string>
+	<key>交換期限：</key>
+	<string>Expires:</string>
+	<key>あと99時間</key>
+	<string>in 99 hrs</string>
+	<key>購入済み</key>
+	<string>Purchased</string>
+	<key>（最大バグ10）</key>
+	<string>Max Bug 10</string>
+	<key>交換期間：</key>
+	<string>Exchange period:</string>
+	<key>▲  長押しで同じユニットを選択</key>
+	<string>Tap and hold to select same unit</string>
+	<key>アプリ内
+お知らせ</key>
+	<string>In game
+News</string>
+	<key>獲得リンク</key>
+	<string>Links</string>
+	<key>助っ人を変更して再挑戦しますか？</key>
+	<string>Change helper and try again?</string>
+	<key>このまま
+再挑戦</key>
+	<string>Try
+Again</string>
+	<key>変更して
+再挑戦</key>
+	<string>Change
+Helper</string>
+	<key>次へ</key>
+	<string>Next</string>
+	<key>初回のみ★４以上確定</key>
+	<string>1st try: 4★ or higher only</string>
+	<key>ロッククエスト【超ウィザード級】灯火親しむ創作合宿　-女といふもの- を2回クリアしよう２０文字×３行までテキストが入ります</key>
+	<string>ロッククエスト【超ウィザード級】灯火親しむ創作合宿　-女といふもの- を2回クリアしよう２０文字×３行までテキストが入ります</string>
+	<key>ランキングクエストは
+終了しました。
+次回開催をお待ち下さい。
+
+ご参加いただいたランキング
+クエストの順位については運営からのメールにて、ご確認ください。
+(最大文字数127文字まで対応)</key>
+	<string> Ranking Quest
+Complete
+Please wait for the next event.
+
+
+
+127 character limit</string>
+	<key>開始まで</key>
+	<string>Begins</string>
+	<key>2016年12月15日(火)14:00まで</key>
+	<string>2016年12月15日(火)14:00まで</string>
+	<key>ランク40以上開放</key>
+	<string>Rank 40 or higher only</string>
+	<key>スキル Lv.MAX</key>
+	<string>Skill Lv. MAX</string>
+	<key>ターン : 99</key>
+	<string>Turns: 99</string>
+	<key>タイプ四五六七</key>
+	<string>タイプ四五六七</string>
+	<key>スキル四五六七八九〇一二三四五六</key>
+	<string>スキル四五六七八九〇一二三四五六</string>
+	<key>一二三四五六七八九〇一二三四五六七八九〇一二三四五六七八九〇
+一二三四五六七八九〇一二三四五六七八九〇一二三四五六七八九〇
+一二三四五六七八九〇一二三四五六七八九〇一二三四五六七八九〇
+一二三四五六七八九〇一二三四五六七八九〇一二三四五六七八九〇
+一二三四五六七八九〇一二三四五六七八九〇一二三四五六七八九〇</key>
+	<string>一二三四五六七八九〇一二三四五六七八九〇一二三四五六七八九〇
+一二三四五六七八九〇一二三四五六七八九〇一二三四五六七八九〇
+一二三四五六七八九〇一二三四五六七八九〇一二三四五六七八九〇
+一二三四五六七八九〇一二三四五六七八九〇一二三四五六七八九〇
+一二三四五六七八九〇一二三四五六七八九〇一二三四五六七八九〇</string>
+	<key>一二三四五六七八九〇一二三四五六七八九〇一二三四五六七八九〇
+一二三四五六七八九〇一二三四五六七八九〇一二三四五六七八九〇</key>
+	<string>一二三四五六七八九〇一二三四五六七八九〇一二三四五六七八九〇
+一二三四五六七八九〇一二三四五六七八九〇一二三四五六七八九〇</string>
+	<key>Cスキル五六七八九〇一二三四五六</key>
+	<string>Cスキル五六七八九〇一二三四五六</string>
+	<key>ユニット名六七八九〇一二三四五六七</key>
+	<string>ユニット名六七八九〇一二三四五六七</string>
+	<key>一二三四五六七</key>
+	<string>一二三四五六七</string>
+	<key>一二三四五六七八</key>
+	<string>一二三四五六七八</string>
+	<key>一二三四五六七
+一二三四五六七</key>
+	<string>一二三四五六七
+一二三四五六七</string>
+	<key>交換上限なし</key>
+	<string>No limit</string>
+	<key>14文字×3行6七八九〇一二三四
+一二三四五六七八九〇一二三四
+一二三四五六七八九〇一二三四</key>
+	<string>14文字×3行6七八九〇一二三四
+一二三四五六七八九〇一二三四
+一二三四五六七八九〇一二三四</string>
+	<key>ダイアログ名12345678901234</key>
+	<string>ダイアログ名12345678901234</string>
+	<key>プレゼント</key>
+	<string>プレゼント</string>
+	<key>クリアしたミッションの内容が入ります九十
+一二三四五六七八九〇一二三四五六七八九〇
+一二三四五六七八九〇一二三四五六七八九〇</key>
+	<string>クリアしたミッションの内容が入ります九十
+一二三四五六七八九〇一二三四五六七八九〇
+一二三四五六七八九〇一二三四五六七八九〇</string>
+	<key>報酬　ポリゴン×1000一二三四五六七八九〇
+一二三四五六七八九〇一二三四五六七八九〇</key>
+	<string>報酬　ポリゴン×1000一二三四五六七八九〇
+一二三四五六七八九〇一二三四五六七八九〇</string>
+	<key>クリアしたミッションの内容が入ります九十
+一二三四五六七八九〇一二三四五六七八九〇</key>
+	<string>クリアしたミッションの内容が入ります九十
+一二三四五六七八九〇一二三四五六七八九〇</string>
+	<key>開放機能名が入ります
+開放機能名が入ります
+開放機能名が入ります
+開放機能名が入ります
+開放機能名が入ります</key>
+	<string>開放機能名が入ります
+Unlock Function Name Here
+Unlock Function Name Here
+Unlock Function Name Here
+Unlock Function Name Here</string>
+	<key>一二三四五六七
+一二三四五六七
+一二三四五六七</key>
+	<string>1234567
+1234567
+1234567</string>
+	<key>┗潜在能力</key>
+	<string>┗Potentials</string>
+	<key>適合者能力テスト</key>
+	<string>Adapter Aptitude Test</string>
+	<key>をクリアしてみよう！</key>
+	<string>available to clear!</string>
+	<key>【超ディザスター級】</key>
+	<string>[Ultimate]</string>
+	<key>左詰めエリア名八九〇一二三四五</key>
+	<string>Area Name8901234</string>
+	<key>【難易度四五六七八九〇】</key>
+	<string>[Difficulty4567890]</string>
+	<key>左詰めエリア名八九〇一二三四五六</key>
+	<string>Area Name890123456</string>
+	<key>イベントエリア八九◯一三四五六七</key>
+	<string>Event Area890134567</string>
+	<key>開放まであと 3 日</key>
+	<string>3 days until unlock</string>
+	<key>達成率</key>
+	<string>Clear Rate</string>
+	<key>潜在能力をいくつ解放しますか？</key>
+	<string>Unlock how many potentials?</string>
+	<key>Deep-Log[0000] が不足しています</key>
+	<string>Deep-Log[0000] insufficient</string>
+	<key>必要数 :</key>
+	<string>Number Required:</string>
+	<key>所持数 :</key>
+	<string>Number Owned:</string>
+	<key>潜在能力をすべて解放しました！</key>
+	<string>All Potentials Unlocked!</string>
+	<key>潜在能力</key>
+	<string>Potential</string>
+	<key>解放</key>
+	<string>Unlocked</string>
+	<key>一二三四五六七八九〇一二三四五六
+一二三四五六七八九〇一二三四五六
+一二三四五六七八九〇一二三四五六</key>
+	<string>1234567890123456
+1234567890123456
+1234567890123456</string>
+	<key>潜在能力解放アイテム</key>
+	<string>Potential Unlock Item</string>
+	<key>Deep Log [00000]共有ユニット</key>
+	<string>Deep Log [00000] Shared Unit</string>
+	<key>以下のユニットと Deep-Log を共有します。
+※ 潜在能力は共有されません。</key>
+	<string>Deep-Log will be shared with following unit.
+※ Potentials will not be shared.</string>
+	<key>進化適応に必要なユニット</key>
+	<string>Units required for Evolve</string>
+	<key>BGM変更スキル</key>
+	<string>BGM Change Skill</string>
+	<key>コラボ４５６７８９０１２３</key>
+	<string>Crossover４５６７８９０１２３</string>
+	<key>コラボ</key>
+	<string>Crossover</string>
+	<key>期間限定</key>
+	<string>Limited TIme</string>
+	<key>定常</key>
+	<string>Regular</string>
+	<key>適合者試験
+で解放</key>
+	<string>Unlock at
+Adapter Test</string>
+	<key>本日分</key>
+	<string>Today's</string>
+	<key>適合者試験で解放</key>
+	<string>Unlock at Adapter Test</string>
+	<key>本日無料</key>
+	<string>Free Today</string>
+	<key>適合者試験はこちら</key>
+	<string>Adapter Test Here</string>
+	<key>階層</key>
+	<string>Floor</string>
+	<key>メインストーリー　第１章三四五</key>
+	<string>Main Story Chapter 1三四五</string>
+	<key>リーダースキル</key>
+	<string>Leader Skill</string>
+	<key>リーダースキル八九〇一二三四五六</key>
+	<string>Leader Skill八九〇一二三四五六</string>
+	<key>ユニット名六七八九〇一二三四五六七八九〇一二</key>
+	<string>Unit Name六七八九〇一二三四五六七八九〇一二</string>
+	<key>一二三四五六七八九零一二三四五六七八九零一二三</key>
+	<string>一二三四五六七八九零一二三四五六七八九零一二三</string>
+	<key>アクセサー名七八九〇一二三四五六七八九〇</key>
+	<string>Mod Name七八九〇一二三四五六七八九〇</string>
+	<key>装備</key>
+	<string>Equip</string>
+	<key>ステータス強化８９０１２３４５６７</key>
+	<string>Enhance Status８９０１２３４５６７</string>
+	<key>333種類</key>
+	<string>333 Kinds</string>
+	<key>アクセサ五六七八九〇一二三四五六七八</key>
+	<string>Mod五六七八九〇一二三四五六七八</string>
+	<key>一二三四五六七八九〇一二三四五六七八九〇一二三四
+一二三四五六七八九〇一二三四五六七八九〇一二三四
+一二三四五六七八九〇一二三四五六七八九〇一二三四
+一二三四五六七八九〇一二三四五六七八九〇一二三四</key>
+	<string>一二三四五六七八九〇一二三四五六七八九〇一二三四
+一二三四五六七八九〇一二三四五六七八九〇一二三四
+一二三四五六七八九〇一二三四五六七八九〇一二三四
+一二三四五六七八九〇一二三四五六七八九〇一二三四</string>
+	<key>選択中</key>
+	<string>Selected</string>
+	<key>一二三四五六七八九零一二三四五六七八九零一
+一二三四五六七八九零一二三四五六七八九零一
+一二三四五六七八九零一二三四五六七八九零一
+一二三四五六七八九零一二三四五六七八九零一</key>
+	<string>一二三四五六七八九零一二三四五六七八九零一
+一二三四五六七八九零一二三四五六七八九零一
+一二三四五六七八九零一二三四五六七八九零一
+一二三四五六七八九零一二三四五六七八九零一</string>
+	<key>アイテムが選択されていません</key>
+	<string>Item is not selected</string>
+	<key>開催中！</key>
+	<string>Active!</string>
+	<key>準備中</key>
+	<string>Preparing</string>
+	<key>結果発表中</key>
+	<string>See Results</string>
+	<key>潜在バグ</key>
+	<string>Potential Bug</string>
+	<key>＊ 注意 ＊
+機種変更などでご利用のOSが
+変更となる場合には、ストアの規約により
+ポリゴンを引き継ぐことはできません。
+そのほか、ロックキー、各種チケットなど、
+アイテム一覧に表示されているアイテムも
+引き継ぐことはできません。</key>
+	<string>＊ Warning ＊
+In the case that a different OS is used
+from changing your device and such,
+Polygons cannot be transferred due to Store policies.
+Other items shown in Items,
+such as Lock Keys or Tickets,
+also cannot be transferred.&lt;/font&gt;</string>
+	<key>一二三四五六七
+一二三四五六七
+一二三四五六七
+	</key>
+	<string>一二三四五六七
+一二三四五六七
+一二三四五六七
+	</string>
+	<key>一二三四五六七八九零一
+一二三四五六七八九零一
+一二三四五六七八九零一</key>
+	<string>一二三四五六七八九零一
+一二三四五六七八九零一
+一二三四五六七八九零一</string>
+	<key>開催期間：2021/01/01 15:00:00 〜 2021/01/31 14:59:59</key>
+	<string>Available：2021/01/01 15:00:00 〜 2021/01/31 14:59:59</string>
+	<key>新ストーリー追加！</key>
+	<string>New Story Added!</string>
+	<key>残り:</key>
+	<string>Left:</string>
+	<key>経過時間</key>
+	<string>Elapsed time</string>
+	<key>討伐報酬</key>
+	<string>Victory Reward</string>
+	<key>エネミーが出現していません。
+ALICE内のどこかにいるはずです。
+
+探しに行きましょう。</key>
+	<string>There are no enemies here.
+They must be somewhere in ALICE.
+
+Try searching for them.</string>
+	<key>あいうえおかきくけこさしすせそ</key>
+	<string>あいうえおかきくけこさしすせそ</string>
+	<key>ユニット名</key>
+	<string>Unit Name</string>
+	<key>最大強化</key>
+	<string>Max Enhance</string>
+	<key>倍速を使用する</key>
+	<string>Use 2x</string>
+	<key>ランクエ開催中！</key>
+	<string>Ranking Quest Live!</string>
+	<key>挑戦する</key>
+	<string>Challenge</string>
+	<key>3×3 クリアで解放</key>
+	<string>Clear 3×3 to unlock</string>
+	<key>4×4 クリアで解放</key>
+	<string>Clear 4×4 to unlock</string>
+	<key>報酬はギフトボックスへ送られます</key>
+	<string>Rewards will be sent to Gift</string>
+	<key>トラバーサルクエスト4×4</key>
+	<string>Enigma Quest 4×4</string>
+	<key>変更</key>
+	<string>Change</string>
+	<key>アイテム名123456</key>
+	<string>Item Name123456</string>
+	<key>個</key>
+	<string />
+	<key>を使用してスキンを解放しますか？</key>
+	<string>Use to unlock Skin?</string>
+	<key>（所持　　　個 →　　　個）</key>
+	<string>（Owned:　　　 →　　　）</string>
+	<key>が不足しています</key>
+	<string> insufficient</string>
+	<key>必要数：</key>
+	<string>Number needed: </string>
+	<key>一二三四五六七八九零一二三四五六七八九零一二三
+一二三四五六七八九零一二三四五六七八九零一二三
+一二三四五六七八九零一二三四五六七八九零一二三</key>
+	<string>一二三四五六七八九零一二三四五六七八九零一二三
+一二三四五六七八九零一二三四五六七八九零一二三
+一二三四五六七八九零一二三四五六七八九零一二三</string>
+	<key>一二三四五六七八九零一二三四</key>
+	<string>一二三四五六七八九零一二三四</string>
+	<key>9999個 → 9999個</key>
+	<string>9999 → 9999</string>
+	<key>消費数</key>
+	<string>Number Used</string>
+	<key>使用中</key>
+	<string>In Use</string>
+	<key>このステージで使用できないユニットが
+パーティに編成されています</key>
+	<string>A unit that cannot be used in this stage
+is in your party</string>
+	<key>一二三四五六七八九零一二三四五六七八九零</key>
+	<string>一二三四五六七八九零一二三四五六七八九零</string>
+	<key>購入回数
+</key>
+	<string>Buyable
+</string>
+	<key>ヶ月間/</key>
+	<string>Month(s)/</string>
+	<key>価格
+</key>
+	<string>Price
+</string>
+	<key>資金決済法に基づく表示</key>
+	<string>Act on Payment Services</string>
+	<key>特定商取引法に基づく表示</key>
+	<string>Act on Specified Commercial Transactions</string>
+	<key>パックに含まれるアイテム</key>
+	<string>Items included in pack</string>
+	<key>パック内容説明</key>
+	<string>Pack Description</string>
+	<key>パック名５６７８９０１</key>
+	<string>Pack Name５６７８９０１</string>
+	<key>ゴールドピヨピヨ×100</key>
+	<string>Gold Hatchling×100</string>
+	<key>編成ボーナス</key>
+	<string>Formation Bonus</string>
+	<key>使用するアイテムと個数を設定してください</key>
+	<string>Select how many items you want to use.</string>
+	<key>フォルダ拡張</key>
+	<string>Expand Folder</string>
+	<key>回拡張する</key>
+	<string>Time(s) </string>
+	<key>フォルダ</key>
+	<string>Folder</string>
+	<key>ポリゴンを1個消費します</key>
+	<string>Use 1 polygon.</string>
+	<key>※ 「拡張する」を選ぶとすぐにポリゴンが消費され
+　 利用できます
+※ ポリゴン消費後のキャンセルはできません</key>
+	<string>※ Click 'Expand' to use the polygon
+to expand folder.
+※ This action cannot be undone.</string>
+	<key>拡張する</key>
+	<string>Expand</string>
+	<key>一二三四五六七八九〇一二三四
+一二三四五六七八九〇一二三四
+</key>
+	<string>一二三四五六七八九〇一二三四
+一二三四五六七八九〇一二三四
+</string>
+	<key>適合者能力試験</key>
+	<string>Adapter Aptitude Test</string>
+	<key>【超ディザスター級】に挑戦！</key>
+	<string> Challenge [Ultra Disaster]!</string>
+	<key>名前に使用できない文字が含まれています</key>
+	<string>Invalid Name</string>
+	<key>新しい名前を入力してください
+（１２文字まで）</key>
+	<string>Please enter a new name.
+(character limit: 24)</string>
+	<key>＊ 注意 ＊
+機種変更などでご利用のOSが
+変更となる場合には、ストアの規約により
+ポリゴンを引き継ぐことはできません。
+そのほか、アクセサ、各種チケットなど、
+アイテム一覧に表示されているアイテムも
+引き継ぐことはできません。</key>
+	<string>＊ Warning ＊
+In the case that a different OS is used
+from changing your device and such,
+Polygons cannot be transferred due to Store policies.
+Other items shown in Items List,
+such as Mods, Lock Keys or Tickets,
+also cannot be transferred.&lt;/font&gt;</string>
+	<key>適合者能力テスト適合者能力テスト適合者能力テスト</key>
+	<string>Adapter Aptitude Test Adapter Aptitude Test Adapter Aptitude Test </string>
+	<key>Lv1ミッション全クリアで解放▼</key>
+	<string>Clear Lv.1 Mission to Unlock▼</string>
+	<key>左詰めエリア名八九○一二三四五六七八
+左詰めエリア名八九○一二三四五六七八</key>
+	<string>左詰めエリア名八九○一二三四五六七八
+左詰めエリア名八九○一二三四五六七八</string>
+	<key>一二三四五六七
+一二三四五六七
+一二三四五六七
+</key>
+	<string>一二三四五六七
+一二三四五六七
+一二三四五六七
+</string>
+	<key>時限式
+ダメージパネル</key>
+	<string>Timers
+</string>
+	<key>カラー
+ゲイン(赤)</key>
+	<string>Red Panel Color Gain
+</string>
+	<key>異彩の特異点
+レプリカトラヴァー</key>
+	<string>Odd Singularity
+Replicant Trebla</string>
+	<key>重複</key>
+	<string>Repetition</string>
+	<key>このクエストは助っ人を
+連れて行くことができません</key>
+	<string>Helpers are not allowed
+in this quest.</string>
+	<key>フレンド使用中</key>
+	<string>Friend Engaged</string>
+	<key>オート周回</key>
+	<string>Auto Play</string>
+	<key>デイリー完了分</key>
+	<string>Daily Quests Done</string>
+	<key>20人</key>
+	<string>20 people</string>
+	<key>4ターン</key>
+	<string>4 Turns</string>
+	<key>パネルを「タップ」して消してみましょう！
+まずはタップ操作を覚えましょう！
+
+パネルを「タップ」して消してみましょう！
+1つ消すと隣り合う同じ色の
+パネルも消えていきますよ！
+パネルを「タップ」して消してみましょう！</key>
+	<string> 'Tap' to break panels!
+First, let's learn how to tap!
+
+Try to Tap and break panels now!
+The surrounding panels of the same color
+will also be broken.</string>
+	<key>テキスト検索</key>
+	<string>Text Search</string>
+	<key>攻撃力順</key>
+	<string>ATK</string>
+	<key> スキルターン</key>
+	<string>Skill Cooldown</string>
+	<key>10ターン</key>
+	<string>10 Turns</string>
+	<key>ギミック対応</key>
+	<string>Dealing with Gimmicks</string>
+	<key>スキル発動　BGM変更＆ステータスUP　S</key>
+	<string>Skl Act Change BGM&gt;Status Bst S</string>
+	<key>スロット
+未開放</key>
+	<string>Locked
+Slot</string>
+	<key>ステータス</key>
+	<string>Stats</string>
+	<key>種族</key>
+	<string>Tribe</string>
+	<key>アカデミア</key>
+	<string>Academic</string>
+	<key>アニマル</key>
+	<string>Animal</string>
+	<key>タイプ</key>
+	<string>Type</string>
+	<key>体力</key>
+	<string>Stamina</string>
+	<key>検索ボックスを常に表示</key>
+	<string>Always show search box.</string>
+	<key>検索対象</key>
+	<string>Search for</string>
+	<key>・・・・・・・・・・・・・・</key>
+	<string>・・・・・・・・・・・・・・</string>
+	<key>スタート</key>
+	<string>OK</string>
+	<key>イベント開催中！</key>
+	<string>Event Live!</string>
+	<key>ユニット強化</key>
+	<string>Enhance Units</string>
+	<key>スキンプレビュー中</key>
+	<string>Previewing Skin</string>
+	<key>ガチャへ</key>
+	<string>To the Hatcher</string>
+	<key>１２３４５６７８９０一二三四五六
+１２３４５６７８９０一二三四五六</key>
+	<string>１２３４５６７８９０一二三四五六
+１２３４５６７８９０一二三四五六</string>
+	<key>次の報酬まで 99999pt</key>
+	<string>Next Reward in 99999pt</string>
+	<key>デフラグポイント/累計</key>
+	<string>Defrag Point/Total</string>
+	<key>次の報酬まで</key>
+	<string>Next Reward in</string>
+	<key>ショップへ</key>
+	<string>Go to Shop</string>
+	<key>ポリゴンが足りません
+	
+保有数： 0 ポリゴン	
+１回： 50 ポリゴン	
+	
+（あと 1 回！）</key>	
+	<string>You don't have enough Polygon(s).
+	
+Owned : 0 Polygon(s)
+1 Try : 50 Polygons
+	
+(1 more try!)</string>
+	<key>ユニットをピンチイン･アウト</key>
+	<string>Pinch In/Out of Unit</string>
+	<key>ユニットをスライド</key>
+	<string>Slide Unit</string>
+	<key>一定時間操作なしで非表示</key>
+	<string>Automatically Hide UI</string>
+	<key>画面をタップで解除</key>
+	<string>Tap Screen to Deactivate</string>
+	<key>自分のターンになったら
+バイブレーションで知らせる</key>	
+	<string>Notify via vibration
+when your turns start.</string>
+	<key>アカウント削除申請</key>
+	<string>Account Deletion Request</string>
+	<key>アカウント削除申請を送信します</key>
+	<string>Submit Account Deletion Request</string>
+	<key>デイリー</key>
+	<string>Daily</string>
+	<key>デフラグ</key>
+	<string>Defrag</string>
+	<key>クエスト名六七八九〇一二三四五六七</key>
+	<string>クエスト名六七八九〇一二三四五六七</string>
+	<key>難易度四五六七八九〇一二三四五六七</key>
+	<string>難易度四五六七八九〇一二三四五六七</string>
+	<key>エリア名五六七八九〇一二三四五六七</key>
+	<string>エリア名五六七八九〇一二三四五六七</string>
+	<key>次のクエスト</key>
+	<string>Next Quest</string>
+	<key>ホーム画面にクエストを
+表示する</key>	
+	<string>Show Quest on
+Home Screen</string>
+	<key>+ターン:</key>
+	<string>+Turn:</string>
+	<key>チャージ</key>
+	<string>Charge</string>
+	<key>(単価 約￥100)</key>
+<string>(Around ￥100 each)</string>
+	<key>はじめから</key>
+	<string>New Game</string>
+	<key>データを削除してゲームをはじめからプレイします</key>
+	<string>Delete your data and start a new game.</string>
+	<key>00000ptでGET！</key>
+	<string>GET at 00000pt!</string>
+	<key>レベル1ガイドミッション
+全クリアで解放</key>	
+	<string>Clear All Lv.1 Missions to
+Unlock</string>	
+	<key>挑戦可能</key>
+	<string>Available</string>
+	<key>左詰めエリア名八九○一二三四五六七八九○
+左詰めエリア名八九○一二三四五六七八九○</key>	
+	<string>Area Name890123456890
+Area Name890123456890</string>
+	<key>一二三四五六七八九零一二三四五六七八九零
+一二三四五六七八九零一二三四五六七八九零	
+一二三四五六七八九零一二三四五六七八九零</key>	
+	<string>一二三四五六七八九零一二三四五六七八九零
+一二三四五六七八九零一二三四五六七八九零	
+一二三四五六七八九零一二三四五六七八九零</string>	
+	<key>コスト60</key>
+	<string>Cost60</string>
+	<key>コスト65</key>
+	<string>Cost65</string>
+	<key>ONにすると対象のコストの
+ユニット入手時に
+自動でお気に入り登録されます</key>
+	<string>When set to ON,
+same Cost units will be
+automatically favorited.</string>	
+	<key>※ 自動合成がONの場合
+お気に入り登録されず
+ユニットが自動合成されます</key>
+	<string>*If Autofusion is set to ON
+the unit will not be favorited
+and be Autofusioned.</string>
+	<key>パーティ名あいうえお</key>
+	<string>Party NameABCDE</string>
+	<key>選択したコストのユニットを一括選択します</key>
+	<string>Same cost units will be bulk selected.</string>
+	<key>未強化、お気に入り選択されていないユニットが対象です</key>
+	<string>Only unenhanced, un-favorited units selected.</string>
+	<key>バグMAX登録済みのユニットのみ売却する</key>
+	<string>Only sell BUG MAX registered units.</string>
+	<key>パーティ名を入力してください
+（１０文字まで）</key>	
+	<string>Enter Party Name
+(Max 10 characters)</string>	
+	<key>パーティ名</key>
+	<string>Party Name</string>
+	<key>最大強化するには
+強化素材が不足しています</key>	
+	<string>Not enough materials for
+MAX Enhancement.</string>	
+	<key>カスタム強化設定</key>
+	<string>Custom Enhancement</string>
+	<key>限界突破</key>
+	<string>Limit Break</string>
+	<key>※ 個人情報や
+公序良俗に反する
+内容は入力しないでください。</key>	
+	<string>*Please do not enter
+personal information or content
+against public policy.</string>	
+	<key>一言コメントを入力してください
+（５８文字まで）
+
+</key>	
+	<string>Enter your comment
+(Max 58 characters)
+
+</string>
+	<key>公開設定</key>
+	<string>Visibility</string>
+	<key>各項目はONにすると
+プロフィールやシェア画像で
+他のプレイヤーが見ることができます。
+※IDはシェア画像でのみ表示されます</key>
+	<string>By turning each entry ON,
+entries will be visible to other players
+via profile and shared image.
+*Your ID will be displayed only for the shared image.</string>
+	<key>バグマエフェクト</key>
+	<string>BUG MAX Effect</string>
+	<key>カタログ登録数</key>
+	<string>Unit Database</string>
+	<key>最高ダメージ</key>
+	<string>Max Damage</string>
+	<key>ストーリー進捗</key>
+	<string>Story Progress</string>
+	<key>ログイン日数</key>
+	<string>Login Days</string>
+	<key>シェア</key>
+	<string>Share</string>
+	<key>新人クラファー</key>
+	<string>Novice Crasher</string>
+	<key>あいうえおかきくけこさし</key>
+	<string>あいうえおかきくけこさし</string>
+	<key>あいうえおかきくけこああいうえおかきくけこあ</key>
+	<string>あいうえおかきくけこああいうえおかきくけこあ</string>
+	<key>99,999体</key>
+	<string>99,999 units</string>
+	<key>9,999日</key>
+	<string>9,999 Days</string>
+	<key>あいうえおかきくけこあいうえおかきくけこあいうえおかきくけこあいうえおかきくけこあいうえおかきくけこあいうえおかきく</key>
+	<string>あいうえおかきくけこあいうえおかきくけこあいうえおかきくけこあいうえおかきくけこあいうえおかきくけこあいうえおかきく</string>
+	<key>残り〇〇時間</key>
+	<string>〇〇 Hour Left</string>
+	<key>ユニットの画質選択</key>
+	<string>Image Quality Selection</string>
+	<key>ゲーム中に表示される
+ユニット画像の画質を選択してください
+
+設定は後からでも変更できます</key>
+	<string>Choose the image quality of units
+displayed during the game.	
+	
+Settings can be changed later.</string>	
+	<key>高画質は
+よりファイルサイズの大きい画像を
+ダウンロードするため
+データ通信量が多くなります</key>
+	<string>Higher quality images
+download larger file sizes,
+resulting in
+more data traffic.</string>
+	<key>交換所の交換期限通知を受け取る</key>
+	<string>Item expiration notification</string>
+	<key>あいうえおかきくけ</key>
+	<string>あいうえおかきくけ</string>
+	<key>クリアパーティ</key>
+	<string>Cleared Party</string>
+	<key>クリアターン</key>
+	<string>Cleared Turns</string>
+	<key>所持</key>
+	<string>Own</string>
+	<key>上書きするパーティを選択してください</key>
+	<string>Choose party to overwrite.</string>
+	<key>2999/12/31 23:59まで</key>
+	<string>Expires: 2999/12/31 23:59</string>
+	<key>ギフトボックスよりお受け取りください</key>
+	<string>Claim in Gift Box.</string>
+	<key>１２３４５６７８９０１２３４５６７８９
+19文字×２行対応できます。</key>
+	<string>１２３４５６７８９０１２３４５６７８９
+19文字×２行対応できます。</string>
+	<key>イベント「お茶会のラビットを救え！」
+１２３４５６７８９０１２３４５６７８９０１２３４５
+
+１２３４５６７８９０１２３４５６７８９０１２３４５
+１２３４５６７８９０１２３４５６７８９０１２３４５</key>
+	<string>Event 'Save the Tea Party Rabbits!'
+１２３４５６７８９０１２３４５６７８９０１２３４５
+
+１２３４５６７８９０１２３４５６７８９０１２３４５
+１２３４５６７８９０１２３４５６７８９０１２３４５</string>
+	<key>一二三四五六七八九〇一二三四
+一二三四五六七八九〇一二三四</key>
+	<string>一二三四五六七八九〇一二三四
+一二三四五六七八九〇一二三四</string>
+	<key>コスト70</key>
+	<string>Cost70</string>
+	<key>アニメーションを再生する</key>
+	<string>Play Animation</string>
+	<key>イベント「お茶会のラビットを救え！」
+１２３４５６７８９０１２３４５６７８９０１
+１２３４５６７８９０１２３４５６７８９０１</key>
+	<string>イベント「お茶会のラビットを救え！」
+１２３４５６７８９０１２３４５６７８９０１
+１２３４５６７８９０１２３４５６７８９０１</string>
+	<key>ミッション名が入ります１４字</key>
+	<string>ミッション名が入ります１４字</string>
+	<key>ミッション説明が入ります。１5
+15文字×２行対応できます。</key>
+	<string>ミッション説明が入ります。１5
+15文字×２行対応できます。</string>
+	<key>ミッション説明が入ります。あああ１８
+18文字×２行対応できます。</key>
+	<string>ミッション説明が入ります。あああ１８
+18文字×２行対応できます。</string>
+	<key>NEXT:あいうえおアイウエオあいうえおアイウエオミッション内容NEXT:除いて最大42文字</key>
+	<string>NEXT:あいうえおアイウエオあいうえおアイウエオミッション内容NEXT:除いて最大42文字</string>
+	<key>あと2時間</key>
+	<string>2 more hours</string>
+	<key>デイリーミッション</key>
+	<string>Daily Mission</string>
+	<key>ロッククエスト【超ウィザード級】灯火親しむ創作合宿　-女といふもの-を2回クリアしよう！20×３行対応できます</key>
+	<string>Clear Locked Quest [Ultimate] Lanterns Creative Camp -What Women Want- 2 times. 20×３行対応できます</string>
+	<key>好きなユニットを表示する</key>
+	<string>Show Favorite Unit</string>
+	<key>OFFに設定した場合は、パーティ編成の
+ユニットがホームに表示されます</key>
+		<string>If set to OFF, your Party units
+will be displayed on home screen.</string>
+	<key>ユニット
+変更</key>
+	<string>Change
+Unit</string>
+	<key>あいうえおあいうえおあいうえおあいうえおあいうえお
+あいうえおあいうえおあいうえおあいうえおあいうえお
+あいうえおあいうえおあいうえおあいうえおあいうえお</key>
+	<string>あいうえおあいうえおあいうえおあいうえおあいうえお
+あいうえおあいうえおあいうえおあいうえおあいうえお
+あいうえおあいうえおあいうえおあいうえおあいうえお</string>
+	<key>あいうえおあいうえお
+あいうえおあいうえお
+あいうえおあいうえお
+あいうえおあいうえお</key>
+	<string>あいうえおあいうえお
+あいうえおあいうえお
+あいうえおあいうえお
+あいうえおあいうえお</string>
+	<key>一言コメントを入力してください
+（５８文字まで）</key>
+	<string>Enter your comment
+(Max 58 characters)</string>
+	<key>あいうえおアイウエオあい
+あいうえおアイウエオあい
+あいうえおアイウエオあい
+あいうえおアイウエオあ…</key>
+	<string>あいうえおアイウエオあい
+あいうえおアイウエオあい
+あいうえおアイウエオあい
+あいうえおアイウエオあ…</string>
+	<key>あいうえおアイウエオ
+あいうえおアイウエオ
+あいうえおアイウエオ</key>
+	<string>あいうえおアイウエオ
+あいうえおアイウエオ
+あいうえおアイウエオ</string>
+	<key>レベル99以上限定</key>
+	<string>Level 99 or more only</string>
+	<key>購入回数</key>
+	<string>Buyable</string>
+	<key>価格</key>
+	<string>Price</string>
+	<key>★6【練携の閃青展ブルータス＆カエサル】に「秘術の果実」を使って強化しよう！</key>
+	<string>Enhance ★6 [Miraculous Link-Up Brutus&amp;Caesar] with 'Alchemy Fruit'!</string>
+	<key>ミッション説明が１９文字１行はいります</key>
+	<string>ミッション説明が１９文字１行はいります</string>
+	<key>上限突破可能</key>
+	<string>Lv. Lmt Break(O)</string>
+	<key>あいうえおあいうえおあいうえおあい</key>
+	<string>あいうえおあいうえおあいうえおあい</string>
+	<key>スキンを選択してください</key>
+	<string>Select Skin</string>
+	<key>Lv.140まで上限突破可能</key>
+	<string>Level Limit Break up to Lv.140</string>
+	<key>Lv. 120時</key>
+	<string>At Lv. 120</string>
+	<key>Lv. 139時</key>
+	<string>At Lv. 139</string>
+	<key>他のプレイヤーの参加を待っています。</key>
+	<string>Waiting for other players to join.</string>
+	<key>5 ターン</key>
+	<string>5 Turns</string>
+	<key>解除不可</key>
+	<string>Unremovable</string>
+	<key>9999個</key>
+	<string>9999</string>
+</dict>
+</plist>

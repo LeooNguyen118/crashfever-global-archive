@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?> <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> <plist version="1.0">
+<dict>
+	<key>CAPTION</key>
+	<string>Select Unit to Reset Limit Break</string>
+	<key>EXCHANGE_CAPTION</key>
+	<string>Limit Break Reset</string>
+	<key>CONFIRM_REDUCE</key>
+	<string>Reduce Limit Break parameters by %s 
+for %s Bits.
+Continue?</string>
+	<key>SUCCESS_REDUCE</key>
+	<string>Bit conversion complete.</string>
+</dict>
+</plist> 

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CAPTION</key>
+	<string>Purchase</string>
+	<key>ACT_ON_SETTLEMENT_TITLE</key>
+	<string>Act on Payment Services</string>
+	<key>ACT_ON_SETTLEMENT_DESCRIPTION</key>
+	<string>Act on Payment Services shown</string>
+	<key>SPECIAL_COMMERCIAL_TITLE</key>
+	<string>Act on Specified Commercial Transactions</string>
+	<key>SPECIAL_COMMERCIAL_DESCRIPTION</key>
+	<string>Act on Specified Commercial Transactions shown</string>
+	<key>DAYS</key>
+	<string>Day(s)　　/</string>
+	<key>WEEKS</key>
+	<string>Week(s)　/</string>
+	<key>MONTHS</key>
+	<string>Month(s)/</string>
+	<key>PURCHASED</key>
+	<string>Purchased</string>
+	<key>LIMIT</key>
+	<string>Limit : Until %s</string>
+	<key>LEGAL_NOTICE</key>
+	<string>
+
+
+&lt;font size=&quot;18&quot;&gt;※ Click 'Purchase' will make the payment immediately.
+※ This action cannot be undone.　&lt;/font&gt;</string>
+	<key>LEGAL_NOTICE_DAYS</key>
+	<string>
+&lt;font size=&quot;18&quot;&gt;※ Expiry Date: Today 23:59 &lt;/font&gt;</string>
+	<key>LEGAL_NOTICE_WEEKS</key>
+	<string>
+&lt;font size=&quot;18&quot;&gt;※ Expiry Date: Every Sunday 23:59 &lt;/font&gt;</string>
+	<key>LEGAL_NOTICE_MONTHS</key>
+	<string>
+&lt;font size=&quot;18&quot;&gt;※ Expiry Date: End of Every Month 23:59 &lt;/font&gt;</string>
+	<key>LEGAL_NOTICE_TERM</key>
+	<string>
+&lt;font size=&quot;18&quot;&gt;※ Expiry Date: %Y-%m-%d %H:%M &lt;/font&gt;</string>
+</dict>
+</plist>

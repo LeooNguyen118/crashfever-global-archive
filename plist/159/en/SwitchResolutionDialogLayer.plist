@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>CONFIRM_HIGH_RESOLUTION</key>
+<string>&lt;font color=&quot;red&quot;&gt;Use High Resolution Unit.
+Confirm.&lt;/font&gt;</string>
+<key>CONFIRM_NORMAL_RESOLUTION</key>
+<string>&lt;font color=&quot;red&quot;&gt;Use Standard Resolution Unit.
+Confirm&lt;/font&gt;</string>
+<key>NO_MORE_STORAGE_FOR_DOWNLOAD</key>
+<string>Insufficient memory.
+
+Free space on your device and try again</string>
+
+
+<key>CANNOT_APPLY_ALL_UNIT</key>
+<string>
+Feature does not support all units.</string>
+</dict>
+</plist>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CAPTION</key>
+	<string>Quests</string>
+	<key>RANKING_COMING_SOON</key>
+	<string>The scientists of ALICE are preparing
+an experiment that requires your help
+with enhancing units. Awesome rewards
+await. Be sure to participate when it
+opens!</string>	
+<key>RAID_COMING_SOON</key>
+<string>The Queen is preparing her next assault.
+When a Raid begins, work with other
+players, stop the attack and reap the
+rewards.</string>
+	<key>TRAVERSAL_COMING_SOON</key>
+	<string>Enigma Quests are closed for now.
+Look forward to its next arrival!</string>
+	<key>TOWER_COMING_SOON</key>
+	<string>The Queen is preparing the Tower.
+
+If there is activity by the Queen
+we will alert you.</string>
+	<key>OLD_TUTORIAL_LETS_SOLO</key>
+	<string>Crash Fever can be played with
+up to 4 players. For now,
+tap Play Solo to play alone.</string>
+	<key>WEAPON_COMING_SOON</key>
+	<string>Currently no response
+If existence of recoverable Mod is confirmed
+
+a Mod recovery mission will begin.</string>
+	<key>WEAPON_RANK_SHORTAGE</key>
+	<string>Mod recovery missions 
+require a Rank above 70.
+
+Get ready for your mission.</string>
+	<key>BINGO_COMING_SOON</key>
+	<string>Enigma currently unavailable.</string>
+	<key>DAILY_COMPLETE</key>
+	<string>Completed</string>
+	<key>TOTALWAR_COMING_SOON</key>
+	<string>Legion Quest coming soon</string>
+	<key>RANKING_OPEN</key>
+	<string>Ranking Quest Live!</string>
+	<key>RAID_OPEN</key>
+	<string>Raid Quest Live!</string>
+	<key>TRAVERSAL_OPEN</key>
+	<string>Enigma Live!</string>
+	<key>BINGO_OPEN</key>
+	<string>Enigma Live!</string>
+	<key>TOTALWAR_OPEN</key>
+	<string>Legion Quest Live!</string>
+	<key>TOWER_OPEN</key>
+	<string>Tower Quest is on!</string>
+	<key>TUTORIAL_1</key>
+	<string>About Mod
+Equip units with Mods
+to strengthen their power.</string>
+	<key>TUTORIAL_LOCK_QUEST</key>
+	<string>How to obtain units.
+Enhance your party by	
+obtaining various units.</string>
+	<key>TUTORIAL_DIALOG_BUTTON_1</key>
+	<string>Challenge</string>
+	<key>TUTORIAL_DIALOG_BUTTON_2</key>
+	<string>Skip</string>
+	<key>TUTORIAL_DIALOG_MESSAGE</key>
+	<string>Now you can challenge
+	the Mod Quest tutorial.
+	Challenge?</string>
+	<key>TUTORIAL_DIALOG_MESSAGE_LOCK_QUEST</key>
+	<string>Now you can challenge
+the Locked Quest tutorial.	
+Challenge?</string>	
+	<key>TUTORIAL_SKIP</key>
+	<string>You have skipped
+the Mod Quest tutorial.</string>	
+	<key>TUTORIAL_SKIP_LOCK_QUEST</key>
+	<string>You have skipped
+the Locked Quest tutorial.</string>	
+	<key>LOCK_COMING_SOON</key>
+	<string>Locked Quest is preparing now.
+Stay tuned for more updates!</string>
+</dict>
+</plist>

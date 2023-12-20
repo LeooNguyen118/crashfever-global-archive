@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CAPTION</key>
+	<string>Settings</string>
+	<key>SOUND_TITLE</key>
+	<string>Audio Settings</string>
+	<key>SOUND_DESCRIPTION</key>
+	<string>Adjust BGM and sound effects volume.</string>
+	<key>PUSH_TITLE</key>
+	<string>Push Notifications</string>
+	<key>PUSH_DESCRIPTION</key>
+	<string>Change push notification settings.</string>
+	<key>EFFECT_TITLE</key>
+	<string>Effect Settings</string>
+	<key>EFFECT_DESCRIPTION</key>
+	<string>Minimize visual effects in quests.</string>
+	<key>NAME_TITLE</key>
+	<string>Change Name</string>
+	<key>NAME_DESCRIPTION</key>
+	<string>Choose a new name.</string>
+	<key>CUSTOMTITLE_TITLE</key>
+	<string>Customize Title</string>
+	<key>CUSTOMTITLE_DESCRIPTION</key>
+	<string>Modify your title.</string>
+	<key>MISSION_POPUP_TITLE</key>
+	<string>Mission Alerts</string>
+	<key>MISSION_POPUP_DESCRIPTION</key>
+	<string>Alerts you if you complete a mission.</string>
+	<key>ADSTIR_TITLE</key>
+	<string>Video Ad Setting</string>
+	<key>ADSTIR_DESCRIPTION</key>
+	<string>Set Video Ads On or Off.</string>
+	<key>RESOLUTION_TITLE</key>
+	<string>Resolution Setting</string>
+	<key>RESOLUTION_DESCRIPTION</key>
+	<string>Set resolution</string>
+	<key>POPUP_TITLE</key>
+	<string>Change Pop-up</string>
+	<key>POPUP_DESCRIPTION</key>
+	<string>Set Pop-up on or off.</string>
+	<key>MULTI_TITLE</key>
+	<string>Multi Settings</string>
+	<key>MULTI_DESCRIPTION</key>
+	<string>Change settings for Multi.</string>
+	<key>ONETAP_TITLE</key>
+	<string>One Tap Quest Settings</string>
+	<key>ONETAP_DESCRIPTION</key>
+	<string>Toggle One Tap Quest On/Off</string>
+	<key>AUTO_FAVORITE_TITLE</key>
+	<string>Unit Auto-Favorite Settings</string>
+	<key>AUTO_FAVORITE_DESCRIPTION</key>
+	<string>Change Unit Auto-Favorite settings.</string>
+</dict>
+</plist>

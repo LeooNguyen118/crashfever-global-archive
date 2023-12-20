@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MSG_101</key>
+	<string>Hey!</string>
+	<key>MSG_102</key>
+	<string>Well done</string>
+	<key>MSG_103</key>
+	<string>Bye</string>
+	<key>MSG_104</key>
+	<string>Nice</string>
+	<key>MSG_105</key>
+	<string>Good job</string>
+	<key>MSG_106</key>
+	<string>Thanks</string>
+	<key>MSG_107</key>
+	<string>I got this</string>
+	<key>MSG_108</key>
+	<string>Sorry</string>
+	<key>MSG_109</key>
+	<string>OK</string>
+	<key>MSG_110</key>
+	<string>Your call</string>
+	<key>MSG_201</key>
+	<string>Yo!</string>
+	<key>MSG_202</key>
+	<string>No</string>
+	<key>MSG_203</key>
+	<string>Yes</string>
+	<key>MSG_204</key>
+	<string>LOL</string>
+	<key>MSG_205</key>
+	<string>OMG</string>
+	<key>MSG_206</key>
+	<string>Aah!</string>
+	<key>MSG_207</key>
+	<string>Lucky</string>
+	<key>MSG_208</key>
+	<string>Nervous</string>
+	<key>MSG_209</key>
+	<string>Wow</string>
+	<key>MSG_210</key>
+	<string>Meow</string>
+	<key>MSG_211</key>
+	<string>Happy</string>
+	<key>MSG_301</key>
+	<string>Attack</string>
+	<key>MSG_302</key>
+	<string>Defend</string>
+	<key>MSG_303</key>
+	<string>Wait!</string>
+	<key>MSG_304</key>
+	<string>Attribute</string>
+	<key>MSG_305</key>
+	<string>Board Prep</string>
+	<key>MSG_306</key>
+	<string>Recover</string>
+	<key>MSG_307</key>
+	<string>Skill</string>
+	<key>MSG_308</key>
+	<string>Fever</string>
+	<key>MSG_309</key>
+	<string>Roger</string>
+	<key>MSG_310</key>
+	<string>No way</string>
+	<key>MSG_311</key>
+	<string>What now?</string>
+	<key>MSG_401</key>
+	<string>ATK</string>
+	<key>MSG_402</key>
+	<string>REC</string>
+	<key>MSG_403</key>
+	<string>DEF</string>
+	<key>MSG_404</key>
+	<string>Red</string>
+	<key>MSG_406</key>
+	<string>Green</string>
+	<key>MSG_405</key>
+	<string>Blue</string>
+	<key>MSG_407</key>
+	<string>Yellow</string>
+	<key>MSG_408</key>
+	<string>Heart</string>
+	<key>MSG_901</key>
+	<string>Alright</string>
+	<key>MSG_902</key>
+	<string>Defense</string>
+	<key>MSG_903</key>
+	<string>Attribute</string>
+	<key>MSG_Miku_01</key>
+	<string>Miku♪</string>
+	<key>MSG_Miku_02</key>
+	<string>Rin♫</string>
+	<key>MSG_Miku_03</key>
+	<string>Len☆</string>
+	<key>MSG_Miku_04</key>
+	<string>KAITO!!</string>
+	<key>MSG_Miku_05</key>
+	<string>MEIKO♥</string>
+	<key>MSG_Miku_06</key>
+	<string>Luka♡</string>
+	<key>MSG_Miku_07</key>
+	<string>!?</string>
+	<key>MSG_Miku_08</key>
+	<string>Applause</string>
+	<key>MSG_Miku_09</key>
+	<string>For salvo☆</string>
+	<key>MSG_Miku_10</key>
+	<string>For salvo♪</string>
+	<key>MSG_Miku_11</key>
+	<string>For salvo♡</string>
+	<key>MSG_Shingeki_01</key>
+	<string>I&apos;m yours!</string>
+	<key>MSG_Shingeki_02</key>
+	<string>Not bad.</string>
+	<key>MSG_Shingeki_03</key>
+	<string>Got this.</string>
+	<key>MSG_Shingeki_04</key>
+	<string>Smash!</string>
+	<key>MSG_Shingeki_05</key>
+	<string>Go on!</string>
+	<key>MSG_Shingeki_06</key>
+	<string>Heat&apos;s on! </string>
+	<key>MSG_Shingeki_07</key>
+	<string>You OK?</string>
+	<key>MSG_Shingeki_08</key>
+	<string>Now! </string>
+	<key>MSG_Shingeki_09</key>
+	<string>Sorry</string>
+	<key>MSG_Shingeki_10</key>
+	<string>Not cool.</string>
+	<key>THINKING</key>
+	<string>Thinking</string>
+	<key>TAB_Strategy</key>
+	<string>Strategy</string>
+	<key>TAB_Special</key>
+	<string>Special</string>
+</dict>
+</plist>

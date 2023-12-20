@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CAPTION</key>
+	<string>Legion Quest CAPTION</string>
+	<key>TOTALWAR_ENCOUNTER_CLOSED</key>
+	<string>Enemy Quest complete.</string>
+	<key>TOTALWAR_MISSION_CLOSED</key>
+	<string>No missions available.</string>
+	<key>TOTALWAR_REMAINING_TIME</key>
+	<string>Ends in: %02d:%02d:%02d</string>
+	<key>TOTALWAR_START_TIME</key>
+	<string>Begins in: %02d:%02d:%02d</string>
+	<key>TOTALWAR_CLOSE</key>
+	<string>Legion Quest has ended</string>
+	<key>CAPTION_CORPS_SELECT</key>
+	<string>Choose Party</string>
+	<key>CAPTION_CORPS_FORM</key>
+	<string>Choose Party</string>
+	<key>CAPTION_TEAM_FORM</key>
+	<string>Team No.%d</string>
+	<key>CAPTION_CORPS_COPY</key>
+	<string>Copy Party</string>
+	<key>CAPTION_UNION_UNIT</key>
+	<string>Combine Unit</string>
+	<key>CAPTION_UNIT_SELECT</key>
+	<string>Choose Unit</string>
+	<key>CAPTION_STATUS_ASSIGN</key>
+	<string>Assign Status</string>
+	<key>CAPTION_STATUS_DETAIL</key>
+	<string>Status Details</string>
+	<key>DIALOG_TITLE_ATTACK_SETTING</key>
+	<string>Attack setting</string>
+	<key>ATTACK_SETTING_DIALOG_OVERKILL_TITLE</key>
+	<string>Activate Overkill</string>
+	<key>ATTACK_SETTING_DIALOG_OVERKILL_HAVE</key>
+	<string>Overkills:</string>
+	<key>ATTACK_SETTING_DIALOG_ATTACK_COUNT</key>
+	<string>Set number of attacks:</string>
+	<key>ATTACK_SETTING_DIALOG_ENERGY</key>
+	<string>Energy</string>
+	<key>ATTACK_SETTING_DIALOG_REATTACK</key>
+	<string>Replay</string>
+	<key>ATTACK_SETTING_DIALOG_ATTACK</key>
+	<string>Launch attack</string>
+	<key>ATTACK_SETTING_DIALOG_REATTACK_ITEM</key>
+	<string>Replay items：</string>
+	<key>DISSOLUSION_CONFIRM</key>
+	<string>Disband?</string>
+	<key>DISBAND</key>
+	<string>Disband</string>
+	<key>BACK</key>
+	<string>Back</string>
+	<key>SKILL_TURN_LEVEL_FORMAT</key>
+	<string>Lv.%d  Turn:%d</string>
+	<key>CHANGE_DISCARDING_CONFIRM</key>
+	<string>Are you sure?</string>
+	<key>DISCARD</key>
+	<string>Discard</string>
+	<key>TOTALWAR_LIMIT_HP</key>
+	<string>Can challenge when Party HP%s or higher</string>
+	<key>TOTALWAR_OPEN_TIME</key>
+	<string>%02d:%02d:%02d</string>
+	<key>CAPTION_BATTLE_PREPARE</key>
+	<string>Legion Quest Preparation</string>
+	<key>RESULT_CAPTION</key>
+	<string>Legion Quest  Results</string>
+	<key>FINISH_REWARD</key>
+	<string>Victory Reward</string>
+	<key>RANKUP_ENERGY</key>
+	<string>Max Energy increase: &lt;font color=&quot;blue&quot;&gt;%d&lt;/font&gt; to &lt;font color=&quot;blue&quot;&gt;%d&lt;/font&gt; </string>
+	<key>RANKUP_MESSAGE</key>
+	<string>Rank increase: &lt;font color=&quot;blue&quot;&gt;%d&lt;/font&gt;</string>
+	<key>RANKUP_TEAM_COST</key>
+	<string>Party Cost limit &lt;font color=&quot;blue&quot;&gt;%d&lt;/font&gt; to &lt;font color=&quot;blue&quot;&gt;%d&lt;/font&gt; </string>
+	<key>RANKUP_FRIEND_SIZE</key>
+	<string>Friend slot increase:&lt;font color=&quot;blue&quot;&gt;%d&lt;/font&gt; to &lt;font color=&quot;blue&quot;&gt;%d&lt;/font&gt;</string>
+	<key>RECEIVED_EXPERIENCE</key>
+	<string>EXP: Received</string>
+	<key>DIALOG_CLOSE</key>
+	<string>Close</string>
+	<key>SUCCESS_CORPS_SAVE</key>
+	<string>Corp saved successfully.</string>
+	<key>DIALOG_FORM_CONTINUE</key>
+	<string>Continue</string>
+	<key>AUTOPLAY_DEDICATED_QUEST</key>
+	<string>Autoplay Exclusive Quest</string>
+	<key>UNIT_DUPLICATE_WARNING_MSSAGE</key>
+	<string>Used in %s for %s</string>
+	<key>TITLE_ACCESSOR</key>
+	<string>Mod</string>
+	<key>STATUS_SWITCHER_OTHER</key>
+	<string>Other</string>
+	<key>TOTAL_HP</key>
+	<string>Total HP</string>
+	<key>TOTAL_ATTACK</key>
+	<string>Total ATK</string>
+	<key>TOTAL_HEAL</key>
+	<string>Total REC</string>
+	<key>TOTAL_DEFENSE</key>
+	<string>Total DEF</string>
+	<key>AUTO_FORM_CHECK_MESSAGE</key>
+	<string>Keep Selected Unit(s)</string>
+	<key>CONFIRM_REATTACK_MESSAGE</key>
+	<string> Use Reattack to deal enemies the same amount of damage as the past highest record.
+Items and Energy will be used.</string>
+	<key>REATTACK_CHECK_MESSAGE</key>
+	<string>Do not show this message until reboot</string>
+	<key>EXECUTE</key>
+	<string>Execute</string>
+	<key>TITLE_DAMGE_AMOUNT</key>
+	<string>Damage：</string>
+	<key>TITLE_COUNT_POSSESSION</key>
+	<string>Stock：</string>
+	<key>TERMINATE_THIS_ORGANIZATION</key>
+	<string>End Formation</string>
+	<key>TOTALWAR_STORE_TIME</key>
+	<string>Rewards expire in%02d:%02d:%02d</string>
+	<key>AUTO_FORM_COLORS</key>
+	<string>Attribute (Select one)</string>
+</dict>
+</plist>

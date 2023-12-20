@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>COST</key>
+	<string>Bring Cost%s%s</string>
+	<key>GRATER_THAN_EQUAL</key>
+	<string>Greater than</string>
+	<key>LESS_THAN_EQUAL</key>
+	<string>Less than</string>
+	<key>COLOR</key>
+	<string>Bring %s attribute</string>
+	<key>TRIBE</key>
+	<string>Bring Tribe : %s</string>
+	<key>TYPE</key>
+	<string>Bring %s</string>
+	<key>beginner</key>
+	<string>Easy Quest</string>
+	<key>senior</key>
+	<string>Hard Quest</string>
+	<key>legend</key>
+	<string>Legend Quest</string>
+	<key>wizard</key>
+	<string>Wizard Quest</string>
+	<key>cho_wiz</key>
+	<string>Ultimate Quest</string>
+	<key>goku_wiz</key>
+	<string>Spectre Quest</string>
+	<key>kyo_wiz</key>
+	<string>Insane Quest</string>
+	<key>disaster</key>
+	<string>Disaster Quest</string>
+	<key>cho_disaster</key>
+	<string>Ultra Disaster Quest</string>
+	<key>expert</key>
+	<string>Expert Quests</string>
+	<key>goku_disaster</key>
+	<string>Hyper Disaster Quest</string>
+	<key>CHARACTER_COST</key>
+	<string>Party Bonus : Cost</string>
+	<key>CHARACTER_COLOR</key>
+	<string>Party Bonus : Attribute</string>
+	<key>CHARACTER_TRIBE</key>
+	<string>Party Bonus : Tribe</string>
+	<key>CHARACTER_TYPE</key>
+	<string>Party Bonus : Type</string>
+	<key>CHARACTER_ID</key>
+	<string>Party Bonus : Unit</string>
+	<key>DIFFICULTY</key>
+	<string>Difficulty Bonus</string>
+	<key>QUEST_ID</key>
+	<string>Quest Bonus</string>
+</dict>
+</plist>

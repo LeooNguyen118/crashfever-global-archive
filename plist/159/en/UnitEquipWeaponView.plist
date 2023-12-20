@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CAPTION</key>
+	<string>Equip Mod</string>
+	<key>SEPARATOR_COUNT</key>
+	<string>%d kind(s)</string>
+	<key>ITEM_NOT_SELECTED</key>
+	<string>Item is not selected</string>
+	<key>SELECT_CAPTION</key>
+	<string>Select unit</string>
+	<key>EQUIP_WEAPON_CAPTION</key>
+	<string>Select Mod</string>
+	<key>EQUIP_WEAPON_BTN_OK</key>
+	<string>Equip</string>
+	<key>EQUIP_WEAPON_BTN_CLOSE</key>
+	<string>Return</string>
+	<key>EQUIP_WEAPON_MESSAGE_EXCHANGE</key>
+	<string>Mod(s) that were not equipped
+were converted to Mod Enhance Kits.</string>
+	<key>EQUIP_WEAPON_NAVI_MESSAGE</key>
+	<string>Select Mod(s) to equip</string>
+	<key>EQUIP_WEAPON_REMAIN</key>
+	<string>Remaining:</string>
+	<key>EQUIP_WEAPON_REMAIN_COUNT</key>
+	<string>%d</string>
+	<key>EQUIP_WEAPON_REMAIN_COUNT_ZERO</key>
+	<string>%d</string>
+	<key>EQUIP_WEAPON_CONFIRM_DIALOG_MESSAGE_ADD_WEAPON</key>
+	<string>Selected Mod(s) will be equipped.
+Continue?</string>
+	<key>EQUIP_WEAPON_CONFIRM_DIALOG_MESSAGE_CHANGE</key>
+	<string>&lt;font color = &quot;red&quot;&gt;Equipped Mod(s) will be changed.&lt;/font&gt;
+	
+Unselected Mod(s) will be converted	
+to materials.	
+	
+Continue?</string>
+	<key>EQUIP_WEAPON_CONFIRM_DIALOG_MESSAGE_DONT_CHANGE</key>
+	<string>Equipped Mod(s) will not be changed.
+You will be returned to the previous screen.
+
+Continue?</string>
+	<key>EQUIP_WEAPON_CONFIRM_DIALOG_ALREADY_FULL_SELECTED</key>
+	<string>Cannot select any more.
+
+Selected Mod(s) can
+be unselected by
+tapping again.</string>
+	<key>EQUIP_WEAPON_ITEM_IN_USE</key>
+	<string>Equipped</string>
+	<key>TUTORIAL_1</key>
+	<string>About &lt;font color=&apos;yellow&apos;&gt;Equip Mods &lt;/font&gt;
+Equip units with Mods to
+to strengthen their power.
+
+Here you can equip Mods
+acquired by &lt;font color=&apos;yellow&apos;&gt;other than clearing quests.&lt;/font&gt;</string>
+	<key>TUTORIAL_2</key>
+	<string>Choose the unit you want to equip with Mods. </string>
+	<key>TUTORIAL_3</key>
+	<string>Choose the Mods you want to equip. </string>
+	<key>TUTORIAL_4</key>
+	<string>Mod selected!
+You can also select more than one Mod to equip!
+
+Select&lt;font color=&apos;yellow&apos;&gt; all Mods that you want to equip. &lt;/font&gt;</string>
+	<key>TUTORIAL_DIALOG_BUTTON_1</key>
+	<string>Challenge</string>
+	<key>TUTORIAL_DIALOG_BUTTON_2</key>
+	<string>Skip</string>
+	<key>TUTORIAL_DIALOG_MESSAGE</key>
+	<string>Now you can challenge
+the Equip Mods tutorial quest.
+Try to challenge?
+
+If you skip the tutorial,
+the units available in the tutorial
+will be sent directly to the folder.</string>
+	<key>TUTORIAL_SKIP</key>
+	<string>Skip the tutorial.</string>
+</dict>
+</plist>

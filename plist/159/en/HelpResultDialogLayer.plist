@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>LAST_LOGIN_MONTHS</key>
+<string> mo ago</string>
+<key>LAST_LOGIN_DAYS</key>
+<string> d ago</string>
+<key>LAST_LOGIN_HOURS</key>
+<string> hr ago</string>
+<key>LAST_LOGIN_MINUTES</key>
+<string> min ago</string>
+<key>LAST_LOGIN_SECONDS</key>
+<string> sec ago</string>
+<key>HEADER_LABEL</key>
+<string>Helper</string>
+</dict>
+</plist>

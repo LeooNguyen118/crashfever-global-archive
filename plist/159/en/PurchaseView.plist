@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CAPTION</key>
+	<string>Purchase Polygons</string>
+	<key>PURCHASE_COMPLETE</key>
+	<string>Thanks for your purchase.</string>
+	<key>PENDING_PURCHASE</key>
+	<string>Polygons will be sent upon payment completion.
+
+If it is not reflected in the Polygon number,
+open the Polygon purchase screen after some time.</string>
+    <key>ORIGINAL_PRICE</key>
+    <string>&lt;font color=&apos;#00a6ff&apos;&gt;$%s → &lt;/font&gt;</string>
+	<key>PRICE</key>
+	<string>$%s</string>
+	<key>ADDITIONAL_POLYGONS</key>
+	<string>Inclusive of %d free polygon</string>
+	<key>ADDITIONAL_ITEMS</key>
+	<string> %d x included! </string>
+	<key>REWARD_TITLE</key>
+	<string>Free Polygons</string>
+	<key>ACT_ON_SETTLEMENT_TITLE</key>
+	<string>Act on Settlement of Funds</string>
+	<key>ACT_ON_SETTLEMENT_DESCRIPTION</key>
+	<string>View details regarding Act on Settlement of Funds.</string>
+	<key>SPECIAL_COMMERCIAL_TITLE</key>
+	<string>Specified Commercial Transaction Act</string>
+	<key>SPECIAL_COMMERCIAL_DESCRIPTION</key>
+	<string>View details regarding Specified Commercial Transaction Act.</string>
+	<key>SHOP_UNAVAILABLE</key>
+	<string>The shop is currently closed for business.
+We apologize for the inconvenience.</string>
+	<key>LIMITED_FIRST_BONUS</key>
+	<string>Limited Period</string>
+	<key>LIMITED_ONCE</key>
+	<string>Limit: 1</string>
+</dict>
+</plist>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CONFIRM_POSSESSION_GIVE_ABILITY</key>
+	<string>Unit already has ability.
+This cannot be set.
+Continue?</string>
+	<key>CONFIRM_SAME_TYPE_WEAPON_NO_EQUIP</key>
+	<string>The same type of Mod must be used.
+This Mod cannot be set.
+Continue?</string>
+	<key>CONFIRM_WEAPON_EXCHANGE_RARE</key>
+	<string>Mod is Rare or higher.
+Continue with conversion?</string>
+	<key>MESSAGE_EXCHANGE</key>
+	<string>Mods not equipped converted
+to Mod Enhance KIts.</string>
+	<key>NAVI_MESSAGE</key>
+	<string>Select Mod(s) to equip</string>
+	<key>CONFIRM_DIALOG_SPEC_TITLE_LOCK</key>
+	<string>Locked</string>
+	<key>CONFIRM_DIALOG_SPEC_DETAILS_LOCK</key>
+	<string>Mod not equipped.</string>
+	<key>CONFIRM_DIALOG_SPEC_TITLE_EMPTY</key>
+	<string> </string>
+	<key>CONFIRM_DIALOG_SPEC_DETAILS_EMPTY</key>
+	<string>Mod not equipped.</string>
+	<key>REMAIN</key>
+	<string>left</string>
+	<key>REMAIN_COUNT</key>
+	<string>%d</string>
+	<key>REMAIN_COUNT_ZERO</key>
+	<string>%d</string>
+	<key>BTN_OK</key>
+	<string>OK</string>
+	<key>BTN_CLOSE</key>
+	<string>No change</string>
+	<key>CONFIRM_DIALOG_SECTION_TITLE_BEFORE</key>
+	<string>Before</string>
+	<key>CONFIRM_DIALOG_SECTION_TITLE_AFTER</key>
+	<string>After</string>
+	<key>CONFIRM_DIALOG_ATTENTION_1</key>
+	<string>&lt;font color = &quot;red&quot;&gt;※Mod before change is lost.&lt;/font&gt;</string>
+	<key>CONFIRM_DIALOG_ATTENTION_2</key>
+	<string>※Mods not selected are converted to
+Mod Enhance Kits.
+※Conversion cannot be reversed.</string>
+	<key>CONFIRM_DIALOG_MESSAGE_ADD_WEAPON</key>
+	<string>Selected Mod(s) will be equipped.
+Continue?</string>
+	<key>CONFIRM_DIALOG_MESSAGE_CHANGE</key>
+	<string>&lt;font color = &quot;red&quot;&gt;Equipped Mod(s) will be changed.&lt;/font&gt;
+
+Unselected Mod(s) will be converted
+to materials.
+
+Continue?</string>
+	<key>CONFIRM_DIALOG_MESSAGE_DONT_CHANGE</key>
+	<string>&lt;font color = &quot;red&quot;&gt;Equipped Mod(s) will not be changed.&lt;/font&gt;
+
+Unselected Mod(s) will be converted
+to materials.
+
+Continue?</string>
+	<key>CONFIRM_DIALOG_BUTTON_NO</key>
+	<string>No</string>
+	<key>CONFIRM_DIALOG_BUTTON_YES</key>
+	<string>Yes</string>
+	<key>CONFIRM_DIALOG_WEAPON_PROBABILITY</key>
+	<string>Activ. rate:%g%%</string>
+	<key>ITEM_IN_USE</key>
+	<string>Equipped</string>
+	<key>ITEM_RATE</key>
+	<string>Activ. rate:</string>
+	<key>ITEM_RATE_NUMBER</key>
+	<string>%g%%</string>
+	<key>CONFIRM_DIALOG_ALREADY_FULL_SELECTED</key>
+	<string>Maximum amount
+selected.
+Tap selections to
+deselect.</string>
+	<key>QUEST_CLOSED</key>
+	<string>Quest finished.</string>
+	<key>TUTORIAL_1</key>
+	<string>You can equip
+the acquired Mod here.
+
+Choose the Mod you want to equip!</string>
+	<key>TUTORIAL_2</key>
+	<string>Mod selected.
+		
+You can also select
+multiple Mods to equip!</string>
+	<key>TUTORIAL_3</key>
+	<string>You can challenge again.</string>
+	<key>TUTORIAL_4</key>
+	<string>Click next to end the quest.</string>
+	<key>TUTORIAL_5</key>
+	<string>Aim for high rarity Mods!</string>
+</dict>
+</plist>

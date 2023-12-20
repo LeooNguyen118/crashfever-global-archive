@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>POLYGON</key>
+	<string>Polygons x%d</string>
+	<key>BIT</key>
+	<string>Bit x%d</string>
+	<key>LINK</key>
+	<string>Link x%d</string>
+	<key>GHOST</key>
+	<string>Ghost x%d</string>
+	<key>CUSTOM_TITLE</key>
+	<string>Title: %s</string>
+	<key>ITEM</key>
+	<string>%s x%s</string>
+	<key>LIMIT</key>
+	<string>expires: %s </string>
+	<key>ACCESSORS</key>
+	<string>Mod</string>
+	<key>ACCESSORS_DESCRIPTION</key>
+	<string>Equip the mod to Mod slot 
+to strengthen units.</string>
+</dict>
+</plist>

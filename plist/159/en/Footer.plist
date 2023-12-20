@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>TUTORIAL_LETS_EDIT_DECK</key>
+<string>Let's try forming your very own party.</string>
+<key>TUTORIAL_LETS_GOTO_QUEST</key>
+<string>Take your new party out for a spin
+by trying the next quest.</string>
+	<key>OLD_TUTORIAL_LETS_EDIT_DECK</key>
+	<string>Let's try forming your very own party.</string>
+	<key>OLD_TUTORIAL_LETS_GOTO_QUEST</key>
+	<string>Take your new party out for a spin
+by trying the next quest.</string>
+	<key>TUTORIAL_LETS_EDIT_DECK</key>
+	<string>Try forming a party!</string>
+	<key>TUTORIAL_LETS_GOTO_QUEST</key>
+	<string>Challenge the
+Adapter Aptitude Test [Difficulty: Easy]
+with your new party!</string>
+	<key>TUTORIAL_LETS_DROW_GACHA</key>
+	<string>Get powerful units with Hatchers.</string>
+</dict>
+</plist>

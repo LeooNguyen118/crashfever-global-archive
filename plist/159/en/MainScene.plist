@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MESSAGE_ACHIEVE_TITLE</key>
+	<string>New Title claimed.
+
+&lt;font color=&quot;yellow&quot;&gt;%s&lt;/font&gt;
+
+Set Title？</string>
+	<key>ACHIEVE_OK</key>
+	<string>OK</string>
+	<key>ACHIEVE_CANCEL</key>
+	<string>Cancel</string>
+	<key>MESSAGE_CANNOT_BACK</key>
+	<string>Back key cannot be used.</string>
+</dict>
+</plist>

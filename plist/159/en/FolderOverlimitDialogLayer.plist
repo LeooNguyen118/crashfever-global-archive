@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>MESSAGE_OVERLIMIT</key>
+<string>Your folder is full.
+&lt;font color=&quot;yellow&quot;&gt;(Units owned: %d / Limit: %d)&lt;/font&gt;
+
+Enhance or sell units to clear some space,
+or spend polygons to expand your folder.</string>
+<key>MESSAGE_POLYGON_SHORTAGE</key>
+<string>Your folder is full.
+&lt;font color=&quot;yellow&quot;&gt;(Units owned: %d / Limit: %d)&lt;/font&gt;
+
+Enhance or sell units to clear some space,
+or purchase polygons to
+expand your folder.</string>
+<key>CAPTION_EXPAND</key>
+<string>Expand</string>
+<key>CAPTION_ENHANCE</key>
+<string>Enhance</string>
+<key>CAPTION_DISPOSAL</key>
+<string>Sell</string>
+<key>CAPTION_PURCHASE</key>
+<string>Purchase</string>
+<key>CONFIRM_EXPAND</key>
+<string>Use 10 polygons to
+expand your folder by 5 slots.
+
+Are you sure?</string>
+<key>MESSAGE_COMPLETE</key>
+<string>Your folder now has %d slots!</string>
+</dict>
+</plist>

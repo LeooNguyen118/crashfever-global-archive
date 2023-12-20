@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>CAPTION</key>
+<string>Friend List</string>
+<key>NO_FRIENDS</key>
+<string>Send friend requests
+to helpers after completing a &lt;font color=&apos;#ffe22a&apos; size=&apos;25&apos;&gt;quest&lt;/font&gt;,
+or search for real life friends by entering
+their &lt;font color=&apos;#ffe22a&apos; size=&apos;25&apos;&gt;ID code&lt;/font&gt;
+from the &lt;font color=&apos;#ffe22a&apos; size=&apos;25&apos;&gt;Friend Menu&lt;/font&gt;.</string>
+<key>LAST_LOGIN_MONTHS</key>
+<string> mo ago</string>
+<key>LAST_LOGIN_DAYS</key>
+<string> d ago</string>
+<key>LAST_LOGIN_HOURS</key>
+<string> hr ago</string>
+<key>LAST_LOGIN_MINUTES</key>
+<string> min ago</string>
+<key>LAST_LOGIN_SECONDS</key>
+<string> sec ago</string>
+</dict>
+</plist>

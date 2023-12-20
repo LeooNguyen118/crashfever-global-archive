@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?> <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> <plist version="1.0">
+<dict>
+	<key>BLOCK_TYPE_NORMAL</key>
+	<string>Attribute</string>
+	<key>BLOCK_TYPE_RED</key>
+	<string>Red</string>
+	<key>BLOCK_TYPE_GREEN</key>
+	<string>Green</string>
+	<key>BLOCK_TYPE_BLUE</key>
+	<string>Blue</string>
+	<key>BLOCK_TYPE_YELLOW</key>
+	<string>Yellow</string>
+	<key>BLOCK_TYPE_HEAL</key>
+	<string>Heart</string>
+	<key>BLOCK_TYPE_BOMB</key>
+	<string>Crash</string>
+	<key>BLOCK_TYPE_JAMMER</key>
+	<string>Junk</string>
+	<key>BLOCK_TYPE_CRACK_BOMB</key>
+	<string>Bomb</string>
+	<key>BLOCK_TYPE_TIME_BOMB</key>
+	<string>Timer</string>
+	<key>BLOCK_TYPE_FIX_TIME_BOMB</key>
+	<string>Timer</string>
+	<key>BLOCK_TYPE_COLOR_BREAK</key>
+	<string>Color Break</string>
+	<key>BLOCK_TYPE_REMAIN_BURST</key>
+	<string>SCP Bomb</string>
+	<key>BLOCK_TYPE_RESONANCE</key>
+	<string>Resonance</string>
+	<key>BLOCK_TYPE_REMAIN_COLOR_BREAK</key>
+	<string>Color Break Bomb</string>
+	<key>BLOCK_TYPE_DAMAGE</key>
+	<string>Damage</string>
+	<key>BLOCK_TYPE_MAGNET</key>
+	<string>Magnet</string>
+	<key>BLOCK_TYPE_PAINT</key>
+	<string>Paint</string>
+	<key>BLOCK_TYPE_DURABLE</key>
+	<string>Locked</string>
+	<key>BLOCK_TYPE_COLOR_JAMMER</key>
+	<string>Color Junk</string>
+	<key>BLOCK_TYPE_POISON</key>
+	<string>Poison</string>
+	<key>BLOCK_TYPE_HACKING</key>
+	<string>Hacking</string>
+	<key>BLOCK_TYPE_WORM</key>
+	<string>Worm</string>
+</dict>
+</plist>

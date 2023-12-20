@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>no_effect_msg_change_block</key>
+	<string>Panel conversion is disabled!</string>
+	<key>no_effect_msg_change_block_red</key>
+	<string>Red Panel conversion is disabled!</string>
+	<key>no_effect_msg_change_block_blue</key>
+	<string>Blue Panel conversion is disabled!</string>
+	<key>no_effect_msg_change_block_yellow</key>
+	<string>Yellow Panel conversion is disabled!</string>
+	<key>no_effect_msg_change_block_green</key>
+	<string>Green Panel conversion is disabled!</string>
+	<key>no_effect_msg_change_block_heal</key>
+	<string>Heart Panel conversion is disabled!</string>
+	<key>no_effect_msg_change_block_crash</key>
+	<string>Crash Panel conversion is disabled!</string>
+	<key>no_effect_msg_change_block_sp_crash</key>
+	<string>Special Crash Panel conversion is disabled!</string>
+	<key>no_effect_msg_change_block_crack_bomb</key>
+	<string>Bomb Panel conversion is disabled!</string>
+	<key>no_effect_msg_change_block_time_bomb</key>
+	<string>Timer Panel conversion is disabled!</string>
+	<key>no_effect_msg_change_block_jammer</key>
+	<string>Junk Panel conversion is disabled!</string>
+	<key>no_effect_msg_change_block_hacking</key>
+	<string>Hacking panel conversion banned!</string>
+	<key>no_effect_msg_change_block_poison</key>
+	<string>Poison panel conversion banned!</string>
+	<key>no_effect_msg_change_block_worm</key>
+	<string>Worm panel conversion is banned!</string>
+	<key>no_effect_msg_change_block_color_break</key>
+	<string>Color Break Panel conversion is disabled!</string>
+</dict>
+</plist> 

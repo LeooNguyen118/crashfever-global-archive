@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UNLOCK_CRITERIA</key>
+	<string>Unlocked by clearing
+%s</string>
+	<key>UNLOCK_CRITERIA_CANNOT_UNLOCK</key>
+	<string>Under construction.
+Coming soon.</string>
+	<key>CAPTION_CHALLENGE</key>
+	<string>Challenge</string>
+	<key>CAPTION_CANCEL</key>
+	<string>Cancel</string>
+	<key>TRANSIT_FROM_LOBI_IN_TUTORIAL</key>
+	<string>Once you've completed the tutorial,
+head over to the Mission screen
+to receive a bonus.</string>
+	<key>WARNING_RELOGIN_REQUIRED</key>
+	<string>Please login again to update
+mission information. </string>
+</dict>
+</plist>

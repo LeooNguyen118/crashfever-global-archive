@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>TutorialBattleState_1_1_1</key>
+	<string>Let&apos;s use practice units to
+learn the battle basics.</string>
+	<key>TutorialBattleState_1_1_2</key>
+	<string>1. Attacks and Panels</string>
+	<key>TutorialBattleState_1_1_3</key>
+	<string>Break Panels to Build an Attack
+&lt;font color=&quot;yellow&quot;&gt;Tap&lt;/font&gt; a panel to break it. 
+nearby panels of the same
+color will connect and break.</string>
+	<key>TutorialBattleState_1_1_4</key>
+	<string>A simple &lt;font color=&quot;yellow&quot;&gt;tap&lt;/font&gt; on a panel is all
+it takes, &lt;font color=&quot;red&quot;&gt;No need to trace your
+finger over each panel.&lt;/font&gt; &lt;font color=&quot;yellow&quot;&gt;Tap&lt;/font&gt;
+again to break another panel.</string>
+	<key>TutorialBattleState_1_1_6</key>
+	<string>After 3 taps, you&apos;ll attack the enemy.
+Try &lt;font color=&quot;yellow&quot;&gt;tapping&lt;/font&gt; on &lt;font color=&quot;yellow&quot;&gt;2 more panels&lt;/font&gt;.
+Any color will do.
+Whatever strikes your fancy.</string>
+	<key>TutorialBattleState_1_1_10</key>
+	<string>Let&apos;s Review: &lt;font color=&quot;yellow&quot;&gt;Tap&lt;/font&gt; any panel to 
+break it. You&apos;ll attack the
+enemy after &lt;font color=&quot;yellow&quot;&gt;3 taps&lt;/yellow&gt;. Break
+panels of any color. Break
+more panels for more damage.</string>
+	<key>TutorialBattleState_1_1_11</key>
+	<string>Continue attacking to defeat this enemy.</string>
+	<key>TutorialBattleState_1_2_1</key>
+	<string>2. Crash Panels</string>
+	<key>TutorialBattleState_1_2_2</key>
+	<string>Connect 6 or more panels to
+make a &lt;font color=&quot;yellow&quot;&gt;Crash Panel&lt;/font&gt; appear.
+Start by getting rid of any
+panels in the way.</string>
+	<key>TutorialBattleState_1_2_5</key>
+	<string>Break a &lt;font color=&quot;yellow&quot;&gt;Crash Panel&lt;/font&gt; to activate
+a &lt;font color=&quot;yellow&quot;&gt;Crash Skill&lt;/font&gt;. Let&apos;s try it
+now, shall we?</string>
+	<key>TutorialBattleState_1_2_8</key>
+	<string>Connect 12 or more panels to
+make a &lt;font color=&quot;yellow&quot;&gt;Special Crash Panel&lt;/font&gt; or
+&lt;font color=&quot;yellow&quot;&gt;SC Panel&lt;/font&gt;. Breaking an SC Panel
+creates a panel-busting bomb.
+Break several SC Panels for a 
+chain reaction.</string>
+	<key>TutorialBattleState_1_2_9</key>
+	<string>Let&apos;s Review: Connect 6 or more
+panels for a Crash Panel, 12 or
+more for a SC Panel. Connect as
+many as you can.</string>
+	<key>TutorialBattleState_1_2_10</key>
+	<string>Continue attacking to defeat this enemy.</string>
+	<key>TutorialBattleState_1_3_1</key>
+	<string>3. Battle Turns</string>
+	<key>TutorialBattleState_1_3_2</key>
+	<string>Each time you attack, the
+enemy&apos;s count goes down by 1.
+When the enemy&apos;s count reaches
+0, the enemy will attack.
+Try breaking a panel to attack.</string>
+	<key>TutorialBattleState_1_3_6</key>
+	<string>You&apos;ll take turns attacking.
+Remember, the enemy attacks when
+their counter reaches 0.</string>
+	<key>TutorialBattleState_1_3_7</key>
+	<string>4. Tap Hearts, Recover HP</string>
+	<key>TutorialBattleState_1_3_8</key>
+	<string>The enemy attacked and you lost
+HP. Break &lt;font color=&quot;yellow&quot;&gt;Heart Panels&lt;/font&gt; to
+recover HP. If your HP reaches 0
+it&apos;s game over. </string>
+	<key>TutorialBattleState_1_3_13</key>
+	<string>Let&apos;s Review: Break &lt;font color=&quot;yellow&quot;&gt;Hearts&lt;/font&gt;
+to recover HP. The more you
+break, the bigger the effect.</string>
+	<key>TutorialBattleState_1_3_14</key>
+	<string>Now, let&apos;s finish off this fight.</string>
+	<key>TutorialBattleState_1_3_9</key>
+	<string>Battles are turn-based.
+Beware of attacks when
+enemy count reaches 0!</string>
+	<key>TutorialBattleState_1_3_10</key>
+	<string>Basic 4. Break Hearts to Recover</string>
+	<key>TutorialBattleState_1_3_11</key>
+	<string>Your HP has reduced
+with the enemy&apos;s attack.
+Game Over when HP reaches 0!
+	
+&lt;font color=&quot;yellow&quot;&gt;Break Hearts&lt;/font&gt;and recover!</string>
+	<key>TutorialBattleState_1_3_16</key>
+	<string>Review
+	
+&lt;font color=&quot;yellow&quot;&gt;Break Hearts&lt;/font&gt; to recover HP! 
+Break more for a higher effect!!</string>
+	<key>TutorialBattleState_1_3_Skill_1</key>
+	<string>Basic 5. Skills</string>
+	<key>TutorialBattleState_1_3_Skill_2</key>
+	<string>Units each have their own skills.
+When units get a &apos;&lt;font color=&quot;yellow&quot;&gt;SKILL OK&lt;/font&gt;&apos; icon,
+it&apos;s a chance to use their Skill!
+	
+	Try tapping it.</string>
+	<key>TutorialBattleState_1_3_17</key>
+	<string>Now, play freely to
+	defeat the enemy!</string>
+	<key>TutorialBattleState_2_1_1</key>
+	<string>5. Unit and Enemy Attributes</string>
+	<key>TutorialBattleState_2_1_2</key>
+	<string>Units have different attributes.
+You can tell a unit&apos;s attribute
+by the color of their icon frame.
+This unit&apos;s attribute is &lt;font color=&quot;red&quot;&gt;Red&lt;/font&gt;.</string>
+	<key>TutorialBattleState_2_1_3</key>
+	<string>Breaking panels of the same
+color as a unit increases an
+attack&apos;s power. Keep this in
+mind when breaking panels.</string>
+	<key>TutorialBattleState_2_1_4</key>
+	<string>You can tell an enemy&apos;s 
+attribute by the icon on its
+HP gauge.</string>
+	<key>TutorialBattleState_2_1_5</key>
+	<string>Attributes have a strength and
+weakness. Choose units with
+the advantage to deal more
+damage. Weaker units deal less
+damage.</string>
+	<key>TutorialBattleState_2_1_6</key>
+	<string>Tap on this enemy to target it.</string>
+	<key>TutorialBattleState_2_1_8</key>
+	<string>Now you can attack this &lt;font color=&quot;green&quot;&gt;Green&lt;/font&gt; enemy
+as a priority.</string>
+	<key>TutorialBattleState_2_1_9</key>
+	<string>Try attacking with a &lt;font color=&quot;red&quot;&gt;Red&lt;/font&gt; unit.</string>
+	<key>TutorialBattleState_2_1_14</key>
+	<string>The attack was effective,
+so you dealt more damage.
+Remember: you&apos;ll do less damage
+if you choose the wrong
+attribute. Choose carefully.</string>
+	<key>TutorialBattleState_2_1_15</key>
+	<string>Let&apos;s Review: Exploit the enemy
+attribute&apos;s weakness for more
+damage. Use &lt;font color=&quot;red&quot;&gt;Red&lt;/font&gt; against &lt;font color=&quot;green&quot;&gt;Green&lt;/font&gt;,
+&lt;font color=&quot;green&quot;&gt;Green&lt;/font&gt; against &lt;font color=&quot;yellow&quot;&gt;Yellow&lt;/font&gt;, &lt;font color=&quot;yellow&quot;&gt;Yellow&lt;/font&gt;
+against &lt;font color=&quot;blue&quot;&gt;Blue&lt;/font&gt;, and &lt;font color=&quot;blue&quot;&gt;Blue&lt;/font&gt;
+against &lt;font color=&quot;red&quot;&gt;Red&lt;/font&gt;</string>
+	<key>TutorialBattleState_2_1_16</key>
+	<string>Remember: pay close attention
+to attributes during battle.</string>
+	<key>TutorialBattleState_2_2_1</key>
+	<string>Basic 5. Skills</string>
+	<key>TutorialBattleState_2_2_2</key>
+	<string>Each unit has a unit skill.
+If their &lt;font color=&quot;yellow&quot;&gt;Skill OK&lt;/font&gt; icon starts
+flashing, their skill is ready.
+Tap the unit to unleash a skill.</string>
+	<key>TutorialBattleState_2_2_6</key>
+	<string>Let&apos;s Review: Each unit has its
+own skill. Oh, and by the way,
+Units can use their skills
+after a set number of turns.</string>
+	<key>TutorialBattleState_2_3_1</key>
+	<string>Final: Fever</string>
+	<key>TutorialBattleState_2_3_2</key>
+	<string>When the Fever Gauge is full,
+you can unleash &lt;font color=&quot;yellow&quot;&gt;Fever&lt;/font&gt;! Tap the
+Fever button to activate
+&lt;font color=&quot;yellow&quot;&gt;Fever Time&lt;/font&gt;!</string>
+	<key>TutorialBattleState_2_3_5</key>
+	<string>Let&apos;s Review: Break lots of
+panels at once to fill your
+Fever Gauge quickly. use Fever
+for a &lt;font color=&quot;yellow&quot;&gt;feverish&lt;/font&gt; attack. </string>
+	<key>TutorialBattleState_2_4_1</key>
+	<string>Nice job!
+That&apos;s it for battle practice.</string>
+	<key>TutorialBattleState_2_4_2</key>
+	<string>Try multiplayer for more
+excitement. Work together with
+friends to defeat the invading
+avatars!</string>
+	<key>Tutorial_Dead</key>
+	<string>When your HP is running low,
+break Heart Panels to recover HP.</string>
+	<key>OLD_TutorialBattleState_1_1_1</key>
+	<string>Let&apos;s use practice units to
+learn the battle basics.</string>
+	<key>OLD_TutorialBattleState_1_1_2</key>
+	<string>1. Attacks and Panels</string>
+	<key>OLD_TutorialBattleState_1_1_3</key>
+	<string>Break Panels to Build an Attack
+&lt;font color=&quot;yellow&quot;&gt;Tap&lt;/font&gt; a panel to break it. 
+nearby panels of the same
+color will connect and break.</string>
+	<key>OLD_TutorialBattleState_1_1_4</key>
+	<string>A simple &lt;font color=&quot;yellow&quot;&gt;tap&lt;/font&gt; on a panel is all
+it takes, &lt;font color=&quot;red&quot;&gt;No need to trace your
+finger over each panel.&lt;/font&gt; &lt;font color=&quot;yellow&quot;&gt;Tap&lt;/font&gt;
+again to break another panel.</string>
+	<key>OLD_TutorialBattleState_1_1_6</key>
+	<string>After 3 taps, you&apos;ll attack the enemy.
+Try &lt;font color=&quot;yellow&quot;&gt;tapping&lt;/font&gt; on &lt;font color=&quot;yellow&quot;&gt;2 more panels&lt;/font&gt;.
+Any color will do.
+Whatever strikes your fancy.</string>
+	<key>OLD_TutorialBattleState_1_1_10</key>
+	<string>Let&apos;s Review: &lt;font color=&quot;yellow&quot;&gt;Tap&lt;/font&gt; any panel to 
+break it. You&apos;ll attack the
+enemy after &lt;font color=&quot;yellow&quot;&gt;3 taps&lt;/yellow&gt;. Break
+panels of any color. Break
+more panels for more damage.</string>
+	<key>OLD_TutorialBattleState_1_1_11</key>
+	<string>Continue attacking to defeat this enemy.</string>
+	<key>OLD_TutorialBattleState_1_2_1</key>
+	<string>2. Crash Panels</string>
+	<key>OLD_TutorialBattleState_1_2_2</key>
+	<string>Connect 6 or more panels to
+make a &lt;font color=&quot;yellow&quot;&gt;Crash Panel&lt;/font&gt; appear.
+Start by getting rid of any
+panels in the way.</string>
+	<key>OLD_TutorialBattleState_1_2_5</key>
+	<string>Break a &lt;font color=&quot;yellow&quot;&gt;Crash Panel&lt;/font&gt; to activate
+a &lt;font color=&quot;yellow&quot;&gt;Crash Skill&lt;/font&gt;. Let&apos;s try it
+now, shall we?</string>
+	<key>OLD_TutorialBattleState_1_2_8</key>
+	<string>Connect 12 or more panels to
+make a &lt;font color=&quot;yellow&quot;&gt;Special Crash Panel&lt;/font&gt; or
+&lt;font color=&quot;yellow&quot;&gt;SC Panel&lt;/font&gt;. Breaking an SC Panel
+creates a panel-busting bomb.
+Break several SC Panels for a 
+chain reaction.</string>
+	<key>OLD_TutorialBattleState_1_2_9</key>
+	<string>Let&apos;s Review: Connect 6 or more
+panels for a Crash Panel, 12 or
+more for a SC Panel. Connect as
+many as you can.</string>
+	<key>OLD_TutorialBattleState_1_2_10</key>
+	<string>Continue attacking to defeat this enemy.</string>
+	<key>OLD_TutorialBattleState_1_3_1_1</key>
+	<string>3. Battle Turns</string>
+	<key>OLD_TutorialBattleState_1_3_1_2</key>
+	<string>Each time you attack, the
+enemy&apos;s count goes down by 1.
+When the enemy&apos;s count reaches
+0, the enemy will attack.
+Try breaking a panel to attack.</string>
+	<key>OLD_TutorialBattleState_1_3_1_6</key>
+	<string>You&apos;ll take turns attacking.
+Remember, the enemy attacks when
+their counter reaches 0.</string>
+	<key>OLD_TutorialBattleState_1_3_1_7</key>
+	<string>4. Tap Hearts, Recover HP</string>
+	<key>OLD_TutorialBattleState_1_3_1_8</key>
+	<string>The enemy attacked and you lost
+HP. Break &lt;font color=&quot;yellow&quot;&gt;Heart Panels&lt;/font&gt; to
+recover HP. If your HP reaches 0
+it&apos;s game over. </string>
+	<key>OLD_TutorialBattleState_1_3_1_11</key>
+	<string>Let&apos;s Review
+
+&lt;font color=&quot;yellow&quot;&gt;Tap Hearts&lt;/font&gt; to recover HP.</string>
+	<key>OLD_TutorialBattleState_1_3_2_1</key>
+	<string>5. Skills</string>
+	<key>OLD_TutorialBattleState_1_3_2_2</key>
+	<string>Each unit has a unit skill.
+If their &lt;font color=&quot;yellow&quot;&gt;SKILL OK&lt;/font&gt; icon starts
+flashing, their skill is ready.
+Tap the unit to unleash a skill.</string>
+	<key>OLD_TutorialBattleState_1_3_2_6</key>
+	<string>Let&apos;s Review: Each unit has its
+own skill. Oh, and by the way,
+Units can use their skills
+after a set number of turns.</string>
+	<key>OLD_TutorialBattleState_1_3_3_1</key>
+	<string>Final: Fever</string>
+	<key>OLD_TutorialBattleState_1_3_3_2</key>
+	<string>When the Fever Gauge is full,
+you can unleash &lt;font color=&quot;yellow&quot;&gt;Fever&lt;/font&gt;! Tap the
+Fever button to activate
+&lt;font color=&quot;yellow&quot;&gt;Fever Time&lt;/font&gt;!</string>
+	<key>OLD_TutorialBattleState_1_3_3_5</key>
+	<string>Let&apos;s Review: Break lots of
+panels at once to fill your
+Fever Gauge quickly. use Fever
+for a &lt;font color=&quot;yellow&quot;&gt;feverish&lt;/font&gt; attack. </string>
+	<key>OLD_TutorialBattleState_1_4_1</key>
+	<string>Congratulations!
+You&apos;ve got the basics.</string>
+	<key>OLD_TutorialBattleState_1_4_2</key>
+	<string>Don&apos;t forget to try Multiplayer
+for even more excitement.</string>
+	<key>OLD_Tutorial_Dead</key>
+	<string>When your HP is running low,
+break Heart Panels to recover HP.</string>
+	<key>CONFIRM_GIVEUP</key>
+	<string>&lt;font size=&quot;36&quot;&gt;Give Up&lt;/font&gt;
+&lt;font color=&quot;red&quot;&gt;You will lose all
+EXP, Bits, and units
+earned on this stage.&lt;/font&gt;
+Do you really want to give up?</string>
+	<key>CONFIRM_GIVEUP_LOCK_QUEST</key>
+	<string>&lt;font color=&quot;red&quot;&gt;Lock Quest&lt;/font&gt;
+Quitting the quest
+will lock the quest.
+
+Quit quest？</string>
+	<key>CONFIRM_CONTINUE</key>
+	<string>&lt;font size=&quot;28&quot; color=&quot;blue&quot;&gt;Continue&lt;/font&gt;
+Use 10 polygons to revive all units
+with all Skills full. Full Fever Gauge.
+
+Polygons owned: %d
+
+Continue?</string>
+	<key>CONFIRM_CONTINUE_WITH_PURCHASE</key>
+	<string>&lt;font size=&quot;28&quot; color=&quot;blue&quot;&gt;Continue&lt;/font&gt;
+Use 10 polygons to revive all units
+with all Skills full. Full Fever Gauge.
+
+You don&apos;t have enough polygons.
+
+Purchase polygons to continue?</string>
+	<key>CONFIRM_CONTINUE_LOCK_QUEST</key>
+	<string>&lt;font color=&quot;red&quot;&gt;Lock Quest&lt;/font&gt;
+If you lose,
+the quest will be locked.
+
+Continue？</string>
+	<key>CONTINUE_REMAIN</key>
+	<string>&lt;font color=&quot;red&quot;&gt;Continues left: %d &lt;/font&gt;</string>
+	<key>BUTTON_TURN_RESET</key>
+	<string>Turn Reset</string>
+	<key>BUTTON_CONTINUE</key>
+	<string>Continue</string>
+	<key>BUTTON_GIVEUP</key>
+	<string>Give Up</string>
+	<key>CAPTION_PURCHASE</key>
+	<string>Purchase</string>
+	<key>CAPTION_NOT_PURCHASE</key>
+	<string>Quit</string>
+	<key>WAIT_FOR_CONTINUE</key>
+	<string>Waiting for Host
+to continue...</string>
+	<key>LEGAL_NOTICE</key>
+	<string>
+
+
+&lt;font size=&quot;18&quot;&gt;※ Click 'Yes'
+to consume Polygons to continue.
+※ This action cannot be undone.　&lt;/font&gt;</string>
+	<key>LOW_LATENCY_ERROR</key>
+	<string>Latency error.
+No response.</string>
+	<key>DISCONNECT_HOST_ERROR</key>
+	<string>Host not responding.</string>
+	<key>DISCONNECT_PEER</key>
+	<string>%s left
+%s unit will be
+controlled by Host.</string>
+	<key>DISCONNECT_HOST</key>
+	<string>Host connection lost.
+Battle ending.</string>
+	<key>DISCONNECT_PHOTON</key>
+	<string>Latency error.
+No response.
+Continuing as Solo play.</string>
+	<key>SLEEP_LONG_ERROR</key>
+	<string>Sleep limit reached. 
+Battle ending.</string>
+	<key>NOT_ROOM_CHANGE</key>
+	<string>Currently in battle.
+You can not change rooms.
+Try again after battle.</string>
+	<key>NOT_OPERATION_DISCONNECT</key>
+	<string>No action taken
+for 2 turns.
+Disconnected.</string>
+	<key>NOT_OPERATION_DISCONNECT_HOST</key>
+	<string>No action taken
+for 2 turns.
+Disconnected.
+Continuing as Solo play.</string>
+	<key>SKILL_WARNIG_DEBUF_HUNGUP</key>
+	<string>Skill Bind in effect.
+Skills disabled.</string>
+	<key>SKILL_WARNIG_DEBUF_SLEEP</key>
+	<string>Sleep in effect.
+Skills disabled.</string>
+	<key>SKILL_WARNIG_DEBUF_HACKING</key>
+	<string>Hacking in effect.
+Skills disabled.</string>
+	<key>MESSAGE_LOG_SEPARATOR</key>
+	<string>▲</string>
+	<key>MULTI_USER_TURN</key>
+	<string>Turn: %s</string>
+	<key>MAX_LV</key>
+	<string>Lv: %d MaxLv: %d</string>
+	<key>VOTE_OK</key>
+	<string>OK</string>
+	<key>VOTE_NG</key>
+	<string>NO</string>
+	<key>POLL_THINKING</key>
+	<string>・・・</string>
+	<key>FEVER_APPLICANT</key>
+	<string>OK</string>
+	<key>TRIBE_SEPARATOR</key>
+	<string>・</string>
+	<key>TURN_RESET_DESCRIPTION</key>
+	<string>Return to start of turn?
+　
+&lt;font color = &quot;red&quot;&gt;Resumes
+battle from current point.&lt;/font&gt;</string>
+	<key>TURN_RESET_BUTTON</key>
+	<string>&lt;font size = &quot;22&quot;&gt; Turn 
+Reset&lt;/font&gt;</string>
+	<key>RAID_LIMIT_TURN</key>
+	<string>Boss retreats in %2d turns.</string>
+	<key>RAID_SYSTEM_MESSAGE_JOIN</key>
+	<string>%s joined!
+%d players challenging %s</string>
+	<key>RAID_SYSTEM_MESSAGE_BATTLE</key>
+	<string>%s: %lld damage!</string>
+	<key>RAID_SYSTEM_MESSAGE_DESTROY</key>
+	<string>%s was destroyed.</string>
+	<key>RAID_SYSTEM_MESSAGE_TIMEUP</key>
+	<string>%s leaving battle.</string>
+	<key>STORY_START_AUTO</key>
+	<string>ON</string>
+	<key>STORY_STOP_AUTO</key>
+	<string>OFF</string>
+	<key>LOG_OPEN</key>
+	<string>LOG</string>
+	<key>LOG_CLOSE</key>
+	<string>Close</string>
+	<key>PANEL_STATUS_DETAILS_HEADER</key>
+	<string>Panel State Change</string>
+	<key>PANEL_STATUS_DETAILS_NO_STATUSES</key>
+	<string>None</string>
+	<key>PANEL_STATUS_DETAILS_INACTIVE</key>
+	<string>Inactive</string>
+	<key>PANEL_STATUS_DETAILS_INFINITE</key>
+	<string>until deactivated</string>
+	<key>PANEL_STATUS_DETAILS_TURN_COUNT</key>
+	<string>%d turns</string>
+	<key>UNIT_INFO_STATUS_HEADER</key>
+	<string>State Change</string>
+	<key>INFO_FIELD_STATUS_HEADER</key>
+	<string>Field Effect</string>
+	<key>INFO_EDITH_FIELD_HEADER</key>
+	<string>Field: Closed</string>
+	<key>INFO_RED_FIELD_HEADER</key>
+	<string>Red Field</string>
+	<key>INFO_GREEN_FIELD_HEADER</key>
+	<string>Green Field</string>
+	<key>INFO_BLUE_FIELD_HEADER</key>
+	<string>Blue Field</string>
+	<key>INFO_YELLOW_FIELD_HEADER</key>
+	<string>Yellow Field</string>
+	<key>ENEMY_INFO_STATUS_HEADER</key>
+	<string>State Change</string>
+	<key>ENEMY_INFO_TRIGGER_HEADER</key>
+	<string>Action Triggers</string>
+	<key>ENEMY_INFO_NO_STATUSES</key>
+	<string>None</string>
+	<key>WEAPON_PROBABILITY</key>
+	<string>Activation Rate:%g%%</string>
+	<key>TutorialBattleState_1_1_9</key>
+	<string>Next, remove this panel.</string>
+	<key>TutorialBattleState_1_1_12</key>
+	<string>Review: &lt;font color=&quot;yellow&quot;&gt;Tap&lt;/font&gt; any panel to
+break it. You&apos;ll attack the
+enemy after &lt;font color=&quot;yellow&quot;&gt;3 taps&lt;/yellow&gt;. Break
+panels of any color. Break
+more panels for more damage.
+</string>
+	<key>TutorialBattleState_1_1_12_extra</key>
+	<string>COUNT lets you know
+how many panels you removed.
+More panels yields a stronger attack.</string>
+	<key>TutorialBattleState_1_2_8_extra</key>
+	<string>Longer chains yield
+stronger Crash Panels or CP
+</string>
+	<key>TutorialBattleState_1_2_7</key>
+	<string>Crash Skill activated
+
+Press and hold a unit icon for
+details about a unit's skills.</string>
+	<key>TutorialBattleState_1_2_13</key>
+	<string>Special Crash Panels or SCP
+will become Bombs.
+
+Bombs will destroy surrounding panels.
+
+</string>
+	<key>TutorialBattleState_1_2_14</key>
+	<string>Connect 6 or more
+panels for a Crash Panel, 12 or
+more for a SCP. Connect as
+many as you can.
+
+</string>
+	<key>TutorialBattleState_2_1_14_extra</key>
+	<string>Panel Affinity
+If panel of &lt;font color=&quot;red&quot;&gt;same &lt;/font&gt;attribute color
+as front unit removed- &lt;font color=&quot;red&quot;&gt;2 counts&lt;/font&gt;
+If removed panel color is &lt;font color=&quot;blue&quot;&gt;weaker &lt;/font&gt;than 
+front unit&apos;s color- &lt;font color=&quot;blue&quot;&gt;0.5 counts&lt;/font&gt;</string>
+	<key>CONFIRM_GIVEUP_RAID_GUEST</key>
+	<string>&lt;font color=&quot;red&quot;&gt;Raid Quest&lt;/font&gt;
+
+Raid Quest Key cannot be
+returned if your quit.
+
+Quit?</string>
+	<key>NOT_RAID_CHANGE</key>
+	<string>Battle in progress.
+Cannot move to Raid Quest.
+Please try again after the battle.</string>
+	<key>RAID_LIMIT_TURN_IN_HEADER</key>
+	<string>%d turn(s)</string>
+	<key>RAID_NEXT_RESCUE_REQUEST</key>
+	<string>%02d:%02d</string>
+	<key>CONFIRM_GIVEUP_RAID_HOST</key>
+	<string>&lt;font color = &quot;red&quot;&gt;Raid Quest&lt;/font&gt;
+Energy is used even if you quit.
+Quit?</string>
+	<key>PANEL_STATUS_DETAILS_DROP_COUNT</key>
+	<string>%d</string>
+	<key>CONFIRM_GIVEUP_LIMIT_QUEST</key>
+	<string>&lt;font color=&quot;red&quot;&gt;This quest
+has a play limit&lt;/font&gt;
+
+Quitting now will count
+against the play limit.
+
+Quit?</string>
+	<key>CONFIRM_CONTINUE_LIMIT_QUEST</key>
+	<string>&lt;font color=&quot;red&quot;&gt;This quest
+has a play limit&lt;/font&gt;
+
+If you lose this will count
+against the play limit.
+
+Continue?</string>
+	<key>SKILL_DIALOG_TITLE</key>
+	<string>Select skill to activate</string>
+	<key>SKILL_TURN_TITLE</key>
+	<string>Left:</string>
+</dict>
+</plist>

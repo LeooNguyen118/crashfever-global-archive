@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UNIT_TAG_DESCRIPTION_STATUS_PANEL</key>
+	<string>Status Panel</string>
+	<key>UNIT_TAG_DESCRIPTION_PANEL_MAX</key>
+	<string>Board Ext. Skill</string>
+	<key>UNIT_TAG_TOLERANCE_SKILL_TURN_DELAY</key>
+	<string>Anti-Cooldown
+Increase</string>
+	<key>UNIT_TAG_ICO_TOLERANCE_SKILL_TURN_DELAY</key>
+	<string>ico_extend_Resistance.png</string>
+</dict>
+</plist>

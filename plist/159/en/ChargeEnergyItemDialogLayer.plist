@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LABEL_ATTENTION</key>
+	<string>Select the number of items you want to use.</string>
+	<key>ENERGY</key>
+	<string>Energy</string>
+	<key>ITEM_EXPIRED</key>
+	<string>Expired</string>
+</dict>
+</plist>

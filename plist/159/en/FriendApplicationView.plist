@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>CAPTION</key>
+<string>Sent Requests</string>
+<key>LAST_LOGIN_MONTHS</key>
+<string> mo ago</string>
+<key>LAST_LOGIN_DAYS</key>
+<string> d ago</string>
+<key>LAST_LOGIN_HOURS</key>
+<string> h ago</string>
+<key>LAST_LOGIN_MINUTES</key>
+<string> mi ago</string>
+<key>LAST_LOGIN_SECONDS</key>
+<string> s ago</string>
+<key>CANCEL_CONFIRM</key>
+<string>Cancel this friend request?</string>
+<key>CANCEL_SUCCESS</key>
+<string>Friend request canceled.</string>
+<key>MESSAGE_NO_ITEM</key>
+<string>No pending requests.</string>
+</dict>
+</plist>

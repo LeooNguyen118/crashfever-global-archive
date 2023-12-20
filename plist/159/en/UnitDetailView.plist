@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CAPTION</key>
+	<string>Unit Info</string>
+	<key>MAKE_FAVORITE</key>
+	<string>&lt;font size=&quot;32&quot;&gt;☆&lt;/font&gt;</string>
+	<key>REMOVE_FAVORITE</key>
+	<string>&lt;font size=&quot;32&quot; color=&quot;yellow&quot;&gt;★&lt;/font&gt;</string>
+	<key>DIALOG_MAKE_FAVORITE</key>
+	<string>Unit added to your favorites.</string>
+	<key>DIALOG_REMOVE_FAVORITE</key>
+	<string>Unit removed from your favorites.</string>
+	<key>TRIBE_DELIMITER</key>
+	<string> ・ </string>
+	<key>SKILL</key>
+	<string>Skill</string>
+	<key>CRASH_SKILL</key>
+	<string>Crash Skill</string>
+	<key>ABILITY1</key>
+	<string>Ability 1</string>
+	<key>ABILITY2</key>
+	<string>Ability 2</string>
+	<key>ABILITY3</key>
+	<string>Ability 3</string>
+	<key>ABILITY4</key>
+	<string>Ability 4</string>
+	<key>ABILITY5</key>
+	<string>Ability 5</string>
+	<key>ABILITY6</key>
+	<string>Ability 6</string>
+	<key>ABILITY7</key>
+	<string>Ability 7</string>
+	<key>ABILITY8</key>
+	<string>Ability 8</string>
+	<key>ABILITY9</key>
+	<string>Ability 9</string>
+	<key>ABILITY10</key>
+	<string>Ability 10</string>
+	<key>WEAPON1</key>
+	<string>Mod 1</string>
+	<key>WEAPON2</key>
+	<string>Mod 2</string>
+	<key>WEAPON3</key>
+	<string>Mod 3</string>
+	<key>CONFIRM_HIGH_RESOLUTION</key>
+	<string>Download High Resolution Units?</string>
+	<key>CONFIRM_NORMAL_RESOLUTION</key>
+	<string>Use Standard Resolution Units?</string>
+
+	<key>WEAPON_PROBABILITY</key>
+	<string>Activation rate%g%%</string>
+	<key>WEAPON_OPEN_LOCK_CONFIRM</key>
+	<string>&lt;font color=&quot;yellow&quot;&gt;%s&lt;/font&gt; &lt;font color=&quot;red&quot;&gt;%s&lt;/font&gt; should be used
+to release Mod slot.
+
+This action cannot be
+undone.
+
+Continue?
+
+(Owned: &lt;font color=&quot;yellow&quot;&gt;%s&lt;/font&gt; &lt;font color=&quot;red&quot;&gt;%s&lt;/font&gt;)</string>
+	<key>WEAPON_OPEN_LOCK_SHORTAGE</key>
+	<string>&lt;font color=&quot;yellow&quot;&gt;%s&lt;/font&gt; &lt;font color=&quot;red&quot;&gt;%s&lt;/font&gt; should be used
+to release Mod slot.
+
+This action cannot be
+undone.
+
+&lt;font color=&quot;yellow&quot;&gt;%s&lt;/font&gt; &lt;font color=&quot;red&quot;&gt;are insufficient&lt;/font&gt;</string>
+	<key>WEAPON_AWAKING_COMING_SOON</key>
+	<string>Awakening not yet implemented.</string>
+	<key>WEAPON_QUEST_SUGGESTION</key>
+	<string>Currently under
+development.</string>
+	<key>WEAPON_ALREADY_AWAKED</key>
+	<string> Selected Mod
+already awakened.</string>
+	<key>WEAPON_LEVEL_MAX</key>
+	<string> Selected Mod
+already enhanced to awakened state.</string>
+	<key>WEAPON_LOCKED</key>
+	<string>Tap a locked Mod slot
+to release it!</string>
+	<key>WEAPON_NOT_HAVING</key>
+	<string> Mod is not equipped.
+Go to Mod Quest to obtain Mods.</string>
+	<key>WEAPON_NEED_ANOTHER_UNLOCK</key>
+	<string>To free this slot
+Slot %d must be released first.</string>
+	<key>WEAPON_ENHANCE_COMING_SOON</key>
+	<string> Mod enhancement
+system is under development.</string>
+	<key>AUTO_ENHANCE_ATTENTION</key>
+	<string>Set unit for Autofusion?
+When obtained, the following units will be	
+automatically used for BUG UP.</string>	
+	<key>AUTO_ENHANCE_CANCEL_ATTENTION</key>
+	<string>Cancel unit for Autofusion?</string>
+	<key>AUTO_ENHANCE_ALREADY_ENABLED_ATTENTION</key>
+	<string>Already set in another unit.
+Reconfigure this unit?</string>
+	<key>AUTO_ENHANCE_YES</key>
+	<string>Yes</string>
+	<key>AUTO_ENHANCE_NO</key>
+	<string>No</string>
+	<key>AUTO_ENHANCE_SET</key>
+	<string>Settings registered.</string>
+	<key>AUTO_ENHANCE_CANCEL</key>
+	<string>Settings canceled. </string>
+	<key>AUTO_ENHANCE_ALREADY_BUG_MAX</key>
+	<string>Unit is a Bug Max
+Cannot set Autofusion.</string>
+	<key>AUTO_ENHANCE_INVALID</key>
+	<string>Unit cannot be set for Autofusion.</string>
+	<key>AUTO_ENHANCE_COST_ATTENTION</key>
+	<string>&lt;font color=&quot;red&quot;&gt; Cost 65 unit is
+selected.
+
+Continue with Autofusion?&lt;/font&gt;</string>
+	<key>AUTO_ENHANCE_COST70_ATTENTION</key>
+	<string>&lt;font color=&quot;red&quot;&gt; You have selected
+a Cost70 unit.	
+	
+Set unit for Autofusion anyway? &lt;/font&gt;</string>
+	<key>DEEP_LOG_POINT</key>
+	<string>Deep Log [%05d]Shared Unit</string>
+	<key>CONFIRM_UNLOCK_POTENTIALS</key>
+	<string>&lt;img src=&apos;ico_deeplog_01.png&apos; atlas=&apos;true&apos; /&gt; Deep-Log[%05d] &lt;font color=&quot;red&quot;&gt;%d&lt;/font&gt; will be used
+to unlock &lt;font color=&quot;red&quot;&gt;%d&lt;/font&gt;
+&lt;img src=&apos;ico_deeplog_release_01.png&apos; atlas=&apos;true&apos; /&gt; Potentials.
+
+	Continue?</string>
+	<key>CAPTION_DEEP_LOG_SHORTAGE</key>
+	<string>Deep-Log[%05d] insufficient</string>
+	<key>MESSAGE_NO_POTENTIALS</key>
+	<string>This unit cannot use Potentials</string>
+	<key>MESSAGE_WAITING_POTENTIALS</key>
+	<string>Currently under development.
+Please wait.</string>
+	<key>MESSAGE_POTENTIAL_UNLOCKED</key>
+	<string>Potentials Unlocked.</string>
+	<key>MESSAGE_UNLOCKED_HP</key>
+	<string>HP &lt;font color=&quot;blue&quot;&gt;%d&lt;/font&gt; → &lt;font color=&quot;blue&quot;&gt;%d&lt;/font&gt;</string>
+	<key>MESSAGE_UNLOCKED_ATTACK</key>
+	<string>ATK &lt;font color=&quot;blue&quot;&gt;%d&lt;/font&gt; → &lt;font color=&quot;blue&quot;&gt;%d&lt;/font&gt;</string>
+	<key>MESSAGE_UNLOCKED_HEAL</key>
+	<string>REC &lt;font color=&quot;blue&quot;&gt;%d&lt;/font&gt; → &lt;font color=&quot;blue&quot;&gt;%d&lt;/font&gt;</string>
+	<key>MESSAGE_UNLOCKED_DEFENSE</key>
+	<string>DEF &lt;font color=&quot;blue&quot;&gt;%d&lt;/font&gt; → &lt;font color=&quot;blue&quot;&gt;%d&lt;/font&gt;</string>
+	<key>MESSAGE_UNLOCKED_POTENTIAL_BUG</key>
+	<string>Potential Bug &lt;font color=&quot;blue&quot;&gt;%d&lt;/font&gt; → &lt;font color=&quot;blue&quot;&gt;%d&lt;/font&gt;</string>
+	<key>SKILL_VOICE</key>
+	<string>Skill</string>
+	<key>CRASH_SKILL_VOICE</key>
+	<string>C Skill</string>
+	<key>RENTAL_UNIT</key>
+	<string>Rental Unit</string>
+	<key>TUTORIAL_1</key>
+	<string>About Unit's Status</string>
+	<key>TUTORIAL_2</key>
+	<string>The higher the unit's HP, the more damage it can take.
+The sum of all unit's HP is the Max HP.</string>
+	<key>TUTORIAL_3</key>
+	<string>ATK is the damage you can deal when attacking the enemies.
+&lt;font color=&apos;yellow&apos;&gt; The higher your ATK, the more damage &lt;/font&gt; you can deal. </string>
+	<key>TUTORIAL_4</key>
+	<string>REC &lt;font color=&apos;yellow&apos;&gt; is the amount of HP you can
+	recover by breaking Heart panels 
+	or activating skills. &lt;/font&gt;
+	The higher your REC, 
+	the more HP you can recover.</string>
+	<key>TUTORIAL_5</key>
+	<string>The higher your DEF,
+the less damage you take when got hit.</string>
+	<key>TUTORIAL_6</key>
+	<string>Every time you level up your unit,
+its status will increase.</string>
+	<key>TUTORIAL_7</key>
+	<string>Skills are &lt;font color=&apos;yellow&apos;&gt; a unit's special ability. &lt;/font&gt;
+You can activate unit's skill after certain turns pass.
+Increase a unit's skill level
+to decrease the turns needed for skill activation.</string>
+	<key>TUTORIAL_8</key>
+	<string>Crash Skill is the special ability a unit activates
+when you break C Panels.</string>
+	<key>TUTORIAL_9</key>
+	<string>Abilities are a unit's passives that will be activated
+when certain conditions are met.
+
+More passive Abilities will be unlocked after you increase
+a unit's&lt;font color=&apos;yellow&apos;&gt; BUG &lt;/font&gt;to a certain level.</string>
+
+	<key>TUTORIAL_10</key>
+	<string>Check unit's Skill, Crash Skill, Abilities
+&lt;font color=&apos;yellow&apos;&gt;at once.&lt;/font&gt;</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>GUIDE_MISSION_PROGRESS</key>
+	<string>%lld/%lld</string>
+	<key>GUIDE_MISSION_LOCK_ALL</key>
+	<string>Level %d Guide Mission
+Clear All to Unlock</string>
+	<key>GUIDE_MISSION_LOCK_DIALOG</key>
+	<string>Guide Mission
+Clear All Level %d to unlock.</string>
+	<key>GUIDE_MISSION_REMIND_DIALOG_CHALLENGE</key>
+	<string>Challenge Now</string>
+	<key>GUIDE_MISSION_REMIND_DIALOG_CLOSE</key>
+	<string>Challenge Later</string>
+</dict>
+</plist>

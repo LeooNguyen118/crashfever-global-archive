@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CAPTION</key>
+	<string>Select Party</string>
+	<key>LABEL_MULTI</key>
+	<string>Select
+Multiple</string>
+	<key>LIST_CAPTION</key>
+	<string>Select Unit</string>
+	<key>CHOICE_CAPTION</key>
+	<string>Select Unit</string>
+	<key>SKILL</key>
+	<string>Skill</string>
+	<key>CRASH_SKILL</key>
+	<string>C Skill</string>
+	<key>ABILITY1</key>
+	<string>Ability 1</string>
+	<key>ABILITY2</key>
+	<string>Ability 2</string>
+	<key>ABILITY3</key>
+	<string>Ability 3</string>
+	<key>ABILITY4</key>
+	<string>Ability 4</string>
+	<key>OLD_TUTORIAL_SELECT_LEAVE_UNIT</key>
+	<string>First, select the unit you want to change.</string>
+	<key>OLD_TUTORIAL_SELECT_ENTER_UNIT</key>
+	<string>Next, select the unit you want to add to your party. For now, let&apos;s try selecting the unit you just got.</string>
+	<key>OLD_TUTORIAL_COMPLETE</key>
+	<string>Let&apos;s Review!
+After getting a unit,
+you can add it to your party.
+Strong units are the key to success,
+so don&apos;t forget to add them!</string>
+	<key>TUTORIAL_SELECT_LEAVE_UNIT</key>
+	<string>First tap the unit you want to replace.</string>
+	<key>TUTORIAL_SELECT_ENTER_UNIT</key>
+	<string>Choose the unit you want to use. This time use the unit you just received.</string>
+	<key>TUTORIAL_COMPLETE</key>
+	<string>Review
+You can choose the units
+you want for your party. 
+Try to get strong units.
+and take advantage of them.</string>
+	<key>WEAPON1</key>
+	<string>Mod 1</string>
+	<key>WEAPON2</key>
+	<string>Mod 2</string>
+	<key>WEAPON3</key>
+	<string>Mod 3</string>
+	<key>TUTORIAL_WEAPON</key>
+	<string>Select a unit that can be equipped with Mods.</string>
+	<key>WEAPON_PROBABILITY</key>
+	<string>Activation Rate:%g%%</string>
+	<key>EMPTY_SLOT_LABEL</key>
+	<string>Empty
+Slot</string>
+	<key>LOCK_SLOT_LABEL</key>
+	<string>Locked
+Slot</string>
+	<key>SEPARATOR_BONUS</key>
+	<string>Formation Bonus Unit</string>
+	<key>SEPARATOR_OTHER</key>
+	<string>Unit</string>
+	<key>CHANGE_PARTY_NAME</key>
+	<string>Enter Party Name</string>
+	<key>INVALID_PARTY_NAME</key>
+	<string>Invalid Name</string>
+	<key>NG_PARTY_NAME</key>
+	<string>Enter a different name.</string>
+</dict>
+</plist>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HEADER_TITLE</key>
+	<string>Party</string>
+	<key>COLORS</key>
+	<string>Attribute</string>
+	<key>OPTION</key>
+	<string>Options</string>
+	<key>ABILITY</key>
+	<string>Abilities</string>
+	<key>BUTTON_ALL</key>
+	<string>All</string>
+	<key>BUTTON_BUGMAX</key>
+	<string>BUG MAX</string>
+	<key>BUTTON_POTENTIAL_BUGMAX</key>
+	<string>Front Potential Bug 99</string>
+	<key>BUTTON_FORMATION_BONUS</key>
+	<string>Formation Bonus</string>
+	<key>BUTTON_DEFRAG_BONUS</key>
+	<string>Defrag Bonus</string>
+	<key>MIN_COST_PLACE_HOLDER</key>
+	<string>No minimum</string>
+	<key>MAX_COST_PLACE_HOLDER</key>
+	<string>No maximum</string>
+	<key>RANGE</key>
+	<string>〜</string>
+	<key>BUTTON_PROTECT_BREAK</key>
+	<string>Protect
+Break</string>
+	<key>BUTTON_DAMAGE_PANEL_BREAK</key>
+	<string>Damage Panel
+Break</string>
+	<key>BUTTON_JAMMER_BREAK</key>
+	<string>Junk Break</string>
+	<key>BUTTON_WORM_BREAK</key>
+	<string>Worm Break</string>
+	<key>BUTTON_ANTI_HACKING</key>
+	<string>Hacking disabled</string>
+	<key>BUTTON_ANTI_VIRUS</key>
+	<string>Virus disabled</string>
+	<key>BUTTON_POISON_BREAK</key>
+	<string>Poison Break</string>
+</dict>
+</plist>

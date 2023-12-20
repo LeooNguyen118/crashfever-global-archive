@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>PLACE_HOLDER</key>
+<string>Enter code</string>
+<key>OK</key>
+<string>Send</string>
+<key>CANCEL</key>
+<string>Back</string>
+<key>SUCCESS</key>
+<string>Serial code accepted.
+Head over to the Gift Box screen
+to claim your present.</string>
+</dict>
+</plist>

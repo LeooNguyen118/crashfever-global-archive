@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>CAPTION</key>
+<string>Mod enhance</string>
+<key>CONFIRM_RARE</key>
+<string>&lt;font color=&quot;red&quot;&gt;Note&lt;/font&gt;
+Includes items that are Rare or higher
+These items will be consumed
+and no longer available
+Continue?</string>
+<key>CONFIRM_LIMIT_LEVEL</key>
+<string>&lt;font color=&quot;red&quot;&gt;Note&lt;/font&gt;
+Level limit reached.
+These items will be consumed
+and no longer available
+Continue?</string>
+<key>MATERIAL_CAPTION</key>
+<string>Mod Enhance Kit Select</string>
+<key>WEAPON_ENHANCE_EXCHANGE_DATE_ERROR</key>
+<string>&lt;font color=&quot;red&quot;&gt;Mod expired.
+Cannot be enhanced.&lt;/font&gt;</string>
+<key>WEAPON_PROBABILITY</key>
+<string>Activ. rate: %g%%</string>
+</dict>
+</plist>

@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CAPTION</key>
+	<string>Select Unit to Enhance</string>
+	<key>BASE_CAPTION</key>
+	<string>Select Unit to Enhance</string>
+	<key>DETAIL_CAPTION</key>
+	<string>Enhance Units</string>
+	<key>SACRIFICE_CAPTION</key>
+	<string>Select Material</string>
+	<key>CONFIRM_RARE</key>
+	<string>&lt;font color=&quot;red&quot;&gt;Contains 1 or more Rare or higher units.&lt;/font&gt;
+
+Material units are lost after fusion.
+Continue?</string>
+	<key>CONFIRM_LIMIT_EXTENDED</key>
+	<string>&lt;font color=&quot;red&quot;&gt;Includes Limit Break
+units.&lt;/font&gt;
+
+These units cannot be recovered.
+Proceed?</string>
+	<key>CONFIRM_WASTED_BUGUP_MATERIAL</key>
+	<string>&lt;font color=&quot;red&quot;&gt;Includes combinations
+that will not raise Bug count.&lt;/font&gt;
+
+Proceed?</string>
+	<key>CONFIRM_WASTED_PLUS_LIMITUP</key>
+	<string>&lt;font color=&quot;red&quot;&gt;Limit Break max reached.&lt;/font&gt;
+
+Proceed?</string>
+	<key>CONFIRM_WASTED_PLUS_LIMITUP_PARTIAL</key>
+	<string>&lt;font color=&quot;red&quot;&gt;Result will not exceed max Limit Break.&lt;/font&gt;
+
+Some materials will be wasted.
+Proceed?</string>
+
+	<key>CONFIRM_WASTED_LIMITBREAK</key>
+	<string>&lt;font color=&quot;red&quot;&gt;Unable to Limit Break further.&lt;/font&gt;
+
+Proceed?</string>
+	<key>CONFIRM_WASTED_LIMITBREAK_PARTIAL</key>
+	<string>&lt;font color=&quot;red&quot;&gt;You are about to use material that
+exceeds the unit's max Limit Break value.&lt;/font&gt;
+
+Some materials will be wasted.
+Proceed?</string>
+	<key>CONFIRM_WASTED_SKILL_LEVELUP</key>
+	<string>&lt;font color=&quot;red&quot;&gt;Base unit's skill level is already at max.&lt;/font&gt;
+
+Proceed with fusion anyway?</string>
+	<key>CONFIRM_WASTED_SKILL_LEVELUP_PARTIAL</key>
+	<string>&lt;font color=&quot;red&quot;&gt;You are about to use material
+that exceeds the base unit's max skill level.&lt;/font&gt;
+
+Some materials will be wasted.
+Proceed?</string>
+	<key>CONFIRM_WASTED_BUG</key>
+	<string>&lt;font color=&quot;red&quot;&gt;Unit's Bugs are already at max.&lt;/font&gt;
+
+Proceed?</string>
+	<key>CONFIRM_WASTED_BUG_PARTIAL</key>
+	<string>&lt;font color=&quot;red&quot;&gt;You are about to use material
+that exceeds the unit's max Bug value.&lt;/font&gt;
+
+Some materials will be wasted.
+Proceed?</string>
+	<key>CONFIRM_WASTED_LEVEL_LIMIT</key>
+	<string>&lt;font color=&quot;red&quot;&gt;The unit has already reached its max Level Limit Break value. &lt;/font&gt;
+	
+Proceed with fusion anyway?</string>
+	<key>CONFIRM_WASTED_LEVEL_LIMIT_PARTIAL</key>
+	<string>&lt;font color=&quot;red&quot;&gt;You are about to use material that
+exceeds the unit's max Level Limit Break value.&lt;/font&gt;	
+	
+Some materials will be wasted.	
+Proceed with fusion anyway?</string>
+	<key>CONFIRM_WASTED_LEVEL_LIMIT_CONTAINS</key>
+	<string>&lt;font color=&quot;red&quot;&gt;You are about to use limited Level Limit Break
+material beyond its limit.&lt;/font&gt;	
+	
+Some materials will be wasted.	
+Proceed with fusion anyway?</string>
+	<key>CONFIRM_WEAPON_POSSESSION</key>
+	<string>&lt;font color=&quot;red&quot;&gt;Includes unit with
+Mod on enhancement unit.	
+Mods will be automatically converted to materials.&lt;/font&gt;	
+Continue?</string>
+	<key>CONFIRM_COMMON</key>
+	<string>Units used as material will
+be consumed.
+Continue?</string>
+	<key>CONFIRM_GOTO_AWAKE</key>
+	<string>Unit Level is at MAX.
+Awaken unit?</string>
+	<key>CONFIRM_GOTO_EX_AWAKE</key>
+	<string>Unit is at max level.
+Continue?</string>
+	<key>CONFIRM_GOTO_LEVEL_LIMITBREAK</key>
+	<string>This unit has reached its Max Level.
+Proceed to Level Limit Break?</string>
+	<key>CONFIRM_UNLOCK_SLOT</key>
+	<string>&lt;font color=&quot;red&quot;&gt;Includes unit with
+relased Mod slot&lt;/font&gt;
+
+Units used as material will
+be consumed.
+Continue?</string>
+	<key>CONFIRM_UNLOCK_POTENTIAL</key>
+	<string>&lt;font color=&quot;red&quot;&gt; Units with unlocked Potentials
+included.
+Deep-Log will be lost.&lt;/font&gt;
+
+Continue?</string>
+	<key>CONFIRM_LEVEL_LIMITBREAKED</key>
+	<string>&lt;font color=&quot;red&quot;&gt;Includes Level Limit Break
+unit(s).	
+Level Limit will not be carried over. &lt;/font&gt;	
+	
+Proceed with fusion anyway?</string>
+	<key>CANNOT_ENHANCE_ANYMORE</key>
+	<string>Unit cannot be enhanced further.
+Use caution when using materials.</string>
+	<key>CANNOT_LEVEL_LIMITBREAK</key>
+	<string>This unit is not available for Level Limit Break.</string>
+	<key>MESSAGE_NO_LEVEL_LIMIT_MATERIAL</key>
+	<string>You don't own materials needed for
+Level Limit Break.</string>
+	<key>CAPTION_ATTACK</key>
+	<string>ATK</string>
+	<key>CAPTION_HP</key>
+	<string>Life</string>
+	<key>CAPTION_HEAL</key>
+	<string>REC</string>
+	<key>CAPTION_SKILL</key>
+	<string>Alc</string>
+	<key>CAPTION_RAINBOW</key>
+	<string>Trans</string>
+	<key>CAPTION_HALF</key>
+	<string>HALF</string>
+	<key>CAPTION_FULL</key>
+	<string>MAX</string>
+	<key>CAPTION_LEVEL_AT</key>
+	<string>At Lv.%d,</string>
+	<key>CAPTION_LEVEL_UP_LIMIT</key>
+	<string>Level Limit Break up to Lv.%d.</string>
+	<key>CAPTION_OK</key>
+	<string>OK</string>
+	<key>CAPTION_BACK</key>
+	<string>Back</string>
+	<key>AUTO_ENHANCE_CANCEL</key>
+	<string>Autofusion settings canceled.</string>
+	<key>TUTORIAL_1</key>
+	<string>Let's try enhancing units.
+First, select a &lt;font color=&apos;yellow&apos;&gt;unit&lt;/font&gt; to enhance.
+
+This time, we prepared a unit for enhancing.
+Let's enhance this unit. </string>
+	<key>TUTORIAL_2</key>
+	<string>Select a unit to be used as &lt;font color=&apos;yellow&apos;&gt;material&lt;/font&gt;.</string>
+	<key>TUTORIAL_3</key>
+	<string>When enhancing units with material,
+we have to switch tabs </string>
+	<key>TUTORIAL_4</key>
+	<string> Since we have a unit for material,
+Let's use it. </string><key>TUTORIAL_5</key>
+	<string>As your unit's level increases it's
+&lt;font color=&apos;yellow&apos;&gt;status&lt;/font&gt; also increases.
+
+There are special materials that can
+increase a unit's level. </string><key>TUTORIAL_6</key>
+	<string>Let's try using materials.</string>
+	<key>TUTORIAL_7</key>
+	<string>Go to Materials.</string>
+	<key>TUTORIAL_8</key>
+	<string>&lt;font color=&apos;yellow&apos;&gt;Metal Ducks&lt;/font&gt;
+can help gain experience when
+used as material.
+For better results, use material with
+the same attribute as the target unit.</string>
+	<key>TUTORIAL_9</key>
+	<string>You can select multiple materials
+Choose the maximum amount.</string>
+	<key>TUTORIAL_SKILL_1</key>
+	<string>You can enhance&lt;font color=&apos;yellow&apos;&gt; Skill Level&lt;/font&gt;
+to strengthen unit's power.
+
+Try to enhance this unit's Skill Level.</string>
+	<key>TUTORIAL_SKILL_2</key>
+	<string>Next, select the material now!</string>
+	<key>TUTORIAL_SKILL_3</key>
+	<string>You can use &lt;font color=&apos;yellow&apos;&gt;Alchemy Fruit&lt;/font&gt;
+to enhance Skill Level.
+
+Try to select more than one material
+to enhance Skill Level to Max!</string>
+	<key>TUTORIAL_SKILL_4</key>
+	<string>Try to get Alchemy Fruit!</string>
+	<key>TUTORIAL_LIMITBREAK_1</key>
+	<string>About&lt;font color=&apos;yellow&apos;&gt; Limit Break&lt;/font&gt;.
+Enhance unit's stats
+to strengthen unit's power.
+
+Try to enhance this unit's stats! </string>
+	<key>TUTORIAL_LIMITBREAK_2</key>
+	<string>Next, select the material now!</string>
+	<key>TUTORIAL_LIMITBREAK_3</key>
+	<string>Use
+&lt;font color=&apos;yellow&apos;&gt;Attack Fruit,Healing Fruit, Vitality Fruit&lt;/font&gt;
+
+Try to use Attack Fruit
+to strengthen ATK now!</string>
+	<key>TUTORIAL_LIMITBREAK_4</key>
+	<string>You can select more than one fruit at once.
+Click + to use 10 fruits at once.</string>
+	<key>TUTORIAL_LIMITBREAK_5</key>
+	<string>You can auto-select materials
+to enhance unit to maximum stats.</string>
+	<key>TUTORIAL_LIMITBREAK_6</key>
+	<string>Automatically selected!
+	Try to use these materials to strengthen the unit!</string>
+	<key>TUTORIAL_LIMITBREAK_7</key>
+	<string>ATK +99 !
+Moreover, you can use &lt;font color=&apos;yellow&apos;&gt;Transcendent Fruit lt&lt;/font&gt;
+to strengthen unit futher than +99!
+Try to use &lt;font color=&apos;yellow&apos;&gt;Transcendent Fruit&lt;/font&gt; to strengthen status to +100</string>
+	<key>TUTORIAL_LIMITBREAK_8</key>
+	<string>Try to select &lt;font color=&apos;yellow&apos;&gt;Transcendent Fruit.&lt;/font&gt;</string>
+	<key>TUTORIAL_LIMITBREAK_9</key>
+	<string>It's all ready to ATK+100!
+Use &lt;font color=&apos;yellow&apos;&gt;Attack Fruit&lt;/font&gt; to strengthen ATK to +100.</string>
+	<key>TUTORIAL_LIMITBREAK_10</key>
+	<string>Try to get Transcendent Fruit!</string>
+	<key>TUTORIAL_ABILITY_UNLOCK_1</key>
+	<string>About&lt;font color=&apos;yellow&apos;&gt; Ability unlocking.&lt;/font&gt;
+You can unlock a unit's Abilities
+to strengthen unit's power.
+
+Let's try to unlock this unit's Ability.</string>
+	<key>TUTORIAL_ABILITY_UNLOCK_2</key>
+	<string>Please select the material.</string>
+	<key>TUTORIAL_ABILITY_UNLOCK_3</key>
+	<string>&lt;font color=&apos;yellow&apos;&gt;To unlock more Abilities, &lt;/font&gt;
+you have to increase unit's&lt;font color=&apos;yellow&apos;&gt; BUG &lt;/font&gt;to a certain level.
+You can use the same unit as the material
+to increase unit's BUG.
+
+Try to use the required material
+we have prepared for you.</string>
+	<key>TUTORIAL_ABILITY_UNLOCK_4</key>
+	<string>In addtion to consuming the same unit, you can also use BUG materials
+to increase a unit's BUG.
+
+We have prepared the required material for you this time.
+Please select the&lt;font color=&apos;yellow&apos;&gt; Nurupon.&lt;/font&gt;</string>
+	<key>ERROR_USED_TRAVERSAL</key>
+	<string>Currently in use for Enigma Quest,
+	cannot be selected.</string>
+	<key>TUTORIAL_DIALOG_BUTTON_1</key>
+	<string>Challenge</string>
+	<key>TUTORIAL_DIALOG_BUTTON_2</key>
+	<string>Skip</string>
+	<key>TUTORIAL_DIALOG_MESSAGE</key>
+	<string>Now you can challenge
+the Strengthen Unit tutorial quest.
+Try to challenge?
+
+If you skip the tutorial,
+the units available in the tutorial
+will be sent directly to the folder.</string>
+	<key>TUTORIAL_SKIP</key>
+	<string>Skip the tutorial.</string>
+
+	<key>TUTORIAL_DIALOG_MESSAGE_LIMITBREAK</key>
+	<string>Now you can challenge
+the Limit Break tutorial quest.
+Try to challenge?
+
+If you skip the tutorial,
+the units available in the tutorial
+will be sent directly to the folder.</string>
+	<key>TUTORIAL_SKIP_LIMITBREAK</key>
+	<string>Skip the tutorial.</string>
+
+	<key>TUTORIAL_DIALOG_MESSAGE_SKILL</key>
+	<string>Now you can challenge
+the Unit Skill tutorial quest.
+Try to challenge?
+
+If you skip the tutorial,
+the units available in the tutorial
+will be sent directly to your folder.</string>
+	<key>TUTORIAL_SKIP_SKILL</key>
+	<string>Skip the tutorial.</string>
+
+	<key>TUTORIAL_DIALOG_MESSAGE_ABILITY_UNLOCK</key>
+	<string>Now you can challenge
+the Unlocking Ability tutorial quest.
+Try to challenge?
+
+If you skip the tutorial,
+the units available in the tutorial
+will be sent directly to your folder.</string>
+	<key>TUTORIAL_SKIP_ABILITY_UNLOCK</key>
+	<string>Skip the tutorial.</string>
+	<key>TUTORIAL_DIALOG_MESSAGE_LEVEL_LIMITBREAK</key>
+	<string>You can challenge a tutorial on
+Level Limit Break.	
+Proceed?	
+	
+If skipped,	
+the status that are enhanced in the tutorial	
+will be reflected immediately.</string>
+	<key>TUTORIAL_SKIP_LEVEL_LIMITBREAK</key>
+	<string>You've skipped the
+Level Limit Break tutorial.</string>
+	<key>SEPARATOR_BUG_MATERIAL</key>
+	<string>BUG UP Material</string>
+	<key>TOAST_MATERIAL_SHORTAGE_MAX</key>
+	<string>Not enough materials for
+MAX Enhancement.</string>	
+	<key>TOAST_COST_SHORTAGE_MAX</key>
+	<string>Not enough Bits for
+MAX Enhancement.</string>	
+	<key>TOAST_MATERIAL_SHORTAGE</key>
+	<string>Not enough materials for
+Enhancement.</string>	
+	<key>TOAST_COST_SHORTAGE</key>
+	<string>Not enough Bits for
+Enhancement.</string>	
+	<key>CUSTOM_ENHANCE_ATENTTION</key>
+	<string>Custom Enhacement
+is unset.	
+	
+Register your preference via	
+Custom Enhancement button.</string>	
+	<key>TUTORIAL_LEVEL_LIMIT_1</key>
+	<string>The unit has reached Lv.99.
+Let's raise the Level Limit to	
+further enhance the unit.</string>
+	<key>TUTORIAL_LEVEL_LIMIT_2</key>
+	<string>Here, you can break the unit's Level Limit.
+Once you perform a Level Limit Break,	
+the unit's Level Limit will be lifted and can be enhanced beyond	
+&lt;font color=&apos;yellow&apos;&gt;Lv.99.&lt;/font&gt;	
+	
+	
+Let's try raising the Level Limit.</string>
+	<key>TUTORIAL_LEVEL_LIMIT_3</key>
+	<string>Next, choose a material.
+	
+For Level Limit Break, &lt;font color=&apos;yellow&apos;&gt;special materials&lt;/font&gt; are required.	
+This time, we have prepared the required unit and material for you,	
+so select them.</string>
+	<key>TUTORIAL_LEVEL_LIMIT_4</key>
+	<string>The unit's Level Limit has reached 100.
+If the Level Limit has just been raised,	
+the unit will remain the same strength as before.	
+Raise unit's level from Unit Enhancement to	
+further enhance the unit.</string>
+	<key>TUTORIAL_LEVEL_LIMIT_5</key>
+	<string>About Level Limit Break</string>
+</dict>
+</plist>

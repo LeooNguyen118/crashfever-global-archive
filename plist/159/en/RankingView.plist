@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?> <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> <plist version="1.0">
+<dict>
+	<key>CAPTION</key>
+	<string>Rank Quest</string>
+	<key>RANKING_PREVIEW</key>
+	<string>There are currently no
+active Rank Quests.</string>
+	<key>RANKING_RESULT</key>
+	<string>How were the ranking results?
+Try again sometime!</string>
+	<key>EVENT_PERIOD_SUNDAY</key>
+	<string>%m/%d (Sun) %H:%M</string>
+	<key>EVENT_PERIOD_MONDAY</key>
+	<string>%m/%d (Mon) %H:%M</string>
+	<key>EVENT_PERIOD_TUESDAY</key>
+	<string>%m/%d (Tue) %H:%M</string>
+	<key>EVENT_PERIOD_WEDNESDAY</key>
+	<string>%m/%d (Wed) %H:%M</string>
+	<key>EVENT_PERIOD_THURSDAY</key>
+	<string>%m/%d (Thu) %H:%M</string>
+	<key>EVENT_PERIOD_FRIDAY</key>
+	<string>%m/%d (Fri) %H:%M</string>
+	<key>EVENT_PERIOD_SATURDAY</key>
+	<string>%m/%d (Sat) %H:%M</string>
+	<key>EVENT_PERIOD_TIL_START</key>
+	<string> Start</string>
+	<key>EVENT_PERIOD_TIL_END</key>
+	<string> End</string>
+	<key>EVENT_TIL_START</key>
+	<string>Starts</string>
+	<key>EVENT_TIL_END</key>
+	<string>Ends</string>
+	<key>EVENT_REMAIN</key>
+	<string>in: </string>
+	<key>EVENT_REMAIN_MONTHS</key>
+	<string> mo</string>
+	<key>EVENT_REMAIN_DAYS</key>
+	<string> d</string>
+	<key>EVENT_REMAIN_HOURS</key>
+	<string> hr</string>
+	<key>EVENT_REMAIN_MINUTES</key>
+	<string> min</string>
+	<key>EVENT_REMAIN_SECONDS</key>
+	<string> sec</string>
+	<key>ERROR_RANK_SHORTAGE</key>
+	<string>Unlocks at rank %d</string>
+	<key>WARNING_TIMEOUT</key>
+	<string>PLEASE NOTE Only scores achieved before %H:%M on %m/%d are eligible for rankings.</string>
+	<key>RANKING_PREVIEW_LABEL</key>
+	<string>Upcoming</string>
+	<key>RANKING_CALCUATING_LABEL</key>
+	<string>Counting</string>
+	<key>RANKING_RESULT_LABEL</key>
+	<string>Results Shown</string>
+</dict>
+</plist> 

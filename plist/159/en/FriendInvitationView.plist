@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>CAPTION</key>
+<string>View / Enter Invitation Code</string>
+<key>PLACE_HOLDER</key>
+<string>000000000</string>
+<key>INVITATION_COMPLETE</key>
+<string>Invitation code accepted!</string>
+<key>INVITATION_INVALID_CODE</key>
+<string>Please enter the correct invitation code.</string>
+<key>MESSAGE_COPIED</key>
+<string>Copied code.</string>
+	<key>INVITATION_SNS</key>
+	<string>Let your friends know about the game on social media!</string>
+	<key>URL_SHARE_PREFIX_FOR_LINE</key>
+	<string>line://msg/text/</string>
+	<key>URL_SHARE_PREFIX_FOR_TWITTER</key>
+	<string>twitter://post?message=</string>
+	<key>URL_SHARE_PREFIX_FOR_FACEBOOK</key>
+	<string>fb://messaging?text=</string>
+	<key>URL_SHARE_PREFIX_FOR_EMAIL</key>
+	<string>mailto:?subject=Crash%20Fever%3A%20panel-busting%20RPG%20action%21&amp;body=</string>
+	<key>SHARE_MESSAGE_PREFIX_FOR_FRIENDS</key>
+	<string>The%20fever%20is%20even%20MORE%20fun%20with%20friends%21%20Let%27s%20smash%20some%20panels%20together%21%E3%80%90Invite%20Code%E3%80%91</string>
+	<key>SHARE_MESSAGE_SUFFIX_FOR_FRIENDS</key>
+	<string> Use%20this%20link%20to%20install%20the%20app%21%20http%3A%2F%2Fglb.crashfever.com%2Finstall</string>
+	<key>SHARE_MESSAGE_PREFIX_FOR_OTHERS</key>
+	<string>Crash%20Fever%3A%20panel-busting%20RPG%20action%21%E3%80%90Invite%20Code%E3%80%91</string>
+	<key>SHARE_MESSAGE_SUFFIX_FOR_OTHERS</key>
+	<string> Go%20to%20%22Friends%22%20%3E%20%22Enter%20Invitation%20Code%22%0D%0Aand%20input%20Invite%20ID%20to%20get%20a%20gift%21%20goo.gl%2FNR3i3r</string>
+<key>CALLING_MESSAGE</key>
+<string>Send your code to friends.</string>
+<key>INVITATION_SNS_REVIEW</key>
+<string>Tell your friends about the game on social media, and write us a review!</string>
+</dict>
+</plist>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?> <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> <plist version="1.0">
+<dict>
+	<key>OK</key>
+	<string>OK</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>WARNING_FORCE_REDUCE_EFFECT</key>
+	<string>To provide the smoothest possible gameplay experience on your device, certain visual effects will be reduced in multiplayer mode.</string>
+	<key>CP_VALUE_LABEL</key>
+	<string>Show panel, CP power</string>
+	<key>CHAIN_LABEL</key>
+	<string>Show chain order
+when panels destroyed.</string>
+	<key>SKIP_LABEL</key>
+	<string>Reduce attack animation</string>
+	<key>AUTO_SKIP_LABEL</key>
+	<string>Auto Count Skip</string>
+	<key>MESSAGE_SKIP_LABEL</key>
+	<string>Reduce dialogue</string>
+	<key>BOMB_RANGE_LABEL</key>
+	<string>Show blast range</string>
+	<key>AUTO_VIBRATION_LABEL</key>
+	<string>Notify with vibration when
+quest is completed during autoplay</string>
+	<key>PLAY_ANIMATION_LABEL</key>
+	<string>Play unit's
+animation.</string>
+	<key>EFFECT_LABEL</key>
+	<string>No cut scenes in quest</string>
+	<key>EFFECT_INFO_LABEL</key>
+	<string>Set to ON to reduce effects during quests
+and to reduce load.
+Effects will always be reduced during 2x Speed Skip.</string>
+</dict>
+</plist> 

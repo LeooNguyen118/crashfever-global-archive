@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UNIT_TAG_DESCRIPTION_STATUS_UP</key>
+	<string>Status Boost</string>
+	<key>UNIT_TAG_DESCRIPTION_TAP_UP</key>
+	<string>Tap Boost</string>
+	<key>UNIT_TAG_DESCRIPTION_PANEL_BREAK_JAMMER</key>
+	<string>Junk Break</string>
+	<key>UNIT_TAG_DESCRIPTION_PANEL_BREAK_DAMAGE</key>
+	<string>Damage
+Break</string>
+	<key>UNIT_TAG_DESCRIPTION_PANEL_BREAK_FREEZE</key>
+	<string>Protect
+Break</string>
+	<key>UNIT_TAG_DESCRIPTION_TOLERANCE_VIRUS</key>
+	<string>Virus Invalid</string>
+	<key>UNIT_TAG_DESCRIPTION_TOLERANCE_POISON</key>
+	<string>Poison
+Break</string>
+	<key>UNIT_TAG_DESCRIPTION_TOLERANCE_HACKING</key>
+	<string>Hacking Invalid</string>
+	<key>UNIT_TAG_DESCRIPTION_MULTI_CHAIN</key>
+	<string>Multi-chain</string>
+	<key>UNIT_TAG_DESCRIPTION_ACCEL_CHAIN</key>
+	<string>Accel
+chain</string>
+	<key>UNIT_TAG_DESCRIPTION_HEAL</key>
+	<string>Recover HP</string>
+	<key>UNIT_TAG_DESCRIPTION_CRASH_CONDITION</key>
+	<string>CP Spawn</string>
+	<key>UNIT_TAG_DESCRIPTION_SP_BOOST</key>
+	<string>Skill Boost</string>
+	<key>UNIT_TAG_DESCRIPTION_ATTACK_COMMAND</key>
+	<string>Join Attack</string>
+	<key>UNIT_TAG_DESCRIPTION_DAMAGE_UP</key>
+	<string>Damage Boost</string>
+	<key>UNIT_TAG_DESCRIPTION_PROVOCATION</key>
+	<string>Provoke</string>
+	<key>UNIT_TAG_DESCRIPTION_DAMAGE_BARRIER</key>
+	<string>Barrier</string>
+	<key>UNIT_TAG_DESCRIPTION_CHANGE_BOMB_RANGE</key>
+	<string>Blast Boost</string>
+	<key>UNIT_TAG_DESCRIPTION_DROP_BLOCK</key>
+	<string>Panel
+Drop</string>
+	<key>UNIT_TAG_DESCRIPTION_CHANGE_PANEL_RATIO</key>
+	<string>Panel
+Rate</string>
+	<key>UNIT_TAG_DESCRIPTION_DAMAGE</key>
+	<string>Skill Damage</string>
+	<key>UNIT_TAG_DESCRIPTION_COUNTER</key>
+	<string>Counter</string>
+	<key>UNIT_TAG_DESCRIPTION_GUARD_BREAK</key>
+	<string>Reduce DEF</string>
+	<key>UNIT_TAG_DESCRIPTION_PLAY_BGM</key>
+	<string>BGM</string>
+	<key>UNIT_TAG_DESCRIPTION_SET_BACKGROUND</key>
+	<string>Background</string>
+	<key>UNIT_TAG_DESCRIPTION_VIRUS</key>
+	<string>Inflict Virus</string>
+	<key>UNIT_TAG_DESCRIPTION_CRASH_GROWTH</key>
+	<string>CP Enhance</string>
+	<key>UNIT_TAG_DESCRIPTION_CHANGE_BLOCK</key>
+	<string>Panel Convert</string>
+	<key>UNIT_TAG_DESCRIPTION_CHANGE_MAGNET</key>
+	<string>Magnet Convert</string>
+	<key>UNIT_TAG_DESCRIPTION_HP_SPEND</key>
+	<string>Use HP</string>
+	<key>UNIT_TAG_DESCRIPTION_LASER</key>
+	<string>Laser</string>
+	<key>UNIT_TAG_DESCRIPTION_CHANGE_PAINT</key>
+	<string>Paint Panel
+Convert</string>
+	<key>UNIT_TAG_DESCRIPTION_ENHANCE_BLOCK</key>
+	<string>Panel Enhance</string>
+	<key>UNIT_TAG_DESCRIPTION_CHARGE_PANEL</key>
+	<string>Charge Panel</string>
+	<key>UNIT_TAG_DESCRIPTION_EXTRA_DAMAGE</key>
+	<string>Extra
+Damage</string>	
+	<key>UNIT_TAG_DESCRIPTION_UNDELETABLE</key>
+	<string>Unremovable</string>
+	<key>UNIT_TAG_ICO_TAP_UP</key>
+	<string>ico_TapUp.png</string>
+	<key>UNIT_TAG_ICO_PANEL_BREAK_JAMMER</key>
+	<string>ico_PanelBreakJammer.png</string>
+	<key>UNIT_TAG_ICO_PANEL_BREAK_DAMAGE</key>
+	<string>ico_PanelBreakDamage.png</string>
+	<key>UNIT_TAG_ICO_PANEL_BREAK_FREEZE</key>
+	<string>ico_PanelBreakFreeze.png</string>
+	<key>UNIT_TAG_ICO_PANEL_BREAK_WORM</key>
+	<string>ico_WormBreak.png</string>
+	<key>UNIT_TAG_ICO_TOLERANCE_VIRUS</key>
+	<string>ico_VirusInvalid.png</string>
+	<key>UNIT_TAG_ICO_TOLERANCE_POISON</key>
+	<string>ico_PoisonBreak.png</string>
+	<key>UNIT_TAG_ICO_TOLERANCE_HACKING</key>
+	<string>ico_HackInvalid.png</string>
+	<key>UNIT_TAG_ICO_MULTI_CHAIN</key>
+	<string>ico_Panelchain.png</string>
+	<key>UNIT_TAG_ICO_ACCEL_CHAIN</key>
+	<string>ico_Panelchain.png</string>
+	<key>UNIT_TAG_ICO_HEAL</key>
+	<string>ico_Regenerate.png</string>
+	<key>UNIT_TAG_ICO_CRASH_CONDITION</key>
+	<string>ico_CpanelShort.png</string>
+	<key>UNIT_TAG_ICO_ATTACK_COMMAND</key>
+	<string>ico_command.png</string>
+	<key>UNIT_TAG_ICO_PROVOCATION</key>
+	<string>ico_Provocation.png</string>
+	<key>UNIT_TAG_ICO_CHANGE_BOMB_RANGE</key>
+	<string>ico_bombBlastUp.png</string>
+	<key>UNIT_TAG_ICO_COUNTER</key>
+	<string>ico_Counter.png</string>
+	<key>UNIT_TAG_ICO_VIRUS</key>
+	<string>ico_Virus.png</string>
+	<key>UNIT_TAG_DESCRIPTION_PANEL_BREAK_WORM</key>
+	<string>Worm Break</string>
+	<key>UNIT_TAG_ICO_EXTRA_DAMAGE</key>
+	<string>ico_Exdamage.png</string>
+</dict>
+</plist>

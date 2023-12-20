@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CAPTION_NORMAL</key>
+	<string>Normal Quests</string>
+	<key>CAPTION_EXAM</key>
+	<string>Adapter Aptitude Test</string>
+	<key>CAPTION_EVENT</key>
+	<string>Event Quests</string>
+	<key>CAPTION_EVENT_SCHEDULE</key>
+	<string>Event Schedule</string>
+	<key>CAPTION_LOCK</key>
+	<string>Locked Quests</string>
+	<key>CAPTION_WEAPON</key>
+	<string>Mod Quest</string>
+	<key>CAPTION_ENHANCE</key>
+	<string>Enhancement Material Quest</string>
+	<key>CAPTION_STORY</key>
+	<string>Story</string>
+	<key>CAPTION_DAILY</key>
+	<string>Daily / Materials</string>
+	<key>CAPTION_SPECIAL</key>
+	<string>Special Quest</string>
+	<key>SOLO_ONLY</key>
+	<string>This quest is solo play only.</string>
+	<key>MULTI_ONLY</key>
+	<string>This quest is multiplayer only.
+Play with your friends!</string>
+	<key>GUERILLA_NOT_OPENED</key>
+	<string>This quest is planned to start at %s.
+Challenge Time-Limited Quest!</string>
+	<key>EVENT_SCHEDULE_TERM</key>
+	<string>%s-%s</string>
+	<key>EVENT_PERIOD_SUNDAY</key>
+	<string>%m/%d Sun %H:%M</string>
+	<key>EVENT_PERIOD_MONDAY</key>
+	<string>%m/%d Mon %H:%M</string>
+	<key>EVENT_PERIOD_TUESDAY</key>
+	<string>%m/%d Tue %H:%M</string>
+	<key>EVENT_PERIOD_WEDNESDAY</key>
+	<string>%m/%d Wed %H:%M</string>
+	<key>EVENT_PERIOD_THURSDAY</key>
+	<string>%m/%d Thu %H:%M</string>
+	<key>EVENT_PERIOD_FRIDAY</key>
+	<string>%m/%d Fri %H:%M</string>
+	<key>EVENT_PERIOD_SATURDAY</key>
+	<string>%m/%d Sat %H:%M</string>
+	<key>WEEKLY_START_DATE</key>
+	<string>%Y-%m-%d 00:00:00</string>
+	<key>WEEKLY_END_DATE</key>
+	<string>%Y-%m-%d 23:59:59</string>
+	<key>GUERILLA_TERM</key>
+	<string>%s-%s</string>
+	<key>GUERILLA_TERM_CLOSED</key>
+	<string>Ended</string>
+	<key>EVENT_REMAIN</key>
+	<string>Til: </string>
+	<key>EVENT_REMAIN_MONTHS</key>
+	<string> mo</string>
+	<key>EVENT_REMAIN_DAYS</key>
+	<string> d</string>
+	<key>EVENT_REMAIN_HOURS</key>
+	<string> hr</string>
+	<key>EVENT_REMAIN_MINUTES</key>
+	<string> mi</string>
+	<key>EVENT_REMAIN_SECONDS</key>
+	<string> s</string>
+	<key>FREE_UNLOCK_REMAIN</key>
+	<string>Free play: %d time</string>
+	<key>UNLOCK_CONDITIONS</key>
+	<string>Unlock with %s</string>
+	<key>UNLOCK_LIMIT</key>
+	<string>(%d time(s) left today)</string>
+	<key>UNLOCK_CLOSED</key>
+	<string>No more tries available.</string>
+	<key>UNLOCK_CONFIRM</key>
+	<string>Unlock with %s.
+(Owned %s) Unlock?</string>
+	<key>UNLOCK_CONFIRM_FREE</key>
+	<string>Quest can be unlocked
+for free.
+Unlock Quest？</string>
+	<key>UNLOCK_CONFIRM_FREE_LAST</key>
+	<string>Quest can be unlocked for free.
+Except &lt;font color=&quot;yellow&quot;&gt;%s&lt;/font&gt;
+Locked Quest can be unlocked for free.
+Unlock Quest？</string>
+	<key>UNLOCK_POLYGON_SHORTAGE</key>
+	<string>&lt;font color="red"&gt;%d&lt;/font&gt; Polygons needed.
+Purchase additional Polygons to continue.</string>
+	<key>UNLOCK_EVENT_ITEM_SHORTAGE</key>
+	<string>%s &lt;font color=&quot;red&quot;&gt;%s&lt;/font&gt; needed
+to unlock.</string>
+	<key>DAILY_LIMIT_REACHED</key>
+	<string>Play limit reached.
+	Reset in %s</string>
+	<key>DAILY_LIMIT_RESET_TIME</key>
+	<string>Play count reset in %s</string>
+	<key>QUEST_OPEN_COUNTDOWN</key>
+	<string>%s until unlock</string>
+	<key>QUEST_OPEN_DATE</key>
+	<string>Unlocked on %m/%d %H:%M</string>
+	<key>QUEST_OPEN_DATE_DIALOG</key>
+	<string>This quest will unlock on
+%m/%d %H:%M.</string>
+	<key>POLYGON</key>
+	<string>Polygons:</string>
+	<key>ITEM_WITH_COLOR</key>
+	<string>&lt;font color="orange"&gt;%s&lt;/font&gt;</string>
+	<key>QUANTITY</key>
+	<string>%d</string>
+	<key>QUANTITY_WITH_COLOR</key>
+	<string>&lt;font color="red"&gt;%d&lt;/font&gt;</string>
+	<key>PURCHASE</key>
+	<string>Purchase</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>RANK_CONDITION</key>
+	<string>Reach Rank %d to unlock.</string>
+	<key>PUSH_NOTIFICATION_SCHEDULE_MESSAGE</key>
+	<string>Push notifications are OFF.
+Turn on notifications？</string>
+	<key>EVENT_QUEST_SCHEDULE_TERM</key>
+	<string>%s - 
+%s</string>
+	<key>CAPTION_BINGO</key>
+	<string>Enigma</string>
+	<key>DROP_UNIT_RARITY</key>
+	<string>%d★</string>
+	<key>LOCK_KEYS_DIALOG_NO_KEYS</key>
+	<string>No Lock Quest Key
+available.</string>
+	<key>LOCK_KEYS_DIALOG_CLOSE_BUTTON</key>
+	<string>Close</string>
+	<key>LOCK_KEYS_DIALOG_HEADER</key>
+	<string>Key List</string>
+	<key>LOCK_KEYS_FREE_KEYS_MESSAGE</key>
+	<string>Free plays today: %d</string>
+	<key>EVENT_AREA_SEPARATOR_COLLABO</key>
+	<string>Crossover</string>
+	<key>EVENT_AREA_SEPARATOR_EVENT</key>
+	<string>Limited Time Event</string>
+	<key>EVENT_AREA_SEPARATOR_OTHER</key>
+	<string>Regular Event</string>
+	<key>EVENT_AREA_SEPARATOR_DAILY</key>
+	<string>Daily</string>
+	<key>EVENT_AREA_SEPARATOR_ENHANCE</key>
+	<string>Materials</string>
+	<key>EVENT_AREA_TAB_COLLABO</key>
+	<string>Crossover</string>
+	<key>EVENT_AREA_TAB_EVENT</key>
+	<string>Limited Time</string>
+	<key>EVENT_AREA_TAB_OTHER</key>
+	<string>Regular</string>
+	<key>EVENT_AREA_TAB_DAILY</key>
+	<string>Daily</string>
+	<key>EVENT_AREA_TAB_ENHANCE</key>
+	<string>Materials</string>
+	<key>NORMAL_AREA_TAB</key>
+	<string>Normal</string>
+	<key>STORY_AREA_TAB</key>
+	<string>Story</string>
+	<key>STORY_QUEST_EMPTY</key>
+	<string>Story Quest Coming Soon</string>
+	<key>MESSAGE_NO_ITEM_EVENT</key>
+	<string>No Quests 
+Currently Available</string>
+	<key>STORY_UNLOCK_TITLE</key>
+	<string>Clear quest %s
+to unlock.</string>
+	<key>STORY_UNLOCK_DIALOG</key>
+	<string>Clear quest %s
+to unlock.</string>
+	<key>STORY_COMING_SOON</key>
+	<string>Coming soon.</string>
+	<key>LOCK_KEYS_MESSAGE</key>
+	<string>Use key to unlock quest!</string>
+	<key>WEAPON_BANNER_TEXT</key>
+	<string>Equip Mods to enhance your units!</string>
+	<key>EXAM_BANNER_TEXT</key>
+	<string>Challenge the next level of difficulty!</string>
+	<key>LOCK_BANNER_TEXT</key>
+	<string>Daily Free %d time(s) left!</string>
+	<key>TUTORIAL_LOCK_QUEST_1</key>
+	<string>Available quests are
+sorted by difficulty and attributes.	
+This time, choose Ultimate.</string>	
+	<key>TUTORIAL_LOCK_QUEST_2</key>
+	<string>Choose Green attributes.</string>
+</dict>
+</plist>
