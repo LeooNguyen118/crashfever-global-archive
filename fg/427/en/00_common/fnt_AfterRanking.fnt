@@ -1,0 +1,23 @@
+info face="fnt_AfterRanking" size=32 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1
+common lineHeight=86 base=26 scaleW=512 scaleH=256 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="fnt_AfterRanking.png"
+chars count=17
+char id=49 x=195 y=153 width=42 height=73 xoffset=0 yoffset=12 xadvance=32 page=0 chnl=0 letter="1"
+char id=50 x=194 y=0 width=61 height=75 xoffset=0 yoffset=10 xadvance=51 page=0 chnl=0 letter="2"
+char id=51 x=65 y=151 width=64 height=76 xoffset=0 yoffset=10 xadvance=54 page=0 chnl=0 letter="3"
+char id=52 x=0 y=0 width=66 height=73 xoffset=0 yoffset=12 xadvance=56 page=0 chnl=0 letter="4"
+char id=53 x=131 y=0 width=62 height=74 xoffset=0 yoffset=12 xadvance=52 page=0 chnl=0 letter="5"
+char id=54 x=0 y=151 width=64 height=75 xoffset=0 yoffset=11 xadvance=54 page=0 chnl=0 letter="6"
+char id=55 x=131 y=75 width=61 height=73 xoffset=0 yoffset=12 xadvance=51 page=0 chnl=0 letter="7"
+char id=56 x=0 y=74 width=65 height=76 xoffset=0 yoffset=10 xadvance=55 page=0 chnl=0 letter="8"
+char id=57 x=66 y=74 width=64 height=75 xoffset=0 yoffset=11 xadvance=54 page=0 chnl=0 letter="9"
+char id=48 x=130 y=150 width=64 height=75 xoffset=0 yoffset=11 xadvance=54 page=0 chnl=0 letter="0"
+char id=44 x=238 y=196 width=29 height=39 xoffset=0 yoffset=57 xadvance=19 page=0 chnl=0 letter=","
+char id=45 x=0 y=227 width=46 height=26 xoffset=0 yoffset=44 xadvance=36 page=0 chnl=0 letter="-"
+char id=43 x=67 y=0 width=62 height=57 xoffset=0 yoffset=28 xadvance=52 page=0 chnl=0 letter="+"
+char id=47 x=195 y=76 width=48 height=76 xoffset=0 yoffset=10 xadvance=38 page=0 chnl=0 letter="/"
+char id=115 x=238 y=153 width=41 height=42 xoffset=0 yoffset=30 xadvance=31 page=0 chnl=0 letter="s"
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=30 page=0 chnl=0 letter=" "
+char id=9 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=240 page=0 chnl=0 letter="	"
+
+kernings count=0

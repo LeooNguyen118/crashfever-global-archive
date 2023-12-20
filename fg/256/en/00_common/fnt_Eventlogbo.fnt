@@ -1,0 +1,20 @@
+info face="fnt_Eventlogbo" size=32 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=-1,-1
+common lineHeight=20 base=26 scaleW=65 scaleH=68 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="fnt_Eventlogbo.png"
+chars count=14
+char id=48 x=0 y=36 width=16 height=19 xoffset=0 yoffset=1 xadvance=14 page=0 chnl=0 letter="0"
+char id=49 x=55 y=0 width=11 height=19 xoffset=0 yoffset=1 xadvance=9 page=0 chnl=0 letter="1"
+char id=50 x=44 y=18 width=15 height=19 xoffset=0 yoffset=1 xadvance=13 page=0 chnl=0 letter="2"
+char id=51 x=15 y=18 width=16 height=19 xoffset=0 yoffset=1 xadvance=14 page=0 chnl=0 letter="3"
+char id=52 x=0 y=18 width=16 height=19 xoffset=0 yoffset=1 xadvance=14 page=0 chnl=0 letter="4"
+char id=53 x=30 y=18 width=15 height=19 xoffset=0 yoffset=1 xadvance=13 page=0 chnl=0 letter="5"
+char id=54 x=43 y=36 width=15 height=19 xoffset=0 yoffset=1 xadvance=13 page=0 chnl=0 letter="6"
+char id=55 x=15 y=36 width=15 height=19 xoffset=0 yoffset=1 xadvance=13 page=0 chnl=0 letter="7"
+char id=56 x=41 y=0 width=15 height=19 xoffset=0 yoffset=1 xadvance=13 page=0 chnl=0 letter="8"
+char id=57 x=29 y=36 width=15 height=19 xoffset=0 yoffset=1 xadvance=13 page=0 chnl=0 letter="9"
+char id=120 x=0 y=54 width=14 height=15 xoffset=0 yoffset=5 xadvance=12 page=0 chnl=0 letter="x"
+char id=110 x=0 y=0 width=42 height=19 xoffset=0 yoffset=1 xadvance=40 page=0 chnl=0 letter="n"
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=0 page=0 chnl=0 letter=" "
+char id=9 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=0 page=0 chnl=0 letter="	"
+
+kernings count=0

@@ -1,0 +1,21 @@
+info face="fnt_Raid_Count-export" size=32 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=-1,-1
+common lineHeight=69 base=26 scaleW=169 scaleH=181 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="fnt_Raid_Count-export.png"
+chars count=15
+char id=48 x=128 y=135 width=39 height=46 xoffset=0 yoffset=23 xadvance=33 page=0 chnl=0 letter="0"
+char id=49 x=112 y=0 width=36 height=45 xoffset=0 yoffset=23 xadvance=30 page=0 chnl=0 letter="1"
+char id=50 x=111 y=44 width=43 height=47 xoffset=0 yoffset=22 xadvance=37 page=0 chnl=0 letter="2"
+char id=51 x=68 y=89 width=44 height=46 xoffset=0 yoffset=23 xadvance=38 page=0 chnl=0 letter="3"
+char id=52 x=70 y=0 width=43 height=45 xoffset=0 yoffset=23 xadvance=37 page=0 chnl=0 letter="4"
+char id=53 x=86 y=134 width=43 height=46 xoffset=0 yoffset=23 xadvance=37 page=0 chnl=0 letter="5"
+char id=54 x=68 y=44 width=44 height=46 xoffset=0 yoffset=23 xadvance=38 page=0 chnl=0 letter="6"
+char id=55 x=128 y=90 width=42 height=46 xoffset=0 yoffset=22 xadvance=36 page=0 chnl=0 letter="7"
+char id=56 x=43 y=135 width=44 height=47 xoffset=0 yoffset=22 xadvance=38 page=0 chnl=0 letter="8"
+char id=57 x=0 y=135 width=44 height=46 xoffset=0 yoffset=23 xadvance=38 page=0 chnl=0 letter="9"
+char id=104 x=0 y=91 width=53 height=45 xoffset=0 yoffset=23 xadvance=47 page=0 chnl=0 letter="h"
+char id=109 x=0 y=0 width=71 height=45 xoffset=0 yoffset=23 xadvance=65 page=0 chnl=0 letter="m"
+char id=100 x=0 y=44 width=69 height=48 xoffset=0 yoffset=23 xadvance=63 page=0 chnl=0 letter="d"
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=33 page=0 chnl=0 letter=" "
+char id=9 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=33 page=0 chnl=0 letter="	"
+
+kernings count=0
