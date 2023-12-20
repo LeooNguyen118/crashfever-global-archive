@@ -1,0 +1,22 @@
+info face="fnt_AttackFire1" size=32 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1
+common lineHeight=45 base=26 scaleW=115 scaleH=122 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="fnt_AttackFire1.png"
+chars count=16
+char id=49 x=88 y=65 width=19 height=32 xoffset=0 yoffset=13 xadvance=12 page=0 chnl=0 letter="1"
+char id=50 x=0 y=33 width=30 height=32 xoffset=0 yoffset=13 xadvance=21 page=0 chnl=0 letter="2"
+char id=51 x=30 y=0 width=29 height=32 xoffset=0 yoffset=13 xadvance=22 page=0 chnl=0 letter="3"
+char id=52 x=59 y=65 width=29 height=32 xoffset=0 yoffset=13 xadvance=21 page=0 chnl=0 letter="4"
+char id=53 x=30 y=33 width=29 height=32 xoffset=0 yoffset=13 xadvance=22 page=0 chnl=0 letter="5"
+char id=54 x=60 y=29 width=28 height=32 xoffset=0 yoffset=13 xadvance=21 page=0 chnl=0 letter="6"
+char id=55 x=88 y=0 width=27 height=32 xoffset=0 yoffset=13 xadvance=19 page=0 chnl=0 letter="7"
+char id=56 x=0 y=0 width=30 height=32 xoffset=0 yoffset=13 xadvance=22 page=0 chnl=0 letter="8"
+char id=57 x=30 y=65 width=29 height=32 xoffset=0 yoffset=13 xadvance=21 page=0 chnl=0 letter="9"
+char id=48 x=0 y=65 width=30 height=32 xoffset=0 yoffset=13 xadvance=23 page=0 chnl=0 letter="0"
+char id=58 x=59 y=97 width=18 height=24 xoffset=0 yoffset=17 xadvance=11 page=0 chnl=0 letter=":"
+char id=47 x=88 y=33 width=24 height=32 xoffset=0 yoffset=13 xadvance=17 page=0 chnl=0 letter="/"
+char id=43 x=60 y=0 width=28 height=28 xoffset=0 yoffset=15 xadvance=21 page=0 chnl=0 letter="+"
+char id=45 x=0 y=98 width=28 height=16 xoffset=0 yoffset=21 xadvance=21 page=0 chnl=0 letter="-"
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=19 page=0 chnl=0 letter=" "
+char id=9 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=0 page=0 chnl=0 letter="	"
+
+kernings count=0
